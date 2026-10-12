@@ -1,0 +1,669 @@
+import { useEffect, useRef, useState } from "react";
+import { useNavigate, useSearchParams } from "react-router-dom";
+import { api, mutation } from "../lib/api";
+import { useApp } from "../lib/context";
+import {
+  Field,
+  ErrorMessage,
+  Loading,
+  InterestPicker,
+  ModeNotice,
+  Icon,
+  ExternalLink,
+} from "../components/UI";
+const tomorrow = (offset) => {
+  const d = new Date();
+  d.setUTCDate(d.getUTCDate() + offset);
+  return d.toISOString().slice(0, 10);
+};
+export function CityField({ label, name, code, onChange }) {
+  const { t } = useApp();
+  const [query, setQuery] = useState(name || ""),
+    [results, setResults] = useState([]),
+    [busy, setBusy] = useState(false),
+    [error, setError] = useState(null),
+    [open, setOpen] = useState(false);
+  const wrapper = useRef();
+  useEffect(() => setQuery(name || ""), [name]);
+  useEffect(() => {
+    if (!open || query.trim().length < 2) {
+      setResults([]);
+      return;
+    }
+    const controller = new AbortController();
+    const id = setTimeout(async () => {
+      setBusy(true);
+      setError(null);
+      try {
+        setResults(
+          await api(
+            "/destinations/search?q=" + encodeURIComponent(query.trim()),
+            { signal: controller.signal },
+          ),
+        );
+      } catch (e) {
+        if (e.name !== "AbortError") setError(e);
+      } finally {
+        if (!controller.signal.aborted) setBusy(false);
+      }
+    }, 250);
+    return () => {
+      clearTimeout(id);
+      controller.abort();
+    };
+  }, [query, open]);
+  return (
+    <div
+      className="city-field"
+      ref={wrapper}
+      onBlur={(e) => {
+        if (!wrapper.current.contains(e.relatedTarget)) setOpen(false);
+      }}
+    >
+      <Field label={label}>
+        <input
+          value={query}
+          required
+          minLength={2}
+          autoComplete="off"
+          role="combobox"
+          aria-expanded={open}
+          aria-autocomplete="list"
+          placeholder={t(
+            "Search city or airport code",
+            "ابحث بالمدينة أو رمز المطار",
+          )}
+          onFocus={() => setOpen(true)}
+          onChange={(e) => {
+            setQuery(e.target.value);
+            onChange(e.target.value, "");
+            setOpen(true);
+          }}
+          onKeyDown={(e) => {
+            if (e.key === "Escape") setOpen(false);
+          }}
+        />
+      </Field>
+      {code && (
+        <small className="city-selected">
+          {code} · {t("Selected", "تم الاختيار")}
+        </small>
+      )}
+      {open && query.length >= 2 && (
+        <div className="city-results" role="listbox" aria-label={label}>
+          <ErrorMessage error={error} />
+          {busy ? (
+            <p role="status">{t("Searching…", "جارٍ البحث…")}</p>
+          ) : results.length ? (
+            results.map((city) => (
+              <button
+                key={city.id || city.code}
+                type="button"
+                role="option"
+                aria-selected={code === (city.cityCode || city.code)}
+                onClick={() => {
+                  onChange(city.name, city.cityCode || city.code);
+                  setQuery(city.name);
+                  setOpen(false);
+                }}
+              >
+                <span>{city.name}</span>
+                <strong>{city.cityCode || city.code}</strong>
+              </button>
+            ))
+          ) : (
+            <p>
+              {t(
+                "No matching cities. Try a city name in English or an airport code.",
+                "لا توجد مدن مطابقة. جرّب اسم المدينة بالإنجليزية أو رمز المطار.",
+              )}
+            </p>
+          )}
+        </div>
+      )}
+    </div>
+  );
+}
+export function OfferCard({ offer, kind, selected, onSelect }) {
+  const { t, money, date } = useApp();
+  const flight = kind === "flight";
+  return (
+    <article className={"offer-card " + (selected ? "selected" : "")}>
+      <div className="offer-top">
+        <span className="round-icon">
+          <Icon name={flight ? "book" : "heritage"} />
+        </span>
+        <div>
+          <h3>
+            {flight ? offer.airlineName || offer.airlineCode : offer.name}
+          </h3>
+          <p>
+            {flight
+              ? `${offer.origin} → ${offer.destination}`
+              : offer.stars
+                ? `${offer.stars} ${t("stars", "نجوم")}`
+                : t("Star rating unavailable", "تصنيف النجوم غير متاح")}
+          </p>
+        </div>
+        <strong>{money(offer.price, offer.currency)}</strong>
+      </div>
+      {flight ? (
+        <>
+          <p>
+            {t("Outbound", "الذهاب")}:{" "}
+            <bdi>
+              {offer.departureTime?.replace("T", " ")} →{" "}
+              {offer.arrivalTime?.replace("T", " ")}
+            </bdi>
+          </p>
+          <p>
+            {t("Return", "العودة")}:{" "}
+            <bdi>
+              {offer.returnDepartureTime?.replace("T", " ")} →{" "}
+              {offer.returnArrivalTime?.replace("T", " ")}
+            </bdi>
+          </p>
+          <p>
+            {t("Stops: ", "التوقفات: ")}
+            {offer.stops} / {offer.returnStops ?? offer.stops} ·{" "}
+            {t("Round trip, all travelers", "ذهاب وعودة، لجميع المسافرين")}
+          </p>
+        </>
+      ) : (
+        <p>
+          {date(offer.checkIn)} — {date(offer.checkOut)} · {offer.rooms || 1}{" "}
+          {t("room(s), full stay", "غرفة، كامل الإقامة")}
+        </p>
+      )}
+      <small className="muted">
+        {offer.provider === "mock"
+          ? t("Development fixture", "بيانات تجريبية")
+          : t("Search snapshot", "سعر وقت البحث")}{" "}
+        · {offer.observedAt && new Date(offer.observedAt).toLocaleString()}
+      </small>
+      <div className="button-row">
+        <button
+          type="button"
+          className={"button small " + (selected ? "" : "secondary")}
+          aria-pressed={selected}
+          onClick={() => onSelect(offer.id)}
+        >
+          {selected ? t("Selected", "تم الاختيار") : t("Select", "اختيار")}
+        </button>
+        <ExternalLink href={offer.bookingUrl} className="text-button">
+          {t("Provider search", "البحث لدى المزوّد")}
+        </ExternalLink>
+      </div>
+    </article>
+  );
+}
+export function Planner() {
+  const { t, language, mode } = useApp(),
+    navigate = useNavigate();
+  const [search] = useSearchParams();
+  const editId = search.get("trip");
+  const [trip, setTrip] = useState(() => ({
+    origin: "",
+    originCode: "",
+    destination: search.get("destination") || "",
+    destinationCode: "",
+    startDate: search.get("startDate") || tomorrow(30),
+    endDate: tomorrow(34),
+    adults: 1,
+    children: 0,
+    totalBudget: search.get("budget") || "3000",
+    currency: search.get("currency") || "USD",
+    interests: ["history", "food"],
+    language,
+    preferences: {
+      flightOption: "cheapest",
+      directPreferred: false,
+      hotelStars: 3,
+      pace: "balanced",
+      foodDaily: "40",
+      transportDaily: "25",
+      otherCosts: "0",
+    },
+  }));
+  const [step, setStep] = useState(0),
+    [tripId, setTripId] = useState(editId),
+    [offers, setOffers] = useState({ flights: [], hotels: [] }),
+    [choice, setChoice] = useState({ flightId: "", hotelId: "" }),
+    [busy, setBusy] = useState(false),
+    [error, setError] = useState(null),
+    [initial, setInitial] = useState(!!editId);
+  useEffect(() => {
+    if (editId)
+      api("/trips/" + editId)
+        .then((data) => {
+          const { id, status, createdAt, plans, ...input } = data;
+          setTrip(input);
+        })
+        .catch(setError)
+        .finally(() => setInitial(false));
+    else
+      api("/users/me/preferences")
+        .then((p) =>
+          setTrip((tr) => ({
+            ...tr,
+            currency: search.get("currency") || p.currency,
+            interests: p.interests.length ? p.interests : tr.interests,
+            preferences: {
+              ...tr.preferences,
+              hotelStars: p.hotelStars,
+              flightOption: p.flightOption,
+              pace: p.pace,
+            },
+          })),
+        )
+        .catch(() => {});
+  }, [editId]);
+  const set = (key, value) => setTrip((prev) => ({ ...prev, [key]: value }));
+  const pref = (key, value) =>
+    setTrip((prev) => ({
+      ...prev,
+      preferences: { ...prev.preferences, [key]: value },
+    }));
+  const fail = (en, ar) => setError(new Error(t(en, ar)));
+  async function next(e) {
+    e.preventDefault();
+    setError(null);
+    if (step === 0) {
+      if (!trip.originCode || !trip.destinationCode)
+        return fail(
+          "Select origin and destination from the search results.",
+          "اختر المغادرة والوجهة من نتائج البحث.",
+        );
+      if (trip.originCode === trip.destinationCode)
+        return fail(
+          "Origin and destination must differ.",
+          "يجب أن تختلف المغادرة عن الوجهة.",
+        );
+      const nights =
+        (Date.parse(trip.endDate) - Date.parse(trip.startDate)) / 864e5;
+      if (
+        nights < 1 ||
+        nights > 21 ||
+        trip.startDate < new Date().toISOString().slice(0, 10)
+      )
+        return fail(
+          "Choose future dates for 1–21 nights.",
+          "اختر تواريخ مستقبلية لمدة ١–٢١ ليلة.",
+        );
+      if (trip.adults + trip.children > 9)
+        return fail(
+          "Choose no more than nine travelers.",
+          "اختر تسعة مسافرين كحد أقصى.",
+        );
+      setStep(1);
+      return;
+    }
+    if (step === 1) {
+      if (!trip.interests.length)
+        return fail(
+          "Select at least one interest.",
+          "اختر اهتماماً واحداً على الأقل.",
+        );
+      setBusy(true);
+      try {
+        const saved = await mutation(
+          tripId ? "/trips/" + tripId : "/trips",
+          tripId ? "PATCH" : "POST",
+          { ...trip, language },
+        );
+        setTripId(saved.id);
+        setChoice({ flightId: "", hotelId: "" });
+        const results = await Promise.all([
+          api("/flights/search?tripId=" + saved.id),
+          api("/hotels/search?tripId=" + saved.id),
+        ]);
+        setOffers({ flights: results[0].offers, hotels: results[1].offers });
+        setStep(2);
+      } catch (err) {
+        setError(err);
+      } finally {
+        setBusy(false);
+      }
+      return;
+    }
+    if (!choice.flightId || !choice.hotelId)
+      return fail(
+        "Select a flight and a hotel first.",
+        "اختر رحلة طيران وفندقاً أولاً.",
+      );
+    setBusy(true);
+    try {
+      const plan = await mutation("/plans/generate", "POST", {
+        tripId,
+        ...choice,
+      });
+      navigate("/plans/" + plan.id);
+    } catch (err) {
+      setError(err);
+    } finally {
+      setBusy(false);
+    }
+  }
+  async function refreshOffers() {
+    setBusy(true);
+    setError(null);
+    try {
+      const [f, h] = await Promise.all([
+        api("/flights/search?tripId=" + tripId),
+        api("/hotels/search?tripId=" + tripId),
+      ]);
+      setOffers({ flights: f.offers, hotels: h.offers });
+      setChoice({ flightId: "", hotelId: "" });
+    } catch (e) {
+      setError(e);
+    } finally {
+      setBusy(false);
+    }
+  }
+  if (initial) return <Loading />;
+  return (
+    <section className="container planner-page">
+      <span className="eyebrow">GILGAMISH</span>
+      <h1>
+        {editId
+          ? t("Refine your journey", "حسّن رحلتك")
+          : t("Every great journey starts with you.", "كل رحلة رائعة تبدأ بك.")}
+      </h1>
+      <p className="lead">
+        {t(
+          "Tell us what matters. We’ll bring your itinerary together.",
+          "أخبرنا بما يهمّك. لنجمع تفاصيل رحلتك.",
+        )}
+      </p>
+      <ol className="steps">
+        {[
+          ["Your journey", "رحلتك"],
+          ["Your preferences", "تفضيلاتك"],
+          ["Choose & generate", "اختر وأنشئ"],
+        ].map((s, i) => (
+          <li
+            key={i}
+            aria-current={step === i ? "step" : undefined}
+            className={step >= i ? "active" : ""}
+          >
+            <span>{i + 1}</span>
+            {t(...s)}
+          </li>
+        ))}
+      </ol>
+      <ModeNotice mode={mode} />
+      <form onSubmit={next}>
+        <ErrorMessage error={error} />
+        {busy && (
+          <Loading
+            label={
+              step === 2
+                ? t("Crafting your itinerary…", "جارٍ تصميم برنامجك…")
+                : t("Finding travel options…", "جارٍ البحث عن خيارات السفر…")
+            }
+          />
+        )}
+        <fieldset disabled={busy}>
+          <div hidden={step !== 0} className="panel planner-panel">
+            <h2>
+              {t("Where will your story take you?", "إلى أين ستأخذك حكايتك؟")}
+            </h2>
+            <div className="form-grid">
+              <CityField
+                label={t("Origin", "المغادرة")}
+                name={trip.origin}
+                code={trip.originCode}
+                onChange={(name, code) =>
+                  setTrip({ ...trip, origin: name, originCode: code })
+                }
+              />
+              <CityField
+                label={t("Destination", "الوجهة")}
+                name={trip.destination}
+                code={trip.destinationCode}
+                onChange={(name, code) =>
+                  setTrip({ ...trip, destination: name, destinationCode: code })
+                }
+              />
+              <Field
+                label={t("Departure date", "تاريخ المغادرة")}
+                type="date"
+                value={trip.startDate}
+                min={tomorrow(0)}
+                onChange={(e) => set("startDate", e.target.value)}
+                required
+              />
+              <Field
+                label={t("Return date", "تاريخ العودة")}
+                type="date"
+                value={trip.endDate}
+                min={trip.startDate}
+                onChange={(e) => set("endDate", e.target.value)}
+                required
+              />
+              <Field
+                label={t("Adults (12+)", "البالغون (١٢+)")}
+                type="number"
+                min="1"
+                max="9"
+                value={trip.adults}
+                onChange={(e) => set("adults", Number(e.target.value))}
+                required
+              />
+              <Field
+                label={t("Children (2–11)", "الأطفال (٢–١١)")}
+                type="number"
+                min="0"
+                max="8"
+                value={trip.children}
+                onChange={(e) => set("children", Number(e.target.value))}
+                required
+              />
+              <Field
+                label={t("Total trip budget", "ميزانية الرحلة الإجمالية")}
+                type="number"
+                min="0.01"
+                max="99999999"
+                step="0.01"
+                value={trip.totalBudget}
+                onChange={(e) => set("totalBudget", e.target.value)}
+                required
+              />
+              <Field label={t("Currency", "العملة")}>
+                <select
+                  value={trip.currency}
+                  onChange={(e) => set("currency", e.target.value)}
+                >
+                  {["USD", "SAR", "EUR", "GBP", "AED", "TRY"].map((c) => (
+                    <option key={c}>{c}</option>
+                  ))}
+                </select>
+              </Field>
+            </div>
+            {mode === "live" && (
+              <p className="notice">
+                {t(
+                  "Live hotel results currently support adults in one room. Child occupancy is not available.",
+                  "نتائج الفنادق المباشرة تدعم البالغين في غرفة واحدة حالياً. تسعير إقامة الأطفال غير متاح.",
+                )}
+              </p>
+            )}
+          </div>
+          <div hidden={step !== 1} className="panel planner-panel">
+            <h2>
+              {t("Make this journey yours.", "اجعل هذه الرحلة على ذوقك.")}
+            </h2>
+            <label className="field">
+              <span>{t("Your interests", "اهتماماتك")}</span>
+            </label>
+            <InterestPicker
+              value={trip.interests}
+              onChange={(v) => set("interests", v)}
+            />
+            <div className="form-grid">
+              <Field label={t("Travel pace", "إيقاع الرحلة")}>
+                <select
+                  value={trip.preferences.pace}
+                  onChange={(e) => pref("pace", e.target.value)}
+                >
+                  <option value="relaxed">{t("Relaxed", "هادئ")}</option>
+                  <option value="balanced">{t("Balanced", "متوازن")}</option>
+                  <option value="busy">{t("Busy", "مكثّف")}</option>
+                </select>
+              </Field>
+              <Field label={t("Flight preference", "تفضيل الطيران")}>
+                <select
+                  value={trip.preferences.flightOption}
+                  onChange={(e) => pref("flightOption", e.target.value)}
+                >
+                  <option value="cheapest">
+                    {t("Lowest price", "أقل سعر")}
+                  </option>
+                  <option value="shortest">
+                    {t("Shortest duration", "أقصر مدة")}
+                  </option>
+                </select>
+              </Field>
+              <Field label={t("Hotel stars", "نجوم الفندق")}>
+                <select
+                  value={trip.preferences.hotelStars}
+                  onChange={(e) => pref("hotelStars", Number(e.target.value))}
+                >
+                  {[1, 2, 3, 4, 5].map((n) => (
+                    <option value={n} key={n}>
+                      {n} ★
+                    </option>
+                  ))}
+                </select>
+              </Field>
+              <label className="check-field">
+                <input
+                  type="checkbox"
+                  checked={trip.preferences.directPreferred}
+                  onChange={(e) => pref("directPreferred", e.target.checked)}
+                />
+                {t("Prefer direct flights", "أفضل الرحلات المباشرة")}
+              </label>
+              {[
+                [
+                  "foodDaily",
+                  "Food per traveler / day",
+                  "الطعام لكل مسافر / يوم",
+                ],
+                [
+                  "transportDaily",
+                  "Transport per group / day",
+                  "التنقل للمجموعة / يوم",
+                ],
+                [
+                  "otherCosts",
+                  "Other costs for the trip",
+                  "مصاريف أخرى للرحلة",
+                ],
+              ].map(([key, en, ar]) => (
+                <Field
+                  key={key}
+                  label={t(en, ar) + " (" + trip.currency + ")"}
+                  type="number"
+                  min="0"
+                  max="99999999"
+                  step="0.01"
+                  value={trip.preferences[key]}
+                  onChange={(e) => pref(key, e.target.value)}
+                  required
+                />
+              ))}
+            </div>
+            <p className="muted">
+              {t(
+                "Allowances are your estimates. No currency conversion is applied.",
+                "المخصصات هي تقديراتك الشخصية. لا يجري تحويل العملات.",
+              )}
+            </p>
+          </div>
+          {step === 2 && (
+            <div className="offers-section">
+              <div className="section-heading">
+                <h2>{t("Choose your flight", "اختر رحلة الطيران")}</h2>
+                <button
+                  type="button"
+                  className="text-button"
+                  onClick={refreshOffers}
+                >
+                  {t("Refresh offers", "تحديث العروض")}
+                </button>
+              </div>
+              <p className="notice compact">
+                {t(
+                  "Offers are search snapshots. Provider links open searches; final prices and availability are confirmed there.",
+                  "العروض تعكس وقت البحث. الروابط تفتح بحثاً لدى المزوّد، حيث تُؤكّد الأسعار والتوفّر.",
+                )}
+              </p>
+              <div className="offer-list">
+                {offers.flights.map((f) => (
+                  <OfferCard
+                    key={f.id}
+                    offer={f}
+                    kind="flight"
+                    selected={choice.flightId === f.id}
+                    onSelect={(id) => setChoice({ ...choice, flightId: id })}
+                  />
+                ))}
+              </div>
+              {!offers.flights.length && (
+                <p className="notice">
+                  {t(
+                    "No flights found. Change dates or destination and retry.",
+                    "لم يتم العثور على رحلات طيران. غيّر التواريخ أو الوجهة وأعد المحاولة.",
+                  )}
+                </p>
+              )}
+              <h2>{t("Find your place to stay", "اختر مكان إقامتك")}</h2>
+              <div className="offer-list">
+                {offers.hotels.map((h) => (
+                  <OfferCard
+                    key={h.id}
+                    offer={h}
+                    kind="hotel"
+                    selected={choice.hotelId === h.id}
+                    onSelect={(id) => setChoice({ ...choice, hotelId: id })}
+                  />
+                ))}
+              </div>
+              {!offers.hotels.length && (
+                <p className="notice">
+                  {t(
+                    "No hotels found. Change dates or preferences and retry.",
+                    "لم يتم العثور على فنادق. غيّر التواريخ أو التفضيلات وأعد المحاولة.",
+                  )}
+                </p>
+              )}
+            </div>
+          )}
+          <div className="planner-actions">
+            {step > 0 && (
+              <button
+                className="button secondary"
+                type="button"
+                onClick={() => {
+                  setError(null);
+                  setStep(step - 1);
+                }}
+              >
+                {t("Back", "رجوع")}
+              </button>
+            )}
+            <button className="button" type="submit">
+              {step === 2
+                ? t("Generate my plan", "أنشئ خطتي")
+                : step === 1
+                  ? t("Find flights & hotels", "ابحث عن الطيران والفنادق")
+                  : t("Continue", "متابعة")}
+              <Icon name="arrow" />
+            </button>
+          </div>
+        </fieldset>
+      </form>
+    </section>
+  );
+}
