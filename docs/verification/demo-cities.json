@@ -1,0 +1,68 @@
+{
+  "checkedAt": "2026-10-25T21:57:25.039Z",
+  "source": "real Google Places service; attractions and restaurants; Arabic results; configured geographic filters",
+  "requestCount": 20,
+  "cities": [
+    {
+      "code": "DAM",
+      "name": "Damascus",
+      "ok": true,
+      "placeCount": 30
+    },
+    {
+      "code": "IST",
+      "name": "Istanbul",
+      "ok": true,
+      "placeCount": 30
+    },
+    {
+      "code": "MED",
+      "name": "Madinah",
+      "ok": true,
+      "placeCount": 30
+    },
+    {
+      "code": "QCA",
+      "name": "Makkah",
+      "ok": true,
+      "placeCount": 30
+    },
+    {
+      "code": "JED",
+      "name": "Jeddah",
+      "ok": true,
+      "placeCount": 30
+    },
+    {
+      "code": "RUH",
+      "name": "Riyadh",
+      "ok": true,
+      "placeCount": 30
+    },
+    {
+      "code": "AMM",
+      "name": "Amman",
+      "ok": true,
+      "placeCount": 30
+    },
+    {
+      "code": "DXB",
+      "name": "Dubai",
+      "ok": true,
+      "placeCount": 30
+    },
+    {
+      "code": "CAI",
+      "name": "Cairo",
+      "ok": true,
+      "placeCount": 30
+    },
+    {
+      "code": "PAR",
+      "name": "Paris",
+      "ok": true,
+      "placeCount": 30
+    }
+  ],
+  "scope": "Basic place search only. Does not verify full itineraries, every interest, routes, flight/hotel inventory or booking availability."
+}

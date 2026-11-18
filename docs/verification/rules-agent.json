@@ -1,0 +1,43 @@
+{
+  "checkedAt": "2026-10-25T21:23:10.607Z",
+  "plannerEngine": "rules",
+  "languageModelCalls": 0,
+  "durationSeconds": 0.016,
+  "data": "explicit development fixtures",
+  "chatbot": "deferred",
+  "report": {
+    "version": 2,
+    "mode": "bounded",
+    "plannerProvider": "rules",
+    "status": "validated",
+    "stopReason": "goals_met",
+    "maxDrafts": 3,
+    "attempts": [
+      {
+        "attempt": 1,
+        "valid": true,
+        "score": 46,
+        "issues": []
+      }
+    ],
+    "selectedFlightId": "mock-flight-1",
+    "selectedHotelId": "mock-hotel-1",
+    "checks": {
+      "supportedInterestCoverage": true,
+      "knownCostsWithinBudget": true,
+      "unknownActivityCount": 2,
+      "emptyVisitableDays": 0,
+      "repeatedVisits": 0,
+      "routeCheckedDays": 0,
+      "routeUncheckedDays": 2
+    },
+    "issues": [],
+    "unsupportedInterests": [],
+    "limitations": [
+      "Unknown activity fees remain unknown",
+      "Validated schedules do not guarantee real-world availability"
+    ]
+  },
+  "dayCount": 2,
+  "activityCount": 6
+}

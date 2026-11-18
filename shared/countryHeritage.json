@@ -1,0 +1,7656 @@
+{
+  "EC": [
+    {
+      "id": "1",
+      "en": "Galápagos Islands",
+      "ar": "أرخبيل جزر غالاباغوس",
+      "year": "1978"
+    },
+    {
+      "id": "2",
+      "en": "City of Quito",
+      "ar": "مدينة كيتو",
+      "year": "1978"
+    },
+    {
+      "id": "260",
+      "en": "Sangay National Park",
+      "ar": "منتزه سانغاي الوطني",
+      "year": "1983"
+    },
+    {
+      "id": "863",
+      "en": "Historic Centre of Santa Ana de los Ríos de Cuenca",
+      "ar": "وسط سانتا آنا التاريخي في لوس ريوس دي كوينكا",
+      "year": "1999"
+    }
+  ],
+  "DE": [
+    {
+      "id": "3",
+      "en": "Aachen Cathedral",
+      "ar": "كاتدرائية آخن",
+      "year": "1978"
+    },
+    {
+      "id": "168",
+      "en": "Speyer Cathedral",
+      "ar": "كاثدرائية شباير",
+      "year": "1981"
+    },
+    {
+      "id": "169",
+      "en": "Würzburg Residence with the Court Gardens and Residence Square",
+      "ar": "قصر فورتسبورغ وحدائق البلاط والساحة",
+      "year": "1981"
+    },
+    {
+      "id": "271",
+      "en": "Pilgrimage Church of Wies",
+      "ar": "كنيسة دي فيز للحج",
+      "year": "1983"
+    },
+    {
+      "year": "1984",
+      "en": "Castles of Augustusburg and Falkenlust at Brühl",
+      "id": "288",
+      "ar": "قصرا أوغسطسبرغ وفالكن لوست في بروهل"
+    },
+    {
+      "year": "1985",
+      "en": "St Mary's Cathedral and St Michael's Church at Hildesheim",
+      "id": "187",
+      "ar": "كاتدرائية القديسة مريم وكنيسة القديس ميخائيل في هايلديسهايم"
+    },
+    {
+      "year": "1986",
+      "en": "Roman Monuments, Cathedral of St Peter and Church of Our Lady in Trier",
+      "id": "367",
+      "ar": "ترييرنصب رومانية وكاتدرائية القديس بطرس وكنيسة السيدة"
+    },
+    {
+      "year": "1987",
+      "en": "Hanseatic City of Lübeck",
+      "id": "272",
+      "ar": "مدينة الهانزا لوبيك"
+    },
+    {
+      "year": "1990",
+      "en": "Palaces and Parks of Potsdam and Berlin",
+      "id": "532",
+      "ar": "قصور وحدائق بوتسدام وبرلين"
+    },
+    {
+      "year": "1991",
+      "en": "Abbey and Altenmünster of Lorsch",
+      "id": "515",
+      "ar": "دير مدينة لورش والألتنمونستر (كنيسة بندكتين)"
+    },
+    {
+      "year": "1992",
+      "en": "Mines of Rammelsberg, Historic Town of Goslar and Upper Harz Water Management System",
+      "id": "623",
+      "ar": "نظام إدارة المياه في أوبرهارز"
+    },
+    {
+      "year": "1993",
+      "en": "Maulbronn Monastery Complex",
+      "id": "546",
+      "ar": "دير ماولبرون"
+    },
+    {
+      "year": "1993",
+      "en": "Town of Bamberg",
+      "id": "624",
+      "ar": "مدينة بامبرغ"
+    },
+    {
+      "year": "1994",
+      "en": "Collegiate Church, Castle and Old Town of Quedlinburg",
+      "id": "535",
+      "ar": "الكنيسة المجمّعية والقصر والمدينة القديمة في كيدلينبورغ"
+    },
+    {
+      "year": "1994",
+      "en": "Völklingen Ironworks",
+      "id": "687",
+      "ar": "مصنع الصلب في فولكلينغن"
+    },
+    {
+      "year": "1995",
+      "en": "Messel Pit Fossil Site",
+      "id": "720",
+      "ar": null
+    },
+    {
+      "year": "1996",
+      "en": "Cologne Cathedral",
+      "id": "292",
+      "ar": "كاثدرائية كولونيا"
+    },
+    {
+      "year": "1996",
+      "en": "Bauhaus and its Sites in Weimar, Dessau and Bernau",
+      "id": "729",
+      "ar": "الباوهاوس والمواقع في فايمار وديساو وبيرناو (امتداد لموقع الباوهاوس والمواقع في فايمار وديساو)"
+    },
+    {
+      "year": "1996",
+      "en": "Luther Memorials in Eisleben and Wittenberg",
+      "id": "783",
+      "ar": "النصب التذكارية للوثر في إيسليبن وفيتنبرغ"
+    },
+    {
+      "year": "1998",
+      "en": "Classical Weimar",
+      "id": "846",
+      "ar": "مدينة فايمار الكلاسيكية"
+    },
+    {
+      "year": "1999",
+      "en": "Museumsinsel (Museum Island), Berlin",
+      "id": "896",
+      "ar": "ميوزمسينسل (جزيرة المتاحف) في برلين"
+    },
+    {
+      "year": "1999",
+      "en": "Wartburg Castle",
+      "id": "897",
+      "ar": "قلعة الفارتبورغ"
+    },
+    {
+      "year": "2000",
+      "en": "Garden Kingdom of Dessau-Wörlitz",
+      "id": "534",
+      "ar": "مملكة حدائق ديساو- فورليتز"
+    },
+    {
+      "year": "2000",
+      "en": "Monastic Island of Reichenau",
+      "id": "974",
+      "ar": "جزيرة رايخيناو الرهبانية"
+    },
+    {
+      "year": "2001",
+      "en": "Zollverein Coal Mine Industrial Complex in Essen",
+      "id": "975",
+      "ar": "المجمع الصناعي لاستخراج الفحم الحجري في إيسين"
+    },
+    {
+      "year": "2002",
+      "en": "Upper Middle Rhine Valley",
+      "id": "1066",
+      "ar": "وادي الراين الأعلى الأوسط"
+    },
+    {
+      "year": "2002",
+      "en": "Historic Centres of Stralsund and Wismar",
+      "id": "1067",
+      "ar": "سترالسوند وفيسمار التاريخيتان"
+    },
+    {
+      "year": "2004",
+      "en": "Town Hall and Roland on the Marketplace of Bremen",
+      "id": "1087",
+      "ar": "مبنى البلدية وتمثال رولان في ساحة سوق بريمن"
+    },
+    {
+      "year": "2006",
+      "en": "Old town of Regensburg with Stadtamhof",
+      "id": "1155",
+      "ar": "مدينتة رغنسبورغ القديمة وستادتامهوف"
+    },
+    {
+      "year": "2008",
+      "en": "Berlin Modernism Housing Estates",
+      "id": "1239",
+      "ar": null
+    },
+    {
+      "year": "2011",
+      "en": "Fagus Factory in Alfeld",
+      "id": "1368",
+      "ar": "مصنع فاغوس"
+    },
+    {
+      "year": "2012",
+      "en": "Margravial Opera House Bayreuth",
+      "id": "1379",
+      "ar": null
+    },
+    {
+      "year": "2013",
+      "en": "Bergpark Wilhelmshöhe",
+      "id": "1413",
+      "ar": null
+    },
+    {
+      "year": "2014",
+      "en": "Carolingian Westwork and Civitas Corvey",
+      "id": "1447",
+      "ar": null
+    },
+    {
+      "year": "2015",
+      "en": "Speicherstadt and Kontorhaus District with Chilehaus",
+      "id": "1467",
+      "ar": "شبايهرستاد وحي كونتورهاوس وتسيليهاوس"
+    },
+    {
+      "year": "2017",
+      "en": "Caves and Ice Age Art in the Swabian Jura",
+      "id": "1527",
+      "ar": null
+    },
+    {
+      "year": "2018",
+      "en": "Naumburg Cathedral",
+      "id": "1470",
+      "ar": "كاتدرائية ناومبورغ"
+    },
+    {
+      "year": "2018",
+      "en": "Archaeological Border complex of Hedeby and the Danevirke",
+      "id": "1553",
+      "ar": "مجمع هيديبي ودانيفيرك الأثري الحدودي"
+    },
+    {
+      "year": "2019",
+      "en": "Water Management System of Augsburg",
+      "id": "1580",
+      "ar": "نظام إدارة المياه في آوغسبورغ"
+    },
+    {
+      "year": "2021",
+      "en": "Mathildenhöhe Darmstadt",
+      "id": "1614",
+      "ar": "مرتفع ماتيلدنهوة في درامشتات"
+    },
+    {
+      "year": "2021",
+      "en": "ShUM Sites of Speyer, Worms and Mainz",
+      "id": "1636",
+      "ar": "موقع ثلاثية المدن"
+    },
+    {
+      "year": "2023",
+      "en": "Jewish-Medieval Heritage of Erfurt",
+      "id": "1656",
+      "ar": "التراث اليهودي لمدينة إيرفورت في العصور الوسطى"
+    },
+    {
+      "year": "2024",
+      "en": "Schwerin Residence Ensemble",
+      "id": "1705",
+      "ar": "مجمَّع الإقامة في شويرن"
+    },
+    {
+      "year": "2025",
+      "en": "The Palaces of King Ludwig II of Bavaria: Neuschwanstein, Linderhof, Schachen and Herrenchiemsee",
+      "id": "1726",
+      "ar": "قصور الملك لودفيغ الثاني في بافاريا: نويشفانشتاين وليندرهوف وشاخن وهيرن كيمزي"
+    }
+  ],
+  "CA": [
+    {
+      "id": "4",
+      "en": "L’Anse aux Meadows National Historic Site",
+      "ar": "موقع لانس أو ميدوز الوطني التاريخي",
+      "year": "1978"
+    },
+    {
+      "id": "24",
+      "en": "Nahanni National Park",
+      "ar": "منتزه ناهاني الوطني",
+      "year": "1978"
+    },
+    {
+      "id": "71",
+      "en": "Dinosaur Provincial Park",
+      "ar": "الحديقة المحلية للدناصير",
+      "year": "1979"
+    },
+    {
+      "id": "157",
+      "en": "SGang Gwaay",
+      "ar": "أسغانغ غواي",
+      "year": "1981"
+    },
+    {
+      "year": "1981",
+      "en": "Head-Smashed-In Buffalo Jump",
+      "id": "158",
+      "ar": "جرف البيسون المغروز الرأس"
+    },
+    {
+      "year": "1983",
+      "en": "Wood Buffalo National Park",
+      "id": "256",
+      "ar": "منتزه وود بافالو الوطني"
+    },
+    {
+      "year": "1984",
+      "en": "Canadian Rocky Mountain Parks",
+      "id": "304",
+      "ar": "حدائق الجبال الصخرية الكندية"
+    },
+    {
+      "year": "1985",
+      "en": "Historic District of Old Québec",
+      "id": "300",
+      "ar": "الدائرة التاريخية للكيبيك القديم"
+    },
+    {
+      "year": "1987",
+      "en": "Gros Morne National Park",
+      "id": "419",
+      "ar": "منتزه غرو مورن الوطني"
+    },
+    {
+      "year": "1995",
+      "en": "Old Town Lunenburg",
+      "id": "741",
+      "ar": "مدينة لونينبورغ القديمة"
+    },
+    {
+      "year": "1999",
+      "en": "Miguasha National Park",
+      "id": "686",
+      "ar": "منتزه ميغواشا الوطني"
+    },
+    {
+      "year": "2007",
+      "en": "Rideau Canal",
+      "id": "1221",
+      "ar": "قناة ريدو"
+    },
+    {
+      "year": "2008",
+      "en": "Joggins Fossil Cliffs",
+      "id": "1285",
+      "ar": "جروف"
+    },
+    {
+      "year": "2012",
+      "en": "Landscape of Grand Pré",
+      "id": "1404",
+      "ar": null
+    },
+    {
+      "year": "2013",
+      "en": "Red Bay Basque Whaling Station",
+      "id": "1412",
+      "ar": null
+    },
+    {
+      "year": "2016",
+      "en": "Mistaken Point",
+      "id": "1497",
+      "ar": "النقطة الخاطئة"
+    },
+    {
+      "year": "2018",
+      "en": "Pimachiowin Aki",
+      "id": "1415",
+      "ar": "غابة"
+    },
+    {
+      "year": "2019",
+      "en": "Writing-on-Stone / Áísínai’pi",
+      "id": "1597",
+      "ar": "الكتابة على الحجر"
+    },
+    {
+      "year": "2023",
+      "en": "Tr’ondëk-Klondike",
+      "id": "1564",
+      "ar": "تروندك-كلوندايك"
+    },
+    {
+      "year": "2023",
+      "en": "Anticosti",
+      "id": "1686",
+      "ar": "أونتيكوستي"
+    }
+  ],
+  "ET": [
+    {
+      "id": "9",
+      "en": "Simien National Park",
+      "ar": "منتزه سيمين الوطني",
+      "year": "1978"
+    },
+    {
+      "id": "18",
+      "en": "Rock-Hewn Churches, Lalibela",
+      "ar": "الكنائس المحفورة في صخر لاليبلا",
+      "year": "1978"
+    },
+    {
+      "id": "19",
+      "en": "Fasil Ghebbi, Gondar Region",
+      "ar": "فاسيل غيبي",
+      "year": "1979"
+    },
+    {
+      "id": "10",
+      "en": "Lower Valley of the Awash",
+      "ar": "وادي الأواش الخفيض",
+      "year": "1980"
+    },
+    {
+      "year": "1980",
+      "en": "Tiya",
+      "id": "12",
+      "ar": "تيا"
+    },
+    {
+      "year": "1980",
+      "en": "Aksum",
+      "id": "15",
+      "ar": "أكسوم"
+    },
+    {
+      "year": "1980",
+      "en": "Lower Valley of the Omo",
+      "id": "17",
+      "ar": "وادي أومو المنخفض"
+    },
+    {
+      "year": "2006",
+      "en": "Harar Jugol, the Fortified Historic Town",
+      "id": "1189",
+      "ar": "حرار جوغول، المدينة التاريخيّة المحصّنة"
+    },
+    {
+      "year": "2011",
+      "en": "Konso Cultural Landscape",
+      "id": "1333",
+      "ar": "المشهد الثقافي لبلاد كونسو"
+    },
+    {
+      "year": "2023",
+      "en": "Bale Mountains National Park",
+      "id": "111",
+      "ar": "حديقة جبال بال الوطنية"
+    },
+    {
+      "year": "2023",
+      "en": "The Gedeo Cultural Landscape",
+      "id": "1641",
+      "ar": "منظر جيديو الطبيعي الثقافي"
+    },
+    {
+      "year": "2024",
+      "en": "Melka Kunture and Balchit: Archaeological and Palaeontological Sites in the Highland Area of Ethiopia",
+      "id": "13",
+      "ar": "موقع ميلكا كونتور وبالشيت: المواقع الأثرية والأحفورية في منطقة المرتفعات الإثيوبية"
+    }
+  ],
+  "SN": [
+    {
+      "id": "26",
+      "en": "Island of Gorée",
+      "ar": "جزيرة غوري",
+      "year": "1978"
+    },
+    {
+      "id": "25",
+      "en": "Djoudj National Bird Sanctuary",
+      "ar": "حديقة دجودج الوطنية للطيور",
+      "year": "1981"
+    },
+    {
+      "id": "153",
+      "en": "Niokolo-Koba National Park",
+      "ar": "منتزه نيوكولو كوبا الوطني",
+      "year": "1981"
+    },
+    {
+      "id": "956",
+      "en": "Island of Saint-Louis",
+      "ar": "جزيرة سانت لويس",
+      "year": "2000"
+    },
+    {
+      "year": "2011",
+      "en": "Saloum Delta",
+      "id": "1359",
+      "ar": null
+    },
+    {
+      "year": "2012",
+      "en": "Bassari Country: Bassari, Fula and Bedik Cultural Landscapes",
+      "id": "1407",
+      "ar": null
+    }
+  ],
+  "US": [
+    {
+      "id": "27",
+      "en": "Mesa Verde National Park",
+      "ar": "منتزه ميسا فردي الوطني",
+      "year": "1978"
+    },
+    {
+      "id": "28",
+      "en": "Yellowstone National Park",
+      "ar": "منتزه ييلوستون الوطني",
+      "year": "1978"
+    },
+    {
+      "id": "75",
+      "en": "Grand Canyon National Park",
+      "ar": "منتزه غراند كانيون الوطني",
+      "year": "1979"
+    },
+    {
+      "id": "76",
+      "en": "Everglades National Park",
+      "ar": "منتزه إيفرغلايدس الوطني",
+      "year": "1979"
+    },
+    {
+      "year": "1979",
+      "en": "Independence Hall",
+      "id": "78",
+      "ar": "صالة الاستقلال"
+    },
+    {
+      "year": "1980",
+      "en": "Redwood National and State Parks",
+      "id": "134",
+      "ar": "منتزه ريدوود الوطني"
+    },
+    {
+      "year": "1981",
+      "en": "Mammoth Cave National Park",
+      "id": "150",
+      "ar": "منتزه كهف ماموت الوطني"
+    },
+    {
+      "year": "1981",
+      "en": "Olympic National Park",
+      "id": "151",
+      "ar": "المنتزه الأولمبي الوطني"
+    },
+    {
+      "year": "1982",
+      "en": "Cahokia Mounds State Historic Site",
+      "id": "198",
+      "ar": "الموقع التاريخي لولاية الكاهوكيا ماوندز"
+    },
+    {
+      "year": "1983",
+      "en": "Great Smoky Mountains National Park",
+      "id": "259",
+      "ar": "المنتزه الوطني لجبال غرايت سموكي العظيمة"
+    },
+    {
+      "year": "1983",
+      "en": "La Fortaleza and San Juan National Historic Site in Puerto Rico",
+      "id": "266",
+      "ar": "فورتاليزا وموقع سان خوان التاريخي الوطني في بورتوريكو"
+    },
+    {
+      "year": "1984",
+      "en": "Statue of Liberty",
+      "id": "307",
+      "ar": "تمثال الحريّة"
+    },
+    {
+      "year": "1984",
+      "en": "Yosemite National Park",
+      "id": "308",
+      "ar": "منتزه يوسميت الوطني"
+    },
+    {
+      "year": "1987",
+      "en": "Chaco Culture",
+      "id": "353",
+      "ar": "ثقافة شعوب شاكو"
+    },
+    {
+      "year": "1987",
+      "en": "Hawaii Volcanoes National Park",
+      "id": "409",
+      "ar": "منتزه براكين هاواي الوطني"
+    },
+    {
+      "year": "1987",
+      "en": "Monticello and the University of Virginia in Charlottesville",
+      "id": "442",
+      "ar": "مونتيشيلو وجامعة فيرجينيا في شارلوتفيل"
+    },
+    {
+      "year": "1992",
+      "en": "Taos Pueblo",
+      "id": "492",
+      "ar": "هنود تاوس الحمر"
+    },
+    {
+      "year": "1995",
+      "en": "Carlsbad Caverns National Park",
+      "id": "721",
+      "ar": "منتزه كهوف كارلسباد الوطني"
+    },
+    {
+      "year": "2010",
+      "en": "Papahānaumokuākea",
+      "id": "1326",
+      "ar": "باباهاناوْموكواكيا، في هاواي"
+    },
+    {
+      "year": "2014",
+      "en": "Monumental Earthworks of Poverty Point",
+      "id": "1435",
+      "ar": null
+    },
+    {
+      "year": "2015",
+      "en": "San Antonio Missions",
+      "id": "1466",
+      "ar": "إرساليات سان أنطونيو"
+    },
+    {
+      "year": "2019",
+      "en": "The 20th-Century Architecture of Frank Lloyd Wright",
+      "id": "1496",
+      "ar": "أعمال فرانك لويد رايت المعمارية في القرن العشرين"
+    },
+    {
+      "year": "2023",
+      "en": "Hopewell Ceremonial Earthworks",
+      "id": "1689",
+      "ar": "التشكيلات الترابية الطقسية لهوبويل"
+    },
+    {
+      "year": "2026",
+      "en": "Okefenokee National Wildlife Refuge",
+      "id": "1751",
+      "ar": "محمية أوكفينوكي الوطنية للأحياء البرية"
+    }
+  ],
+  "PL": [
+    {
+      "id": "29",
+      "en": "Historic Centre of Kraków",
+      "ar": "وسط كراكوفيا التاريخي",
+      "year": "1978"
+    },
+    {
+      "id": "32",
+      "en": "Wieliczka and Bochnia Royal Salt Mines",
+      "ar": null,
+      "year": "1978"
+    },
+    {
+      "id": "31",
+      "en": "Auschwitz Birkenau German Nazi Concentration and Extermination Camp (1940-1945)",
+      "ar": "اوشفيتز بيركينو / معسكر الاعتقال والابادة النازي الالماني (1940 – 1945)",
+      "year": "1979"
+    },
+    {
+      "id": "30",
+      "en": "Historic Centre of Warsaw",
+      "ar": "وسط وارسو التاريخي",
+      "year": "1980"
+    },
+    {
+      "year": "1992",
+      "en": "Old City of Zamość",
+      "id": "564",
+      "ar": "مدينة زاموسك القديمة"
+    },
+    {
+      "year": "1997",
+      "en": "Medieval Town of Toruń",
+      "id": "835",
+      "ar": "مدينة تورون من القرون الوسطى"
+    },
+    {
+      "year": "1997",
+      "en": "Castle of the Teutonic Order in Malbork",
+      "id": "847",
+      "ar": "قصر مالبورك المبني وفقًا للنمط التوتوني"
+    },
+    {
+      "year": "1999",
+      "en": "Kalwaria Zebrzydowska: the Mannerist Architectural and Park Landscape Complex and Pilgrimage Park",
+      "id": "905",
+      "ar": "كالفاريا زيبرزيدوفسكا : مجموعة هندسية متكلّفة ومقلّدة للطبيعة ومنتزه للحجّ"
+    },
+    {
+      "year": "2001",
+      "en": "Churches of Peace in Jawor and Świdnica",
+      "id": "1054",
+      "ar": "كنائس السلام في جافور وسودنيكا"
+    },
+    {
+      "year": "2003",
+      "en": "Wooden Churches of Southern Małopolska",
+      "id": "1053",
+      "ar": "الكنائس الخشبية في جنوب بولندا الصغيرة"
+    },
+    {
+      "year": "2006",
+      "en": "Centennial Hall in Wrocław",
+      "id": "1165",
+      "ar": "قاعة المئة عام في روكلاو"
+    },
+    {
+      "year": "2017",
+      "en": "Tarnowskie Góry Lead-Silver-Zinc Mine and its Underground Water Management System",
+      "id": "1539",
+      "ar": null
+    },
+    {
+      "year": "2019",
+      "en": "Krzemionki Prehistoric Striped Flint Mining Region",
+      "id": "1599",
+      "ar": "منطقة تعدين الصوان التي تعود لفترة ما قبل التاريخ في كرازمنسكي"
+    },
+    {
+      "year": "2026",
+      "en": "Gdynia Modernist City Centre",
+      "id": "1715",
+      "ar": null
+    }
+  ],
+  "SY": [
+    {
+      "id": "20",
+      "en": "Ancient City of Damascus",
+      "ar": "مدينة دمشق القديمة",
+      "year": "1979"
+    },
+    {
+      "id": "22",
+      "en": "Ancient City of Bosra",
+      "ar": "مدينة بصرى القديمة",
+      "year": "1980"
+    },
+    {
+      "id": "23",
+      "en": "Site of Palmyra",
+      "ar": "موقع تدمر",
+      "year": "1980"
+    },
+    {
+      "id": "21",
+      "en": "Ancient City of Aleppo",
+      "ar": "مدينة حلب القديمة",
+      "year": "1986"
+    },
+    {
+      "year": "2006",
+      "en": "Crac des Chevaliers and Qal’at Salah El-Din",
+      "id": "1229",
+      "ar": "قلعة الفرسان وقلعة صلاح الدين"
+    },
+    {
+      "year": "2011",
+      "en": "Ancient Villages of Northern Syria",
+      "id": "1348",
+      "ar": "القرى القديمة في شمال سوريا"
+    }
+  ],
+  "GH": [
+    {
+      "id": "34",
+      "en": "Forts and Castles, Volta, Greater Accra, Central and Western Regions",
+      "ar": "قلاع وقصور فولتا وأكرا ومحيطهما والمناطق الوسطية والجنوبية",
+      "year": "1979"
+    },
+    {
+      "id": "35",
+      "en": "Asante Traditional Buildings",
+      "ar": "المباني التقليدية الخاصة بشعب أسانتي",
+      "year": "1980"
+    }
+  ],
+  "TN": [
+    {
+      "id": "36",
+      "en": "Medina of Tunis",
+      "ar": "مدينة تونس القديمة",
+      "year": "1979"
+    },
+    {
+      "id": "37",
+      "en": "Archaeological Site of Carthage",
+      "ar": "موقع قرطاج الأثري",
+      "year": "1979"
+    },
+    {
+      "id": "38",
+      "en": "Amphitheatre of El Jem",
+      "ar": "مدرّج الجم الروماني",
+      "year": "1979"
+    },
+    {
+      "id": "8",
+      "en": "Ichkeul National Park",
+      "ar": "محمية إشكل الوطنية",
+      "year": "1980"
+    },
+    {
+      "year": "1985",
+      "en": "Punic Town of Kerkuane and its Necropolis",
+      "id": "332",
+      "ar": "مدينة كركوان البونيقية ومقبرتها"
+    },
+    {
+      "year": "1988",
+      "en": "Medina of Sousse",
+      "id": "498",
+      "ar": null
+    },
+    {
+      "year": "1988",
+      "en": "Kairouan",
+      "id": "499",
+      "ar": "القيروان"
+    },
+    {
+      "year": "2023",
+      "en": "Djerba: Testimony to a settlement pattern in an island territory",
+      "id": "1640",
+      "ar": "جزيرة جربة: شهادة على نمط إعمار في مجال ترابي جزيري"
+    },
+    {
+      "year": "2026",
+      "en": "Village of Sidi Bou Saïd",
+      "id": "1769",
+      "ar": "قرية سيدي بوسعيد"
+    }
+  ],
+  "TZ": [
+    {
+      "id": "39",
+      "en": "Ngorongoro Conservation Area",
+      "ar": "منطقة نغورونغورو المحمية",
+      "year": "1979"
+    },
+    {
+      "id": "144",
+      "en": "Ruins of Kilwa Kisiwani and Ruins of Songo Mnara",
+      "ar": "آثار كيلوا كيسيواني وسونغو منارا",
+      "year": "1981"
+    },
+    {
+      "id": "156",
+      "en": "Serengeti National Park",
+      "ar": "روضة سيرنقيطي الوطنية",
+      "year": "1981"
+    },
+    {
+      "id": "199",
+      "en": "Selous Game Reserve",
+      "ar": "محمية سيلوس للطرائد",
+      "year": "1982"
+    },
+    {
+      "year": "1987",
+      "en": "Kilimanjaro National Park",
+      "id": "403",
+      "ar": "منتزه كيليمانجارو الوطني"
+    },
+    {
+      "year": "2000",
+      "en": "Stone Town of Zanzibar",
+      "id": "173",
+      "ar": "مدينة زنجبار الحجرية"
+    },
+    {
+      "year": "2006",
+      "en": "Kondoa Rock-Art Sites",
+      "id": "1183",
+      "ar": "مواقع كوندوا لفن النقوش والرسوم على الصخور"
+    }
+  ],
+  "BG": [
+    {
+      "id": "42",
+      "en": "Boyana Church",
+      "ar": "كنيسة بويانا",
+      "year": "1979"
+    },
+    {
+      "id": "43",
+      "en": "Madara Rider",
+      "ar": "فارس مادارا",
+      "year": "1979"
+    },
+    {
+      "id": "44",
+      "en": "Thracian Tomb of Kazanlak",
+      "ar": "ضريح كازانلاك التراقي",
+      "year": "1979"
+    },
+    {
+      "id": "45",
+      "en": "Rock-Hewn Churches of Ivanovo",
+      "ar": "كنائس إيفانوفو المنحوتة في الصخر",
+      "year": "1979"
+    },
+    {
+      "year": "1983",
+      "en": "Rila Monastery",
+      "id": "216",
+      "ar": "دير ريلا"
+    },
+    {
+      "year": "1983",
+      "en": "Ancient City of Nessebar",
+      "id": "217",
+      "ar": "مدينة نيسيبار القديمة"
+    },
+    {
+      "year": "1983",
+      "en": "Srebarna Nature Reserve",
+      "id": "219",
+      "ar": "محميّة سريبارنا الطبيعية"
+    },
+    {
+      "year": "1983",
+      "en": "Pirin National Park",
+      "id": "225",
+      "ar": "مرتع بيرين الوطني"
+    },
+    {
+      "year": "1985",
+      "en": "Thracian Tomb of Sveshtari",
+      "id": "359",
+      "ar": "الضريح التراقي في سفيشتاري"
+    }
+  ],
+  "NO": [
+    {
+      "id": "58",
+      "en": "Urnes Stave Church",
+      "ar": "كنيسة أورن الخشبية ستافكيرك",
+      "year": "1979"
+    },
+    {
+      "id": "59",
+      "en": "Bryggen",
+      "ar": "حيّ بريغين في مدينة بيرغن",
+      "year": "1979"
+    },
+    {
+      "id": "55",
+      "en": "Røros Mining Town and the Circumference",
+      "ar": "مدينة رورس المنجمية ومحيطها",
+      "year": "1980"
+    },
+    {
+      "id": "352",
+      "en": "Rock Art of Alta",
+      "ar": "النقوش الحجرية في ألتا",
+      "year": "1985"
+    },
+    {
+      "year": "2004",
+      "en": "Vegaøyan – The Vega Archipelago",
+      "id": "1143",
+      "ar": "فيغاويان – أرخبيل فيغا"
+    },
+    {
+      "year": "2005",
+      "en": "West Norwegian Fjords – Geirangerfjord and Nærøyfjord",
+      "id": "1195",
+      "ar": "زقاقان بحريّان غرب النروج، غيرانجرفيورد ونارويفيورد"
+    },
+    {
+      "year": "2015",
+      "en": "Rjukan-Notodden Industrial Heritage Site",
+      "id": "1486",
+      "ar": "موقع التراث الصناعي لمدينتَي روكان ونوتودِن"
+    }
+  ],
+  "CD": [
+    {
+      "id": "63",
+      "en": "Virunga National Park",
+      "ar": "منتزه فيرونغا الوطني",
+      "year": "1979"
+    },
+    {
+      "id": "136",
+      "en": "Garamba National Park",
+      "ar": "حديقة غارامبا الوطنية",
+      "year": "1980"
+    },
+    {
+      "id": "137",
+      "en": "Kahuzi-Biega National Park",
+      "ar": "منتزه كاهوزي بييغا الوطني",
+      "year": "1980"
+    },
+    {
+      "id": "280",
+      "en": "Salonga National Park",
+      "ar": "منتزه سالونغا الوطني",
+      "year": "1984"
+    },
+    {
+      "year": "1996",
+      "en": "Okapi Wildlife Reserve",
+      "id": "718",
+      "ar": "محمية حيوانات الأوكابي"
+    }
+  ],
+  "GT": [
+    {
+      "id": "64",
+      "en": "Tikal National Park",
+      "ar": "منتزه تكال الوطني",
+      "year": "1979"
+    },
+    {
+      "id": "65",
+      "en": "Antigua Guatemala",
+      "ar": "أنتيغوا غواتيمالا",
+      "year": "1979"
+    },
+    {
+      "id": "149",
+      "en": "Archaeological Park and Ruins of Quirigua",
+      "ar": "منتزه كيريغوا الأثري وآثارها",
+      "year": "1981"
+    },
+    {
+      "id": "1663",
+      "en": "National Archaeological Park Tak’alik Ab’aj",
+      "ar": "حديقة تاكاليك أباخ الأثرية الوطنية",
+      "year": "2023"
+    }
+  ],
+  "FR": [
+    {
+      "id": "80",
+      "en": "Mont-Saint-Michel and its Bay",
+      "ar": "جبل سان ميشال وخليجه",
+      "year": "1979"
+    },
+    {
+      "id": "81",
+      "en": "Chartres Cathedral",
+      "ar": "كاتدرائية شارتر",
+      "year": "1979"
+    },
+    {
+      "id": "83",
+      "en": "Palace and Park of Versailles",
+      "ar": "قصر وحديقة فيرساي",
+      "year": "1979"
+    },
+    {
+      "id": "84",
+      "en": "Vézelay, Church and Hill",
+      "ar": "بازيليك وتلة فيزيلاي",
+      "year": "1979"
+    },
+    {
+      "year": "1979",
+      "en": "Prehistoric Sites and Decorated Caves of the Vézère Valley",
+      "id": "85",
+      "ar": "مواقع عائدة لفترة ما قبل التاريخ ومغاور مزينة في وادي فيزير"
+    },
+    {
+      "year": "1981",
+      "en": "Palace and Park of Fontainebleau",
+      "id": "160",
+      "ar": "حديقة وقصر فونتانبلو"
+    },
+    {
+      "year": "1981",
+      "en": "Amiens Cathedral",
+      "id": "162",
+      "ar": "كاتدرائية أميان"
+    },
+    {
+      "year": "1981",
+      "en": "Roman Theatre and its Surroundings and the \"Triumphal Arch\" of Orange",
+      "id": "163",
+      "ar": "مسرح قديم وضواحيه وقوس النصر في مقاطعة أورانج"
+    },
+    {
+      "year": "1981",
+      "en": "Arles, Roman and Romanesque Monuments",
+      "id": "164",
+      "ar": "مدينة آرل، نصب تذكارية رومانية أو تابعة لروما القديمة"
+    },
+    {
+      "year": "1981",
+      "en": "Cistercian Abbey of Fontenay",
+      "id": "165",
+      "ar": "دير فونتوناي الكسترسي"
+    },
+    {
+      "year": "1982",
+      "en": "From the Great Saltworks of Salins-les-Bains to the Royal Saltworks of Arc-et-Senans, the Production of Open-pan Salt",
+      "id": "203",
+      "ar": "الملاّحات الكبرى في سالان-له-بان"
+    },
+    {
+      "year": "1983",
+      "en": "Place Stanislas, Place de la Carrière and Place d'Alliance in Nancy",
+      "id": "229",
+      "ar": "ساحات أليانس ودي لا كاريير وستانيسلاسفي مدينة نانسي"
+    },
+    {
+      "year": "1983",
+      "en": "Abbey Church of Saint-Savin sur Gartempe",
+      "id": "230",
+      "ar": "دير سان سافان سور غارتامب"
+    },
+    {
+      "year": "1983",
+      "en": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+      "id": "258",
+      "ar": "خليج بورتو:جون بيانا الصخري، خليج جيرولاتا، ومحمية سكاندولا"
+    },
+    {
+      "year": "1985",
+      "en": "Pont du Gard (Roman Aqueduct)",
+      "id": "344",
+      "ar": "جسر غارد"
+    },
+    {
+      "year": "1988",
+      "en": "Strasbourg, Grande-Île and Neustadt",
+      "id": "495",
+      "ar": "ستراسبورغ: من الجزيرة الكبرى حتى نويشتات (امتداد لموقع"
+    },
+    {
+      "year": "1991",
+      "en": "Paris, Banks of the Seine",
+      "id": "600",
+      "ar": "باريس، ضفاف نهر السين"
+    },
+    {
+      "year": "1991",
+      "en": "Cathedral of Notre-Dame, Former Abbey of Saint-Rémi and Palace of Tau, Reims",
+      "id": "601",
+      "ar": "كاتدرائية نوتر دام، دير القديس ريمي القديم، قصر تو، وكاتدرائية ريمس"
+    },
+    {
+      "year": "1992",
+      "en": "Bourges Cathedral",
+      "id": "635",
+      "ar": "كاتدرائية بورج"
+    },
+    {
+      "year": "1995",
+      "en": "Historic Centre of Avignon: Papal Palace, Episcopal Ensemble and Avignon Bridge",
+      "id": "228",
+      "ar": "وسط أفينيون التاريخي: قصر الباباوات، مجموعة أسقفية، وجسر أفينيون"
+    },
+    {
+      "year": "1996",
+      "en": "Canal du Midi",
+      "id": "770",
+      "ar": "قناة ميدي"
+    },
+    {
+      "year": "1997",
+      "en": "Historic Fortified City of Carcassonne",
+      "id": "345",
+      "ar": "مدينة كركاسون التاريخية الحصينة"
+    },
+    {
+      "year": "1998",
+      "en": "Routes of Santiago de Compostela in France",
+      "id": "868",
+      "ar": "طرق سان جاك دو كومبوستيل في فرنسا"
+    },
+    {
+      "year": "1998",
+      "en": "Historic Site of Lyon",
+      "id": "872",
+      "ar": "موقع ليون التاريخي"
+    },
+    {
+      "year": "1999",
+      "en": "Jurisdiction of Saint-Emilion",
+      "id": "932",
+      "ar": "ولاية سان إميليون"
+    },
+    {
+      "year": "2000",
+      "en": "The Loire Valley between Sully-sur-Loire and Chalonnes",
+      "id": "933",
+      "ar": "وادي نهر اللوار بين سالي سور لوار وشالون"
+    },
+    {
+      "year": "2001",
+      "en": "Provins, Town of Medieval Fairs",
+      "id": "873",
+      "ar": "بروفانس، مدينة المعارض العائدة للقرون الوسطى"
+    },
+    {
+      "year": "2005",
+      "en": "Le Havre, the City Rebuilt by Auguste Perret",
+      "id": "1181",
+      "ar": "هافر، المدينة التي شيّدها أوغست بيرّي"
+    },
+    {
+      "year": "2007",
+      "en": "Bordeaux, Port of the Moon",
+      "id": "1256",
+      "ar": "بوردو، ميناء القمر"
+    },
+    {
+      "year": "2008",
+      "en": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+      "id": "1115",
+      "ar": "بحيرات كاليدونيا الجديدة المرجانية: تنوع الشعَب والنظم الإيكولوجية ذات الصلة"
+    },
+    {
+      "year": "2008",
+      "en": "Fortifications of Vauban",
+      "id": "1283",
+      "ar": "أعمال المهندس فوبان"
+    },
+    {
+      "year": "2010",
+      "en": "Pitons, cirques and remparts of Reunion Island",
+      "id": "1317",
+      "ar": "شِعاف جزيرة ريونيون وجروفها وحلباتها الجليدية"
+    },
+    {
+      "year": "2010",
+      "en": "Episcopal City of Albi",
+      "id": "1337",
+      "ar": "الحاضرة الأسقفية في مدينة ألبي"
+    },
+    {
+      "year": "2011",
+      "en": "The Causses and the Cévennes, Mediterranean agro-pastoral Cultural Landscape",
+      "id": "1153",
+      "ar": "الكاوس والسيفين"
+    },
+    {
+      "year": "2012",
+      "en": "Nord-Pas de Calais Mining Basin",
+      "id": "1360",
+      "ar": null
+    },
+    {
+      "year": "2014",
+      "en": "Decorated Cave of Pont d’Arc, known as Grotte Chauvet-Pont d’Arc, Ardèche",
+      "id": "1426",
+      "ar": null
+    },
+    {
+      "year": "2015",
+      "en": "The Climats, terroirs of Burgundy",
+      "id": "1425",
+      "ar": "تلال ومنازل وأقبية منطقة شامبانيا"
+    },
+    {
+      "year": "2015",
+      "en": "Champagne Hillsides, Houses and Cellars",
+      "id": "1465",
+      "ar": "مناطق زراعة الكروم في بورغندي"
+    },
+    {
+      "year": "2017",
+      "en": "Taputapuātea",
+      "id": "1529",
+      "ar": null
+    },
+    {
+      "year": "2018",
+      "en": "Chaîne des Puys - Limagne fault tectonic arena",
+      "id": "1434",
+      "ar": "الموقع التكتوني الأعلى لسلسلة الجبال البركانية \"شين دي بوي\" – وادي \"فاي دو ليماين\""
+    },
+    {
+      "year": "2019",
+      "en": "French Austral Lands and Seas",
+      "id": "1603",
+      "ar": "الأراضي والبحار الفرنسية الجنوبية"
+    },
+    {
+      "year": "2021",
+      "en": "Cordouan Lighthouse",
+      "id": "1625",
+      "ar": "منارة كوردوان"
+    },
+    {
+      "year": "2021",
+      "en": "Nice, Winter Resort Town of the Riviera",
+      "id": "1635",
+      "ar": "مدينة نيس، المنتجع الشتوي في منطقة الريفييرا"
+    },
+    {
+      "year": "2023",
+      "en": "The Maison Carrée of Nîmes",
+      "id": "1569",
+      "ar": "ميزون كاري في نيم"
+    },
+    {
+      "year": "2023",
+      "en": "Volcanoes and Forests of Mount Pelée and the Pitons of Northern Martinique",
+      "id": "1657",
+      "ar": "براكين وغابات جبل بيليه وقمم شمال مارتينيك"
+    },
+    {
+      "year": "2024",
+      "en": "Te Henua Enata – The Marquesas Islands",
+      "id": "1707",
+      "ar": "تي هينوا ايناتا - جزر الماركيز"
+    },
+    {
+      "year": "2025",
+      "en": "Megaliths of Carnac and of the shores of Morbihan",
+      "id": "1725",
+      "ar": "الآثار الصخرية في كارناك وعلى سواحل موربيهان"
+    },
+    {
+      "year": "2026",
+      "en": "Beaches of the D-Day Landings, Normandy, 1944",
+      "id": "1581",
+      "ar": "شواطئ إنزال الحلفاء في نورماندي عام 1944"
+    },
+    {
+      "year": "2026",
+      "en": "Royal Capetian Fortresses of Languedoc",
+      "id": "1755",
+      "ar": "الحصون الملكية الكاپيتية في لانغيدوك"
+    }
+  ],
+  "EG": [
+    {
+      "id": "86",
+      "en": "Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur",
+      "ar": "ممفيس ومقبرتها منطقة الأهرام من الجيزة إلى دهشور",
+      "year": "1979"
+    },
+    {
+      "id": "87",
+      "en": "Ancient Thebes with its Necropolis",
+      "ar": "مدينة طيبة القديمة ومقبرتها",
+      "year": "1979"
+    },
+    {
+      "id": "88",
+      "en": "Nubian Monuments from Abu Simbel to Philae",
+      "ar": "معالم النوبة من أبو سمبل إلى فيلة",
+      "year": "1979"
+    },
+    {
+      "id": "89",
+      "en": "Historic Cairo",
+      "ar": "القاهرة التاريخية",
+      "year": "1979"
+    },
+    {
+      "year": "1979",
+      "en": "Abu Mena",
+      "id": "90",
+      "ar": "أبو مينا"
+    },
+    {
+      "year": "2002",
+      "en": "Saint Catherine Area",
+      "id": "954",
+      "ar": "منطقة القديسة كاترين"
+    },
+    {
+      "year": "2005",
+      "en": "Wadi Al-Hitan (Whale Valley)",
+      "id": "1186",
+      "ar": "وادي الحيتان"
+    }
+  ],
+  "IT": [
+    {
+      "id": "94",
+      "en": "Rock Drawings in Valcamonica",
+      "ar": "المنحوتات الصخرية في فالكامونيكا",
+      "year": "1979"
+    },
+    {
+      "id": "93",
+      "en": "Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci",
+      "ar": "كنيسة سيدة النعم والدير الدومينيكي التابع لها مع رسم",
+      "year": "1980"
+    },
+    {
+      "id": "174",
+      "en": "Historic Centre of Florence",
+      "ar": "وسط فلورنسا التاريخي",
+      "year": "1982"
+    },
+    {
+      "id": "394",
+      "en": "Venice and its Lagoon",
+      "ar": "البندقية وبحيرتها الشاطئية",
+      "year": "1987"
+    },
+    {
+      "year": "1987",
+      "en": "Piazza del Duomo, Pisa",
+      "id": "395",
+      "ar": "بياتزا دل دوومو في بيزا"
+    },
+    {
+      "year": "1990",
+      "en": "Historic Centre of San Gimignano",
+      "id": "550",
+      "ar": "الوسط التاريخي لـسان جيمينيانو"
+    },
+    {
+      "year": "1993",
+      "en": "The Sassi and the Park of the Rupestrian Churches of Matera",
+      "id": "670",
+      "ar": "لي ساسّي ومرتع الكنائس الصخرية لماتيرا"
+    },
+    {
+      "year": "1994",
+      "en": "City of Vicenza and the Palladian Villas of the Veneto",
+      "id": "712",
+      "ar": "مدينة فيسانزا وفلاّت بالاديوفي فينيتو"
+    },
+    {
+      "year": "1995",
+      "en": "Historic Centre of Siena",
+      "id": "717",
+      "ar": "الوسط التاريخي لسيينا"
+    },
+    {
+      "year": "1995",
+      "en": "Historic Centre of Naples",
+      "id": "726",
+      "ar": "الوسط التاريخي لنابولي"
+    },
+    {
+      "year": "1995",
+      "en": "Crespi d'Adda",
+      "id": "730",
+      "ar": "كريسبي دادا"
+    },
+    {
+      "year": "1995",
+      "en": "Ferrara, City of the Renaissance, and its Po Delta",
+      "id": "733",
+      "ar": "فيرّارا، مدينة النهضة، ودِلتا نهر البو فيها"
+    },
+    {
+      "year": "1996",
+      "en": "Castel del Monte",
+      "id": "398",
+      "ar": "كاستل دِل مونتي"
+    },
+    {
+      "year": "1996",
+      "en": "The Trulli of Alberobello",
+      "id": "787",
+      "ar": "ترولّي الألبيروبيلّو"
+    },
+    {
+      "year": "1996",
+      "en": "Early Christian Monuments of Ravenna",
+      "id": "788",
+      "ar": "نصب عائدة إلى المسيحيين الأوائل في رافينا"
+    },
+    {
+      "year": "1996",
+      "en": "Historic Centre of the City of Pienza",
+      "id": "789",
+      "ar": "الوسط التاريخي لمدينة بيينزا"
+    },
+    {
+      "year": "1997",
+      "en": "18th-Century Royal Palace at Caserta with the Park, the Aqueduct of Vanvitelli, and the San Leucio Complex",
+      "id": "549",
+      "ar": "القصر الملكي للقرن الثامن عشر في كازيرتا مع الحديقة وقناة فانفيتيلّي ومجموعة سان لوتشيو"
+    },
+    {
+      "year": "1997",
+      "en": "Residences of the Royal House of Savoy",
+      "id": "823",
+      "ar": "مساكن سافوا"
+    },
+    {
+      "year": "1997",
+      "en": "Botanical Garden (Orto Botanico), Padua",
+      "id": "824",
+      "ar": "حديقة النباتات، بادوفا"
+    },
+    {
+      "year": "1997",
+      "en": "Portovenere, Cinque Terre, and the Islands (Palmaria, Tino and Tinetto)",
+      "id": "826",
+      "ar": "بورتوفينيري، تشينكي تيرّي والجزر (بالماريا، وتينو وتينيتّو)"
+    },
+    {
+      "year": "1997",
+      "en": "Cathedral, Torre Civica and Piazza Grande, Modena",
+      "id": "827",
+      "ar": "الكاتدرائية، تورّي تشيفيتشيا وبياتزا غراندي، مودينا"
+    },
+    {
+      "year": "1997",
+      "en": "Archaeological Areas of Pompei, Herculaneum and Torre Annunziata",
+      "id": "829",
+      "ar": "المناطق الأثرية في بومبي، هركولانيوم وتورّي أنّونزياتا"
+    },
+    {
+      "year": "1997",
+      "en": "Costiera Amalfitana",
+      "id": "830",
+      "ar": "الساحل الأمالفي"
+    },
+    {
+      "year": "1997",
+      "en": "Archaeological Area of Agrigento",
+      "id": "831",
+      "ar": "منطقة أغريجنتو الأثرية"
+    },
+    {
+      "year": "1997",
+      "en": "Villa Romana del Casale",
+      "id": "832",
+      "ar": "فيلاّ كازالي الرومانية"
+    },
+    {
+      "year": "1997",
+      "en": "Su Nuraxi di Barumini",
+      "id": "833",
+      "ar": "سو نوراكسي دو باروميني"
+    },
+    {
+      "year": "1998",
+      "en": "Archaeological Area and the Patriarchal Basilica of Aquileia",
+      "id": "825",
+      "ar": "المنطقة الأثرية والبازيليك البطريركية في أكيليا"
+    },
+    {
+      "year": "1998",
+      "en": "Historic Centre of Urbino",
+      "id": "828",
+      "ar": "الوسط التاريخي لمدينة أوربينو"
+    },
+    {
+      "year": "1998",
+      "en": "Cilento and Vallo di Diano National Park with the Archeological Sites of Paestum and Velia, and the Certosa di Padula",
+      "id": "842",
+      "ar": "المنتزه الوطني في تشيلنتو وفالّو ديانو مع المواقع الأثرية في بايستوم وفيليا وكوخ بادولا"
+    },
+    {
+      "year": "1999",
+      "en": "Villa Adriana (Tivoli)",
+      "id": "907",
+      "ar": "فيلاّ أدريانا (تيفولي)"
+    },
+    {
+      "year": "2000",
+      "en": "City of Verona",
+      "id": "797",
+      "ar": "مدينة فيرونا"
+    },
+    {
+      "year": "2000",
+      "en": "Isole Eolie (Aeolian Islands)",
+      "id": "908",
+      "ar": "الجزر الهوائية (إيزولي إيوليه)"
+    },
+    {
+      "year": "2000",
+      "en": "Assisi, the Basilica of San Francesco and Other Franciscan Sites",
+      "id": "990",
+      "ar": "أسيزي، بازيليك القديس فرنسيس ومواقع فرنسيسكانية أخرى"
+    },
+    {
+      "year": "2001",
+      "en": "Villa d'Este, Tivoli",
+      "id": "1025",
+      "ar": "فيلاّ ديستي، تيفولي"
+    },
+    {
+      "year": "2002",
+      "en": "Late Baroque Towns of the Val di Noto (South-Eastern Sicily)",
+      "id": "1024",
+      "ar": "مدن الفن الباروكيّ المتأخر في وادي نوتو"
+    },
+    {
+      "year": "2003",
+      "en": "Sacri Monti of Piedmont and Lombardy",
+      "id": "1068",
+      "ar": "ساكري مونتي في البييمون ولومبارديا"
+    },
+    {
+      "year": "2004",
+      "en": "Val d'Orcia",
+      "id": "1026",
+      "ar": "وادي أورتشا"
+    },
+    {
+      "year": "2004",
+      "en": "Etruscan Necropolises of Cerveteri and Tarquinia",
+      "id": "1158",
+      "ar": "المقابر الأترورية في تشيرفيتيري وتاركينيا"
+    },
+    {
+      "year": "2005",
+      "en": "Syracuse and the Rocky Necropolis of Pantalica",
+      "id": "1200",
+      "ar": "سيراكوز ومقبرة بانتاليكا الصخرية"
+    },
+    {
+      "year": "2006",
+      "en": "Genoa: Le Strade Nuove and the system of the Palazzi dei Rolli",
+      "id": "1211",
+      "ar": "جَنَوة، السترادي نووفي ونظام قصور رولّي"
+    },
+    {
+      "year": "2008",
+      "en": "Mantua and Sabbioneta",
+      "id": "1287",
+      "ar": "مدينتا مانتوا وسابيونيتا"
+    },
+    {
+      "year": "2009",
+      "en": "The Dolomites",
+      "id": "1237",
+      "ar": "منطقة الدولوميت من جبال الألب"
+    },
+    {
+      "year": "2011",
+      "en": "Longobards in Italy. Places of the Power (568-774 A.D.)",
+      "id": "1318",
+      "ar": "أمكنة اللمبارديين في إيطاليا، أماكن السلطة، 568- 774 بعد الميلاد"
+    },
+    {
+      "year": "2013",
+      "en": "Medici Villas and Gardens in Tuscany",
+      "id": "175",
+      "ar": null
+    },
+    {
+      "year": "2013",
+      "en": "Mount Etna",
+      "id": "1427",
+      "ar": null
+    },
+    {
+      "year": "2014",
+      "en": "Vineyard Landscape of Piedmont: Langhe-Roero and Monferrato",
+      "id": "1390",
+      "ar": null
+    },
+    {
+      "year": "2015",
+      "en": "Arab-Norman Palermo and the Cathedral Churches of Cefalú and Monreale",
+      "id": "1487",
+      "ar": "باليرمو العربية النورمانية وكاتدرائيتا تشيفالو ومونريالي"
+    },
+    {
+      "year": "2018",
+      "en": "Ivrea, industrial city of the 20th century",
+      "id": "1538",
+      "ar": "مدينة إيفري الصناعية التي تعود للقرن العشرين"
+    },
+    {
+      "year": "2019",
+      "en": "Le Colline del Prosecco di Conegliano e Valdobbiadene",
+      "id": "1571",
+      "ar": "تلال بروسيكو دي كونجليانو وفالدوبياديني"
+    },
+    {
+      "year": "2021",
+      "en": "Padua’s fourteenth-century fresco cycles",
+      "id": "1623",
+      "ar": "سلاسل اللوحات الجدارية في بادوفا التي تعود إلى القرن الرابع عشر"
+    },
+    {
+      "year": "2021",
+      "en": "The Porticoes of Bologna",
+      "id": "1650",
+      "ar": "أروقة بولونيا"
+    },
+    {
+      "year": "2023",
+      "en": "Evaporitic Karst and Caves of Northern Apennines",
+      "id": "1692",
+      "ar": "الكارست والكهوف المتشكلة بفعل التبخر في جبال الأبينيني الشمالية"
+    },
+    {
+      "year": "2024",
+      "en": "Via Appia. Regina Viarum",
+      "id": "1708",
+      "ar": "طريق أبّيا. ملكة الطرق"
+    },
+    {
+      "year": "2025",
+      "en": "Funerary Tradition in the Prehistory of Sardinia – The domus de janas",
+      "id": "1730",
+      "ar": "التقاليد الجنائزية في عصر ما قبل التاريخ في جزيرة سَردينيا – \"دوموس دي ياناس\""
+    },
+    {
+      "year": "2026",
+      "en": "The system of Italian-style condominio theatres of the 18th and 19th centuries in Central Italy",
+      "id": "1762",
+      "ar": "منظومة المسارح الإيطالية ذات نظام الملكية المشتركة"
+    }
+  ],
+  "HR": [
+    {
+      "id": "95",
+      "en": "Old City of Dubrovnik",
+      "ar": "مدينة دوبروفنيك القديمة",
+      "year": "1979"
+    },
+    {
+      "id": "97",
+      "en": "Historical Complex of Split with the Palace of Diocletian",
+      "ar": "نواة سبليت التاريخيّة وقصر دوكليشن",
+      "year": "1979"
+    },
+    {
+      "id": "98",
+      "en": "Plitvice Lakes National Park",
+      "ar": "منتزه بليفيس الوطني",
+      "year": "1979"
+    },
+    {
+      "id": "809",
+      "en": "Episcopal Complex of the Euphrasian Basilica in the Historic Centre of Poreč",
+      "ar": "مجموعة أسقفيّة لبازيليك السيدة العذارء في وسط بوريك التاريخي",
+      "year": "1997"
+    },
+    {
+      "year": "1997",
+      "en": "Historic City of Trogir",
+      "id": "810",
+      "ar": "مدينة تروغير التاريخيّة"
+    },
+    {
+      "year": "2000",
+      "en": "The Cathedral of St James in Šibenik",
+      "id": "963",
+      "ar": "كاتدرائيّة القديس يعقوب في مدينة سيبنيك"
+    },
+    {
+      "year": "2008",
+      "en": "Stari Grad Plain",
+      "id": "1240",
+      "ar": "سهل ستاري غراد"
+    }
+  ],
+  "RS": [
+    {
+      "id": "96",
+      "en": "Stari Ras and Sopoćani",
+      "ar": "مدينة ستاري راس القديمة وسوبوتشاني",
+      "year": "1979"
+    },
+    {
+      "id": "389",
+      "en": "Studenica Monastery",
+      "ar": "دير ستودينسكا",
+      "year": "1986"
+    },
+    {
+      "id": "724",
+      "en": "Medieval Monuments in Kosovo",
+      "ar": "آثار من القرون الوسطى في كوسوفو",
+      "year": "2004"
+    },
+    {
+      "id": "1253",
+      "en": "Gamzigrad-Romuliana, Palace of Galerius",
+      "ar": "غامزيغراد- روموليانا، قصر غاليريوس",
+      "year": "2007"
+    }
+  ],
+  "IR": [
+    {
+      "id": "113",
+      "en": "Tchogha Zanbil",
+      "ar": "تشوغا زنبيل",
+      "year": "1979"
+    },
+    {
+      "id": "114",
+      "en": "Persepolis",
+      "ar": "بيرسبوليس",
+      "year": "1979"
+    },
+    {
+      "id": "115",
+      "en": "Meidan Emam, Esfahan",
+      "ar": "ميدان الإمام، أصفهان",
+      "year": "1979"
+    },
+    {
+      "id": "1077",
+      "en": "Takht-e Soleyman",
+      "ar": "تخت سليمان",
+      "year": "2003"
+    },
+    {
+      "year": "2004",
+      "en": "Pasargadae",
+      "id": "1106",
+      "ar": "بازارقادش"
+    },
+    {
+      "year": "2004",
+      "en": "Bam and its Cultural Landscape",
+      "id": "1208",
+      "ar": "بام ومشهدها الثقافي"
+    },
+    {
+      "year": "2005",
+      "en": "Soltaniyeh",
+      "id": "1188",
+      "ar": "السلطانية"
+    },
+    {
+      "year": "2006",
+      "en": "Bisotun",
+      "id": "1222",
+      "ar": "بيستون"
+    },
+    {
+      "year": "2008",
+      "en": "Armenian Monastic Ensembles of Iran",
+      "id": "1262",
+      "ar": "مجموعة الأديرة الرهبانية الأرمنية في منطقة أذربيجان الإيرانية"
+    },
+    {
+      "year": "2009",
+      "en": "Shushtar Historical Hydraulic System",
+      "id": "1315",
+      "ar": "منظومة شوشتار الهيدرولية التاريخية"
+    },
+    {
+      "year": "2010",
+      "en": "Sheikh Safi al-din Khānegāh and Shrine Ensemble in Ardabil",
+      "id": "1345",
+      "ar": "مجموعة الخانقه وحرم الشيخ صفيّ الدين في أردبيل"
+    },
+    {
+      "year": "2010",
+      "en": "Tabriz Historic Bazaar Complex",
+      "id": "1346",
+      "ar": "مجموعة البازار التاريخي في تبريز"
+    },
+    {
+      "year": "2011",
+      "en": "The Persian Garden",
+      "id": "1372",
+      "ar": "الحديقة الفارسية"
+    },
+    {
+      "year": "2012",
+      "en": "Masjed-e Jāmé of Isfahan",
+      "id": "1397",
+      "ar": null
+    },
+    {
+      "year": "2012",
+      "en": "Gonbad-e Qābus",
+      "id": "1398",
+      "ar": null
+    },
+    {
+      "year": "2013",
+      "en": "Golestan Palace",
+      "id": "1422",
+      "ar": null
+    },
+    {
+      "year": "2014",
+      "en": "Shahr-i Sokhta",
+      "id": "1456",
+      "ar": null
+    },
+    {
+      "year": "2015",
+      "en": "Cultural Landscape of Maymand",
+      "id": "1423",
+      "ar": "موقع ميمند الثقافي"
+    },
+    {
+      "year": "2015",
+      "en": "Susa",
+      "id": "1455",
+      "ar": "مدينة شوشان أو سوسة"
+    },
+    {
+      "year": "2016",
+      "en": "Lut Desert",
+      "id": "1505",
+      "ar": "صحراء لوط"
+    },
+    {
+      "year": "2016",
+      "en": "The Persian Qanat",
+      "id": "1506",
+      "ar": "القناة الفارسية"
+    },
+    {
+      "year": "2017",
+      "en": "Historic City of Yazd",
+      "id": "1544",
+      "ar": null
+    },
+    {
+      "year": "2018",
+      "en": "Sassanid Archaeological Landscape of Fars Region",
+      "id": "1568",
+      "ar": "المنظر الساساني الأثري في منطقة فارس"
+    },
+    {
+      "year": "2021",
+      "en": "Trans-Iranian Railway",
+      "id": "1585",
+      "ar": "السكة الحديدية العابرة لإيران"
+    },
+    {
+      "year": "2021",
+      "en": "Cultural Landscape of Hawraman/Uramanat",
+      "id": "1647",
+      "ar": "المشهد الثقافي في هورامان/أورامنات"
+    },
+    {
+      "year": "2023",
+      "en": "The Persian Caravanserai",
+      "id": "1668",
+      "ar": "الخانات الفارسية"
+    },
+    {
+      "year": "2024",
+      "en": "Hegmataneh",
+      "id": "1716",
+      "ar": "هكمتانه"
+    },
+    {
+      "year": "2025",
+      "en": "Prehistoric Sites of the Khorramabad Valley",
+      "id": "1744",
+      "ar": "مواقع ما قبل التاريخ في وادي خرم آباد"
+    },
+    {
+      "year": "2026",
+      "en": "Alamūt Castle and Related Fortifications",
+      "id": "1770",
+      "ar": "قلعة ألَموت والحصون التابعة لها"
+    }
+  ],
+  "NP": [
+    {
+      "id": "120",
+      "en": "Sagarmatha National Park",
+      "ar": "منتزه ساغارماتا الوطني",
+      "year": "1979"
+    },
+    {
+      "id": "121",
+      "en": "Kathmandu Valley",
+      "ar": "وادي كاتماندو",
+      "year": "1979"
+    },
+    {
+      "id": "284",
+      "en": "Chitwan National Park",
+      "ar": "منتزه جتوان الملكي الوطني",
+      "year": "1984"
+    },
+    {
+      "id": "666",
+      "en": "Lumbini, the Birthplace of the Lord Buddha",
+      "ar": "لومبيني، مكان ولادة بوذا",
+      "year": "1997"
+    }
+  ],
+  "ME": [
+    {
+      "id": "125",
+      "en": "Natural and Culturo-Historical Region of Kotor",
+      "ar": "بقعة كوتور الطبيعية والثقافية والتاريخية",
+      "year": "1979"
+    },
+    {
+      "id": "100",
+      "en": "Durmitor National Park",
+      "ar": "منتزه دورميتور الوطني",
+      "year": "1980"
+    }
+  ],
+  "CY": [
+    {
+      "id": "79",
+      "en": "Paphos",
+      "ar": "بافوس",
+      "year": "1980"
+    },
+    {
+      "id": "351",
+      "en": "Painted Churches in the Troodos Region",
+      "ar": "الكنائس المزيّنة في منطقة ترودوس",
+      "year": "1985"
+    },
+    {
+      "id": "848",
+      "en": "Choirokoitia",
+      "ar": "شويروكويتا",
+      "year": "1998"
+    }
+  ],
+  "DZ": [
+    {
+      "id": "102",
+      "en": "Al Qal'a of Beni Hammad",
+      "ar": "قلعة بني حمّاد",
+      "year": "1980"
+    },
+    {
+      "id": "179",
+      "en": "Tassili n'Ajjer",
+      "ar": "طاسيلي ناجّر",
+      "year": "1982"
+    },
+    {
+      "id": "188",
+      "en": "M'Zab Valley",
+      "ar": "وادي مزاب",
+      "year": "1982"
+    },
+    {
+      "id": "191",
+      "en": "Djémila",
+      "ar": "جميلة",
+      "year": "1982"
+    },
+    {
+      "year": "1982",
+      "en": "Tipasa",
+      "id": "193",
+      "ar": "تيبازا"
+    },
+    {
+      "year": "1982",
+      "en": "Timgad",
+      "id": "194",
+      "ar": "تيمجاد"
+    },
+    {
+      "year": "1992",
+      "en": "Kasbah of Algiers",
+      "id": "565",
+      "ar": "قصبة الجزائر"
+    }
+  ],
+  "BR": [
+    {
+      "id": "124",
+      "en": "Historic Town of Ouro Preto",
+      "ar": "مدينة أورو بريتو التاريخية",
+      "year": "1980"
+    },
+    {
+      "id": "189",
+      "en": "Historic Centre of the Town of Olinda",
+      "ar": "الوسط التاريخي لمدينة أوليندا",
+      "year": "1982"
+    },
+    {
+      "id": "309",
+      "en": "Historic Centre of Salvador de Bahia",
+      "ar": "وسط سلفادور دي باهيا التاريخي",
+      "year": "1985"
+    },
+    {
+      "id": "334",
+      "en": "Sanctuary of Bom Jesus do Congonhas",
+      "ar": "معبد بون جيسوس في كونغونياش",
+      "year": "1985"
+    },
+    {
+      "year": "1986",
+      "en": "Iguaçu National Park",
+      "id": "355",
+      "ar": "منتزه إيغواسو الوطني"
+    },
+    {
+      "year": "1987",
+      "en": "Brasilia",
+      "id": "445",
+      "ar": "برازيليا"
+    },
+    {
+      "year": "1991",
+      "en": "Serra da Capivara National Park",
+      "id": "606",
+      "ar": "منتزه سيرا دا كابيفارا الوطني"
+    },
+    {
+      "year": "1997",
+      "en": "Historic Centre of São Luís",
+      "id": "821",
+      "ar": "وسط ساو لويس التاريخي"
+    },
+    {
+      "year": "1999",
+      "en": "Historic Centre of the Town of Diamantina",
+      "id": "890",
+      "ar": "الوسط التاريخي لمدينة ديامانتينا"
+    },
+    {
+      "year": "1999",
+      "en": "Discovery Coast Atlantic Forest Reserves",
+      "id": "892",
+      "ar": "ساحل الإكتشاف-محميات الغابة الأطلسية"
+    },
+    {
+      "year": "1999",
+      "en": "Atlantic Forest South-East Reserves",
+      "id": "893",
+      "ar": "الغابة الأطلسية- المحميات الجنوبية الشرقية"
+    },
+    {
+      "year": "2000",
+      "en": "Central Amazon Conservation Complex",
+      "id": "998",
+      "ar": "مجمّع حفظ منطقة الأمازون الوسطى"
+    },
+    {
+      "year": "2000",
+      "en": "Pantanal Conservation Area",
+      "id": "999",
+      "ar": "منطقة البنتانال المحمية"
+    },
+    {
+      "year": "2001",
+      "en": "Historic Centre of the Town of Goiás",
+      "id": "993",
+      "ar": "الوسط التاريخي لمدينة غويياس"
+    },
+    {
+      "year": "2001",
+      "en": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves",
+      "id": "1000",
+      "ar": "الجزر الأطلسية البرازيلية: محميّات فرناندو دو نورونيا وجزيرة داس روكاس المرجانية"
+    },
+    {
+      "year": "2001",
+      "en": "Cerrado Protected Areas: Chapada dos Veadeiros and Emas National Parks",
+      "id": "1035",
+      "ar": "محميّات سيرادو: حديقتا شابادا دوس فياديروشوإيماش الوطنيتان"
+    },
+    {
+      "year": "2010",
+      "en": "São Francisco Square in the Town of São Cristóvão",
+      "id": "1272",
+      "ar": "ساحة ساو فرانسيسكو في مدينة ساو كريستوفاو"
+    },
+    {
+      "year": "2012",
+      "en": "Rio de Janeiro: Carioca Landscapes between the Mountain and the Sea",
+      "id": "1100",
+      "ar": null
+    },
+    {
+      "year": "2016",
+      "en": "Pampulha Modern Ensemble",
+      "id": "1493",
+      "ar": "مجمع بامبولها الحديث"
+    },
+    {
+      "year": "2017",
+      "en": "Valongo Wharf Archaeological Site",
+      "id": "1548",
+      "ar": "موقع رصيف الفالونغو الأثري"
+    },
+    {
+      "year": "2019",
+      "en": "Paraty and Ilha Grande – Culture and Biodiversity",
+      "id": "1308",
+      "ar": "مدينة باراتي وجزيرة إلها غراندي - المعالم الثقافية والتنوع البيولوجي"
+    },
+    {
+      "year": "2021",
+      "en": "Sítio Roberto Burle Marx",
+      "id": "1620",
+      "ar": "موقع روبرتو بورل ماركس"
+    },
+    {
+      "year": "2024",
+      "en": "Lençóis Maranhenses National Park",
+      "id": "1611",
+      "ar": "مُتَنَزّه لينسويس مارنيانسيس الوطني"
+    },
+    {
+      "year": "2025",
+      "en": "Peruaçu River Canyon",
+      "id": "1747",
+      "ar": "حديقة كهوف بيرواسو الوطنية"
+    },
+    {
+      "year": "2026",
+      "en": "Amazonia Theaters",
+      "id": "1774",
+      "ar": null
+    }
+  ],
+  "HN": [
+    {
+      "id": "129",
+      "en": "Maya Site of Copan",
+      "ar": "موقع كوبان العائد لحضارة المايا",
+      "year": "1980"
+    },
+    {
+      "id": "196",
+      "en": "Río Plátano Biosphere Reserve",
+      "ar": "محمية المحيط الحيوي لريو بلاتانو",
+      "year": "1982"
+    }
+  ],
+  "MT": [
+    {
+      "id": "130",
+      "en": "Ħal Saflieni Hypogeum",
+      "ar": "ناووس حال صافليني",
+      "year": "1980"
+    },
+    {
+      "id": "131",
+      "en": "City of Valletta",
+      "ar": "مدينة فاليتا",
+      "year": "1980"
+    },
+    {
+      "id": "132",
+      "en": "Megalithic Temples of Malta",
+      "ar": "معابد مالطا المبنيّة من الأحجار الضخمة المستعملة في عصور ما قبل التاريخ",
+      "year": "1980"
+    }
+  ],
+  "PA": [
+    {
+      "id": "135",
+      "en": "Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo",
+      "ar": "تحصينات الساحل الكاريبي في باناما: بورتوبيلو سان لورينزو",
+      "year": "1980"
+    },
+    {
+      "id": "159",
+      "en": "Darien National Park",
+      "ar": "منتزه داريان الوطني",
+      "year": "1981"
+    },
+    {
+      "id": "1138",
+      "en": "Coiba National Park and its Special Zone of Marine Protection",
+      "ar": "منتزه كويبا الوطني ومنطقة كويبا الخاصة للحماية البحرية",
+      "year": "2005"
+    },
+    {
+      "id": "1582",
+      "en": "The Colonial Transisthmian Route of Panamá",
+      "ar": "الطريق الاستعماري العابر لبرزخ بنما",
+      "year": "2025"
+    }
+  ],
+  "PK": [
+    {
+      "id": "138",
+      "en": "Archaeological Ruins at Moenjodaro",
+      "ar": "آثار موهنجودارو",
+      "year": "1980"
+    },
+    {
+      "id": "139",
+      "en": "Taxila",
+      "ar": "تاكسيلا",
+      "year": "1980"
+    },
+    {
+      "id": "140",
+      "en": "Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol",
+      "ar": "الآثار البوذية في تختي باهي وبقايا سحري بهلول",
+      "year": "1980"
+    },
+    {
+      "id": "143",
+      "en": "Historical Monuments at Makli, Thatta",
+      "ar": "نصب تحتا التاريخية",
+      "year": "1981"
+    },
+    {
+      "year": "1981",
+      "en": "Fort and Shalamar Gardens in Lahore",
+      "id": "171",
+      "ar": "حصن وحدائق شاليمار في لاهور"
+    },
+    {
+      "year": "1997",
+      "en": "Rohtas Fort",
+      "id": "586",
+      "ar": "حصن رحتاس"
+    }
+  ],
+  "AR": [
+    {
+      "id": "145",
+      "en": "Los Glaciares National Park",
+      "ar": "لوس غلاسياريس",
+      "year": "1981"
+    },
+    {
+      "id": "303",
+      "en": "Iguazu National Park",
+      "ar": "منتزه إيغوازو الوطني",
+      "year": "1984"
+    },
+    {
+      "id": "936",
+      "en": "Cueva de las Manos, Río Pinturas",
+      "ar": "كويفا دي لاس مانوس، ريو بينتوراس",
+      "year": "1999"
+    },
+    {
+      "id": "937",
+      "en": "Península Valdés",
+      "ar": "شبه جزيرة فالديه",
+      "year": "1999"
+    },
+    {
+      "year": "2000",
+      "en": "Ischigualasto / Talampaya Natural Parks",
+      "id": "966",
+      "ar": "منتزها إيشيغوالاستو - تالامبايا الطبيعيان"
+    },
+    {
+      "year": "2000",
+      "en": "Jesuit Block and Estancias of Córdoba",
+      "id": "995",
+      "ar": "المجمّع والإستانسياس اليسوعية في قرطبة"
+    },
+    {
+      "year": "2003",
+      "en": "Quebrada de Humahuaca",
+      "id": "1116",
+      "ar": "كيبرادا دي هوماهواكا"
+    },
+    {
+      "year": "2017",
+      "en": "Los Alerces National Park",
+      "id": "1526",
+      "ar": null
+    },
+    {
+      "year": "2023",
+      "en": "ESMA Museum and Site of Memory – Former Clandestine Centre of Detention, Torture and Extermination",
+      "id": "1681",
+      "ar": "متحف \"إيسما\" والموقع التذكاري – مركز سري سابق للاعتقال والتعذيب والإبادة"
+    }
+  ],
+  "AU": [
+    {
+      "id": "147",
+      "en": "Kakadu National Park",
+      "ar": "منتزه كاكادو الوطني",
+      "year": "1981"
+    },
+    {
+      "id": "154",
+      "en": "Great Barrier Reef",
+      "ar": "حاجز الشعب المرجانية الكبير",
+      "year": "1981"
+    },
+    {
+      "id": "167",
+      "en": "Willandra Lakes Region",
+      "ar": "منطقة بحيرات ويلاندرا",
+      "year": "1981"
+    },
+    {
+      "id": "181",
+      "en": "Tasmanian Wilderness",
+      "ar": "منطقة الطبيعة العذراء في تاسمانيا",
+      "year": "1982"
+    },
+    {
+      "year": "1982",
+      "en": "Lord Howe Island Group",
+      "id": "186",
+      "ar": "جزر اللورد هوي"
+    },
+    {
+      "year": "1986",
+      "en": "Gondwana Rainforests of Australia",
+      "id": "368",
+      "ar": "غابات الأمطار غوندوانا في اوستراليا"
+    },
+    {
+      "year": "1987",
+      "en": "Uluru-Kata Tjuta National Park",
+      "id": "447",
+      "ar": "منتزه أولورو- كاتا تجوتا الوطني"
+    },
+    {
+      "year": "1988",
+      "en": "Wet Tropics of Queensland",
+      "id": "486",
+      "ar": "مناطق إستوائية رطبة في كوينزلاند"
+    },
+    {
+      "year": "1991",
+      "en": "Shark Bay, Western Australia",
+      "id": "578",
+      "ar": "شارك باي، أستراليا الغربية"
+    },
+    {
+      "year": "1992",
+      "en": "K’gari",
+      "id": "630",
+      "ar": "جزيرة فرايزر"
+    },
+    {
+      "year": "1994",
+      "en": "Australian Fossil Mammal Sites (Riversleigh / Naracoorte)",
+      "id": "698",
+      "ar": "مواقع متحجرات ثدييات من أستراليا (ريفرسلاي/ ناراكورت)"
+    },
+    {
+      "year": "1997",
+      "en": "Heard and McDonald Islands",
+      "id": "577",
+      "ar": "جزر هارد وماكدونالد"
+    },
+    {
+      "year": "1997",
+      "en": "Macquarie Island",
+      "id": "629",
+      "ar": "جزيرة ماكَّاري"
+    },
+    {
+      "year": "2000",
+      "en": "Greater Blue Mountains Area",
+      "id": "917",
+      "ar": "منطقة الجبال الزرقاء"
+    },
+    {
+      "year": "2003",
+      "en": "Purnululu National Park",
+      "id": "1094",
+      "ar": "منتزه بورنولولو الوطني"
+    },
+    {
+      "year": "2004",
+      "en": "Royal Exhibition Building and Carlton Gardens",
+      "id": "1131",
+      "ar": "مبنى المعرض الملكي وحدائق كارلتون"
+    },
+    {
+      "year": "2007",
+      "en": "Sydney Opera House",
+      "id": "166",
+      "ar": "دار الأوبرا، سيدني"
+    },
+    {
+      "year": "2010",
+      "en": "Australian Convict Sites",
+      "id": "1306",
+      "ar": "مواقع سجون المنافي"
+    },
+    {
+      "year": "2011",
+      "en": "Ningaloo Coast",
+      "id": "1369",
+      "ar": null
+    },
+    {
+      "year": "2019",
+      "en": "Budj Bim Cultural Landscape",
+      "id": "1577",
+      "ar": "لمنظر الثقافي في بودج بيم"
+    },
+    {
+      "year": "2025",
+      "en": "Murujuga Cultural Landscape",
+      "id": "1709",
+      "ar": "المنظر الطبيعي الثقافي في موروجوگا"
+    }
+  ],
+  "MA": [
+    {
+      "id": "170",
+      "en": "Medina of Fez",
+      "ar": "مدينة فاس",
+      "year": "1981"
+    },
+    {
+      "id": "331",
+      "en": "Medina of Marrakesh",
+      "ar": "مدينة مراكش",
+      "year": "1985"
+    },
+    {
+      "id": "444",
+      "en": "Ksar of Ait-Ben-Haddou",
+      "ar": "قصر آيت بن حدو",
+      "year": "1987"
+    },
+    {
+      "id": "793",
+      "en": "Historic City of Meknes",
+      "ar": "مدينة مكناس التاريخيّة",
+      "year": "1996"
+    },
+    {
+      "year": "1997",
+      "en": "Archaeological Site of Volubilis",
+      "id": "836",
+      "ar": "موقع وليلي الاثري"
+    },
+    {
+      "year": "1997",
+      "en": "Medina of Tétouan (formerly known as Titawin)",
+      "id": "837",
+      "ar": "مدينة تطوان (قديمًا تيطاوين)"
+    },
+    {
+      "year": "2001",
+      "en": "Medina of Essaouira (formerly Mogador)",
+      "id": "753",
+      "ar": "مدينة الصويرة (قديمًا موغادور)"
+    },
+    {
+      "year": "2004",
+      "en": "Portuguese City of Mazagan (El Jadida)",
+      "id": "1058",
+      "ar": "مدينة مازاكان البرتغالية (الجديدة)"
+    },
+    {
+      "year": "2012",
+      "en": "Rabat, Modern Capital and Historic City: a Shared Heritage",
+      "id": "1401",
+      "ar": null
+    }
+  ],
+  "HT": [
+    {
+      "id": "180",
+      "en": "National History Park – Citadel, Sans Souci, Ramiers",
+      "ar": "منتزه وطني تاريخي:القلعة، وقصر سان سوسي والمباني في رامييه",
+      "year": "1982"
+    }
+  ],
+  "LY": [
+    {
+      "id": "183",
+      "en": "Archaeological Site of Leptis Magna",
+      "ar": "موقع لبدة الأثري (لبتس ماغنا) (لبدة الكبرى )",
+      "year": "1982"
+    },
+    {
+      "id": "184",
+      "en": "Archaeological Site of Sabratha",
+      "ar": "موقع سبراطة الأثري",
+      "year": "1982"
+    },
+    {
+      "id": "190",
+      "en": "Archaeological Site of Cyrene",
+      "ar": "موقع شحات (قورينة) الأثري",
+      "year": "1982"
+    },
+    {
+      "id": "287",
+      "en": "Rock-Art Sites of Tadrart Acacus",
+      "ar": "مواقع تادرارت أكاكوس الصخرية",
+      "year": "1985"
+    },
+    {
+      "year": "1986",
+      "en": "Old Town of Ghadamès",
+      "id": "362",
+      "ar": "مدينة غدامس القديمة"
+    }
+  ],
+  "SC": [
+    {
+      "id": "185",
+      "en": "Aldabra Atoll",
+      "ar": "جزيرة ألدابرا المرجانية",
+      "year": "1982"
+    },
+    {
+      "id": "261",
+      "en": "Vallée de Mai Nature Reserve",
+      "ar": "المحمية الطبيعية وادي ماي",
+      "year": "1983"
+    }
+  ],
+  "YE": [
+    {
+      "id": "192",
+      "en": "Old Walled City of Shibam",
+      "ar": "مدينة شبام القديمة وسورها",
+      "year": "1982"
+    },
+    {
+      "id": "385",
+      "en": "Old City of Sana'a",
+      "ar": "مدينة صنعاء القديمة",
+      "year": "1986"
+    },
+    {
+      "id": "611",
+      "en": "Historic Town of Zabid",
+      "ar": "حاضرة زبيد التاريخية",
+      "year": "1993"
+    },
+    {
+      "id": "1263",
+      "en": "Socotra Archipelago",
+      "ar": "أرخبيل سقطرى",
+      "year": "2008"
+    },
+    {
+      "year": "2023",
+      "en": "Landmarks of the Ancient Kingdom of Saba, Marib",
+      "id": "1700",
+      "ar": null
+    }
+  ],
+  "CI": [
+    {
+      "id": "195",
+      "en": "Taï National Park",
+      "ar": "منتزه تاي الوطني",
+      "year": "1982"
+    },
+    {
+      "id": "227",
+      "en": "Comoé National Park",
+      "ar": "منتزه كوموي الوطني",
+      "year": "1983"
+    },
+    {
+      "id": "1322",
+      "en": "Historic Town of Grand-Bassam",
+      "ar": null,
+      "year": "2012"
+    },
+    {
+      "id": "1648",
+      "en": "Sudanese style mosques in northern Côte d’Ivoire",
+      "ar": "جوامع ذات طراز معماري سوداني في شمال كوت ديفوار",
+      "year": "2021"
+    }
+  ],
+  "LK": [
+    {
+      "id": "200",
+      "en": "Sacred City of Anuradhapura",
+      "ar": "مدينة أنوردابورا",
+      "year": "1982"
+    },
+    {
+      "id": "201",
+      "en": "Ancient City of Polonnaruwa",
+      "ar": "مدينة بولوناروا التاريخية",
+      "year": "1982"
+    },
+    {
+      "id": "202",
+      "en": "Ancient City of Sigiriya",
+      "ar": "مدينة سيغيريا القديمة",
+      "year": "1982"
+    },
+    {
+      "id": "405",
+      "en": "Sinharaja Forest Reserve",
+      "ar": "محمية سينهاراجا الحرجية",
+      "year": "1988"
+    },
+    {
+      "year": "1988",
+      "en": "Sacred City of Kandy",
+      "id": "450",
+      "ar": "مدينة كاندي المقدسة"
+    },
+    {
+      "year": "1988",
+      "en": "Old Town of Galle and its Fortifications",
+      "id": "451",
+      "ar": "مدينة غال القديمة وتحصيناتها"
+    },
+    {
+      "year": "1991",
+      "en": "Rangiri Dambulla Cave Temple",
+      "id": "561",
+      "ar": "المعبد الذهبي في دامبولا"
+    },
+    {
+      "year": "2010",
+      "en": "Central Highlands of Sri Lanka",
+      "id": "1203",
+      "ar": "المرتفعات الوسطى في سري لانكا"
+    }
+  ],
+  "CU": [
+    {
+      "id": "204",
+      "en": "Old Havana and its Fortification System",
+      "ar": "مدينة هافانا القديمة ونظام الحصون",
+      "year": "1982"
+    },
+    {
+      "id": "460",
+      "en": "Trinidad and the Valley de los Ingenios",
+      "ar": "ترينيداد ووادي لوس إنجينوس",
+      "year": "1988"
+    },
+    {
+      "id": "841",
+      "en": "San Pedro de la Roca Castle, Santiago de Cuba",
+      "ar": "قصر سان بيدور دي لا روكا، سانتياغو",
+      "year": "1997"
+    },
+    {
+      "id": "840",
+      "en": "Viñales Valley",
+      "ar": "وادي فينيالس",
+      "year": "1999"
+    },
+    {
+      "year": "1999",
+      "en": "Desembarco del Granma National Park",
+      "id": "889",
+      "ar": "منتزه ديزيمباركو ديل غرانما الوطني"
+    },
+    {
+      "year": "2000",
+      "en": "Archaeological Landscape of the First Coffee Plantations in the South-East of Cuba",
+      "id": "1008",
+      "ar": "منظر أثري لمشاتل القهوة الأولى في جنوب شرق كوبا"
+    },
+    {
+      "year": "2001",
+      "en": "Alejandro de Humboldt National Park",
+      "id": "839",
+      "ar": "منتزه أليخاندرو دي هومبولت الوطني"
+    },
+    {
+      "year": "2005",
+      "en": "Urban Historic Centre of Cienfuegos",
+      "id": "1202",
+      "ar": "وسط سيانفويغوس التاريخي الأثري"
+    },
+    {
+      "year": "2008",
+      "en": "Historic Centre of Camagüey",
+      "id": "1270",
+      "ar": "مركز كاماغواي التاريخي"
+    }
+  ],
+  "PT": [
+    {
+      "id": "206",
+      "en": "Central Zone of the Town of Angra do Heroismo in the Azores",
+      "ar": "مركز أنغرا دو هيروسيمو في جزر الأزور",
+      "year": "1983"
+    },
+    {
+      "id": "263",
+      "en": "Monastery of the Hieronymites and Tower of Belém in Lisbon",
+      "ar": "دير الرهبان الدومينيكيين وبرج بيليم في لشبونة",
+      "year": "1983"
+    },
+    {
+      "id": "264",
+      "en": "Monastery of Batalha",
+      "ar": "دير بطليوس",
+      "year": "1983"
+    },
+    {
+      "id": "265",
+      "en": "Convent of Christ in Tomar",
+      "ar": "دير السيد المسيح في تومار",
+      "year": "1983"
+    },
+    {
+      "year": "1986",
+      "en": "Historic Centre of Évora",
+      "id": "361",
+      "ar": "وسط إيفورا التاريخي"
+    },
+    {
+      "year": "1989",
+      "en": "Monastery of Alcobaça",
+      "id": "505",
+      "ar": "دير ألكوباسا"
+    },
+    {
+      "year": "1995",
+      "en": "Cultural Landscape of Sintra",
+      "id": "723",
+      "ar": "المنظر الثقافي في سينترا"
+    },
+    {
+      "year": "1996",
+      "en": "Historic Centre of Oporto, Luiz I Bridge and Monastery of Serra do Pilar",
+      "id": "755",
+      "ar": "وسط بورتو التاريخي"
+    },
+    {
+      "year": "1999",
+      "en": "Laurisilva of Madeira",
+      "id": "934",
+      "ar": "غابة الغار في ماديرا"
+    },
+    {
+      "year": "2001",
+      "en": "Historic Centre of Guimarães and Couros Zone",
+      "id": "1031",
+      "ar": "وسط غيماراييس التاريخي ومنطقة كوروس"
+    },
+    {
+      "year": "2001",
+      "en": "Alto Douro Wine Region",
+      "id": "1046",
+      "ar": "منطقة الكروم في دورو العليا"
+    },
+    {
+      "year": "2004",
+      "en": "Landscape of the Pico Island Vineyard Culture",
+      "id": "1117",
+      "ar": "منظر كروم جزيرة بيكو"
+    },
+    {
+      "year": "2012",
+      "en": "Garrison Border Town of Elvas and its Fortifications",
+      "id": "1367",
+      "ar": null
+    },
+    {
+      "year": "2013",
+      "en": "University of Coimbra – Alta and Sofia",
+      "id": "1387",
+      "ar": null
+    },
+    {
+      "year": "2019",
+      "en": "Royal Building of Mafra – Palace, Basilica, Convent, Cerco Garden and Hunting Park (Tapada)",
+      "id": "1573",
+      "ar": "مبنى المفرى الملكي - القصر، الكنسية، الدير، حديقة سيركو، حديقة الصيد"
+    },
+    {
+      "year": "2019",
+      "en": "Sanctuary of Bom Jesus do Monte in Braga",
+      "id": "1590",
+      "ar": "كنيسة يسوع الصالح في مونتي في براغا-"
+    }
+  ],
+  "IN": [
+    {
+      "id": "242",
+      "en": "Ajanta Caves",
+      "ar": "كهُف أجانتا",
+      "year": "1983"
+    },
+    {
+      "id": "243",
+      "en": "Ellora Caves",
+      "ar": "كُهف إلورا",
+      "year": "1983"
+    },
+    {
+      "id": "251",
+      "en": "Agra Fort",
+      "ar": "قلعة أغرا",
+      "year": "1983"
+    },
+    {
+      "id": "252",
+      "en": "Taj Mahal",
+      "ar": "تاج محل",
+      "year": "1983"
+    },
+    {
+      "year": "1984",
+      "en": "Sun Temple, Konârak",
+      "id": "246",
+      "ar": "معبد الشمس في كوناراك"
+    },
+    {
+      "year": "1984",
+      "en": "Group of Monuments at Mahabalipuram",
+      "id": "249",
+      "ar": "مجمّع نصب ماهاباليبورام"
+    },
+    {
+      "year": "1985",
+      "en": "Kaziranga National Park",
+      "id": "337",
+      "ar": "روضة كازيرانغا الوطنية"
+    },
+    {
+      "year": "1985",
+      "en": "Manas Wildlife Sanctuary",
+      "id": "338",
+      "ar": "موئل ماناس للحيوانات"
+    },
+    {
+      "year": "1985",
+      "en": "Keoladeo National Park",
+      "id": "340",
+      "ar": "روضة كيولاديو الوطنية"
+    },
+    {
+      "year": "1986",
+      "en": "Churches and Convents of Goa",
+      "id": "234",
+      "ar": "كنائس وأديرة غوا"
+    },
+    {
+      "year": "1986",
+      "en": "Khajuraho Group of Monuments",
+      "id": "240",
+      "ar": "مجمّع نصب خاجوراهو"
+    },
+    {
+      "year": "1986",
+      "en": "Group of Monuments at Hampi",
+      "id": "241",
+      "ar": "مجمّع النصب في هامبي"
+    },
+    {
+      "year": "1986",
+      "en": "Fatehpur Sikri",
+      "id": "255",
+      "ar": "فاتهبور سكري"
+    },
+    {
+      "year": "1987",
+      "en": "Group of Monuments at Pattadakal",
+      "id": "239",
+      "ar": "مجمّع نصب باتاداكال"
+    },
+    {
+      "year": "1987",
+      "en": "Elephanta Caves",
+      "id": "244",
+      "ar": "كهوف إليفانتا"
+    },
+    {
+      "year": "1987",
+      "en": "Great Living Chola Temples",
+      "id": "250",
+      "ar": "معابد شولا الكبيرة الحية"
+    },
+    {
+      "year": "1987",
+      "en": "Sundarbans National Park",
+      "id": "452",
+      "ar": "منتزه سنداربنس الوطني"
+    },
+    {
+      "year": "1988",
+      "en": "Nanda Devi and Valley of Flowers National Parks",
+      "id": "335",
+      "ar": "منتزهات ناندا ديوي الوطنية ووادي الزهور"
+    },
+    {
+      "year": "1989",
+      "en": "Buddhist Monuments at Sanchi",
+      "id": "524",
+      "ar": "نصب سانشي البوذية"
+    },
+    {
+      "year": "1993",
+      "en": "Humayun's Tomb, Delhi",
+      "id": "232",
+      "ar": "ضريح هميون"
+    },
+    {
+      "year": "1993",
+      "en": "Qutb Minar and its Monuments, Delhi",
+      "id": "233",
+      "ar": "نصب قطب مينار ، دلهي"
+    },
+    {
+      "year": "1999",
+      "en": "Mountain Railways of India",
+      "id": "944",
+      "ar": "السكك الحديد في جبال الهند دلهي"
+    },
+    {
+      "year": "2002",
+      "en": "Mahabodhi Temple Complex at Bodh Gaya",
+      "id": "1056",
+      "ar": "مجمع معابد مهابودهي في بودهغايا"
+    },
+    {
+      "year": "2003",
+      "en": "Rock Shelters of Bhimbetka",
+      "id": "925",
+      "ar": "ملاجئ بيمبتكا الصخرية"
+    },
+    {
+      "year": "2004",
+      "en": "Chhatrapati Shivaji Terminus (formerly Victoria Terminus)",
+      "id": "945",
+      "ar": "محطة تشاتراباتي شيفاجي المعروفة آنفاً بمحطة فكتوريا"
+    },
+    {
+      "year": "2004",
+      "en": "Champaner-Pavagadh Archaeological Park",
+      "id": "1101",
+      "ar": "منتزه شامبانر الأثري في بافاغاد"
+    },
+    {
+      "year": "2007",
+      "en": "Red Fort Complex",
+      "id": "231",
+      "ar": "مجمَّع الحصن الأحمر، دلهي"
+    },
+    {
+      "year": "2010",
+      "en": "The Jantar Mantar, Jaipur",
+      "id": "1338",
+      "ar": "جانتار مانتار، في مدينة جانيبور"
+    },
+    {
+      "year": "2012",
+      "en": "Western Ghats",
+      "id": "1342",
+      "ar": null
+    },
+    {
+      "year": "2013",
+      "en": "Hill Forts of Rajasthan",
+      "id": "247",
+      "ar": null
+    },
+    {
+      "year": "2014",
+      "en": "Rani-ki-Vav (the Queen’s Stepwell) at Patan, Gujarat",
+      "id": "922",
+      "ar": null
+    },
+    {
+      "year": "2014",
+      "en": "Great Himalayan National Park Conservation Area",
+      "id": "1406",
+      "ar": null
+    },
+    {
+      "year": "2016",
+      "en": "Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar",
+      "id": "1502",
+      "ar": "الآثار المرمّمة في مقاطعة نالاندا"
+    },
+    {
+      "year": "2016",
+      "en": "Khangchendzonga National Park",
+      "id": "1513",
+      "ar": "حديقة كانغشينجونغا الوطنيّة"
+    },
+    {
+      "year": "2017",
+      "en": "Historic City of Ahmadabad",
+      "id": "1551",
+      "ar": null
+    },
+    {
+      "year": "2018",
+      "en": "Victorian Gothic and Art Deco Ensembles of Mumbai",
+      "id": "1480",
+      "ar": "مجامع مدينة مومباي الفكتورية المشيدة على الطراز القوطي الحديث وأسلوب الزخرفة"
+    },
+    {
+      "year": "2019",
+      "en": "Jaipur City, Rajasthan",
+      "id": "1605",
+      "ar": null
+    },
+    {
+      "year": "2021",
+      "en": "Kakatiya Rudreshwara (Ramappa) Temple, Telangana",
+      "id": "1570",
+      "ar": "معبد ككاتيا"
+    },
+    {
+      "year": "2021",
+      "en": "Dholavira: a Harappan City",
+      "id": "1645",
+      "ar": "دولافيرا: مدينة من حضارة وادي السند"
+    },
+    {
+      "year": "2023",
+      "en": "Santiniketan",
+      "id": "1375",
+      "ar": "سانتينيكتان"
+    },
+    {
+      "year": "2023",
+      "en": "Sacred Ensembles of the Hoysalas",
+      "id": "1670",
+      "ar": "مجمعات هويسالا المقدسة"
+    },
+    {
+      "year": "2024",
+      "en": "Moidams – the Mound-Burial System of the Ahom Dynasty",
+      "id": "1711",
+      "ar": "نظام مدافن التلال العائد لسلالة آهوم (الهند)"
+    },
+    {
+      "year": "2025",
+      "en": "Maratha Military Landscapes of India",
+      "id": "1739",
+      "ar": "المناظر الطبيعية العسكرية للماراثا"
+    },
+    {
+      "year": "2026",
+      "en": "Ancient Buddhist Site of Sarnath",
+      "id": "927",
+      "ar": "موقع سارناث البوذي القديم"
+    }
+  ],
+  "CH": [
+    {
+      "id": "267",
+      "en": "Old City of Berne",
+      "ar": "مدينة برن القديمة",
+      "year": "1983"
+    },
+    {
+      "id": "268",
+      "en": "Abbey of St Gall",
+      "ar": "دير سانت غال",
+      "year": "1983"
+    },
+    {
+      "id": "269",
+      "en": "Benedictine Convent of St John at Müstair",
+      "ar": "دير القديس يوحنا للراهبات في موستاير",
+      "year": "1983"
+    },
+    {
+      "id": "884",
+      "en": "Three Castles, Defensive Wall and Ramparts of the Market-Town of Bellinzona",
+      "ar": "ثلاثة قصور وسور وأسوار مدينة بيلينزون",
+      "year": "2000"
+    },
+    {
+      "year": "2001",
+      "en": "Swiss Alps Jungfrau-Aletsch",
+      "id": "1037",
+      "ar": "يونغفراو وأليتش وبيتشهورن"
+    },
+    {
+      "year": "2007",
+      "en": "Lavaux, Vineyard Terraces",
+      "id": "1243",
+      "ar": "لافو، حقول الكروم المطلة على بحيرة جنيف وجبال الألب"
+    },
+    {
+      "year": "2008",
+      "en": "Swiss Tectonic Arena Sardona",
+      "id": "1179",
+      "ar": "موقع ساردونا التكتوني الأعلى"
+    },
+    {
+      "year": "2009",
+      "en": "La Chaux-de-Fonds / Le Locle, Watchmaking Town Planning",
+      "id": "1302",
+      "ar": "لاشو ـ دي ـ فون/ للوكل"
+    }
+  ],
+  "PE": [
+    {
+      "id": "273",
+      "en": "City of Cuzco",
+      "ar": "مدينة كوزكو",
+      "year": "1983"
+    },
+    {
+      "id": "274",
+      "en": "Historic Sanctuary of Machu Picchu",
+      "ar": "معابد ماشو بيتشو التاريخيّة",
+      "year": "1983"
+    },
+    {
+      "id": "330",
+      "en": "Chavin (Archaeological Site)",
+      "ar": "موقع شافين الأثري",
+      "year": "1985"
+    },
+    {
+      "id": "333",
+      "en": "Huascarán National Park",
+      "ar": "منتزه هواسكاران الوطني",
+      "year": "1985"
+    },
+    {
+      "year": "1986",
+      "en": "Chan Chan Archaeological Zone",
+      "id": "366",
+      "ar": "منطقة تشان تشان الأثريّة"
+    },
+    {
+      "year": "1987",
+      "en": "Manú National Park",
+      "id": "402",
+      "ar": "منتزه مانو الوطني"
+    },
+    {
+      "year": "1988",
+      "en": "Historic Centre of Lima",
+      "id": "500",
+      "ar": "وسط ليما التاريخي"
+    },
+    {
+      "year": "1990",
+      "en": "Río Abiseo National Park",
+      "id": "548",
+      "ar": "منتزه ريو أبيزيو الوطني"
+    },
+    {
+      "year": "1994",
+      "en": "Lines and Geoglyphs of Nasca and Palpa",
+      "id": "700",
+      "ar": "الخطوط والنقوش الطبيعية في نازكا وبامباس دو جومانا"
+    },
+    {
+      "year": "2000",
+      "en": "Historical Centre of the City of Arequipa",
+      "id": "1016",
+      "ar": "وسط مدينة أريكيبا التاريخي"
+    },
+    {
+      "year": "2009",
+      "en": "Sacred City of Caral-Supe",
+      "id": "1269",
+      "ar": "حاضرة كارال ـ سوبِه المقدسة"
+    },
+    {
+      "year": "2021",
+      "en": "Chankillo Archaeoastronomical Complex",
+      "id": "1624",
+      "ar": "مجمَّع شنكيلو الأثري الفلكي"
+    }
+  ],
+  "CO": [
+    {
+      "id": "285",
+      "en": "Port, Fortresses and Group of Monuments, Cartagena",
+      "ar": "مرفأ و حصون ومجموعة أثريّة- كارتاخينا",
+      "year": "1984"
+    },
+    {
+      "id": "711",
+      "en": "Los Katíos National Park",
+      "ar": "منتزه لوس كاتيوس الوطني",
+      "year": "1994"
+    },
+    {
+      "id": "742",
+      "en": "Historic Centre of Santa Cruz de Mompox",
+      "ar": "وسط سانتا كروز التاريخي في موبوكس",
+      "year": "1995"
+    },
+    {
+      "id": "743",
+      "en": "National Archeological Park of Tierradentro",
+      "ar": "منتزه تييرادينترو الوطني الأثري",
+      "year": "1995"
+    },
+    {
+      "year": "1995",
+      "en": "San Agustín Archaeological Park",
+      "id": "744",
+      "ar": "منتزه سان أوغسطان الأثري"
+    },
+    {
+      "year": "2006",
+      "en": "Malpelo Fauna and Flora Sanctuary",
+      "id": "1216",
+      "ar": "محمية مالبيلو للحيوانات والنباتات"
+    },
+    {
+      "year": "2011",
+      "en": "Coffee Cultural Landscape of Colombia",
+      "id": "1121",
+      "ar": "المشهد الثقافي للقهوة الكولومبيا"
+    },
+    {
+      "year": "2018",
+      "en": "Chiribiquete National Park – “The Maloca of the Jaguar”",
+      "id": "1174",
+      "ar": "حديقة شيريبيكيت الوطنية (لا مالوكا دو كاغوار)"
+    }
+  ],
+  "VA": [
+    {
+      "id": "286",
+      "en": "Vatican City",
+      "ar": "حاضرة الفاتيكان",
+      "year": "1984"
+    }
+  ],
+  "MW": [
+    {
+      "id": "289",
+      "en": "Lake Malawi National Park",
+      "ar": "الروضة الوطنيّة على نهر ملاوي",
+      "year": "1984"
+    },
+    {
+      "id": "476",
+      "en": "Chongoni Rock-Art Area",
+      "ar": "فن النقش والرسوم على الصخور في شونغوني",
+      "year": "2006"
+    },
+    {
+      "id": "1201",
+      "en": "Mount Mulanje Cultural Landscape",
+      "ar": null,
+      "year": "2025"
+    }
+  ],
+  "LB": [
+    {
+      "id": "293",
+      "en": "Anjar",
+      "ar": "عنجر",
+      "year": "1984"
+    },
+    {
+      "id": "294",
+      "en": "Baalbek",
+      "ar": "بعلبك",
+      "year": "1984"
+    },
+    {
+      "id": "295",
+      "en": "Byblos",
+      "ar": "جبيل",
+      "year": "1984"
+    },
+    {
+      "id": "299",
+      "en": "Tyre",
+      "ar": "صور",
+      "year": "1984"
+    },
+    {
+      "year": "1998",
+      "en": "Ouadi Qadisha (the Holy Valley) and the Forest of the Cedars of God (Horsh Arz el-Rab)",
+      "id": "850",
+      "ar": "وادي قاديشا أو الوادي المقدس وحرش أرز الرب"
+    },
+    {
+      "year": "2023",
+      "en": "Rachid Karami International Fair-Tripoli",
+      "id": "1702",
+      "ar": "رشيد كرامي الدولي في طرابلس"
+    },
+    {
+      "year": "2026",
+      "en": "Mount Amel Castles",
+      "id": "1810",
+      "ar": "قلاع جبل عامل"
+    }
+  ],
+  "ZW": [
+    {
+      "id": "302",
+      "en": "Mana Pools National Park, Sapi and Chewore Safari Areas",
+      "ar": "محمية مانا بولز الوطنية ومناطق سافاري سابي وشيووري",
+      "year": "1984"
+    },
+    {
+      "id": "364",
+      "en": "Great Zimbabwe National Monument",
+      "ar": "نصب زيمبابوي الكبرى الوطني",
+      "year": "1986"
+    },
+    {
+      "id": "365",
+      "en": "Khami Ruins National Monument",
+      "ar": "آثار خامي",
+      "year": "1986"
+    },
+    {
+      "id": "306",
+      "en": "Matobo Hills",
+      "ar": "تلال ماتوبو",
+      "year": "2003"
+    }
+  ],
+  "ES": [
+    {
+      "id": "313",
+      "en": "Historic Centre of Cordoba",
+      "ar": "وسط قرطبة التاريخي",
+      "year": "1984"
+    },
+    {
+      "id": "314",
+      "en": "Alhambra, Generalife and Albayzín, Granada",
+      "ar": "الحمراء، جينيراليف البيازين، غرناطة",
+      "year": "1984"
+    },
+    {
+      "id": "316",
+      "en": "Burgos Cathedral",
+      "ar": "كاتدرائيّة بورغوس",
+      "year": "1984"
+    },
+    {
+      "id": "318",
+      "en": "Monastery and Site of the Escurial, Madrid",
+      "ar": "دير الإسكوريال وموقعه (مدريد)",
+      "year": "1984"
+    },
+    {
+      "year": "1984",
+      "en": "Works of Antoni Gaudí",
+      "id": "320",
+      "ar": "أعمال أنطوني غاودي"
+    },
+    {
+      "year": "1985",
+      "en": "Cave of Altamira and Paleolithic Cave Art of Northern Spain",
+      "id": "310",
+      "ar": "كهف ألتاميرا وفن النقش في الصخور في العصر الحجري القديم في شمال إسبانيا"
+    },
+    {
+      "year": "1985",
+      "en": "Old Town of Segovia and its Aqueduct",
+      "id": "311",
+      "ar": "مدينة سيغوفيا القديمة وقنواتها للإمداد بالماء"
+    },
+    {
+      "year": "1985",
+      "en": "Monuments of Oviedo and the Kingdom of the Asturias",
+      "id": "312",
+      "ar": "نصب أوفييدو وقصر الأستوريين"
+    },
+    {
+      "year": "1985",
+      "en": "Santiago de Compostela (Old Town)",
+      "id": "347",
+      "ar": "مدينة سانتياغو دي كومبوستيل القديمة"
+    },
+    {
+      "year": "1985",
+      "en": "Old Town of Ávila with its Extra-Muros Churches",
+      "id": "348",
+      "ar": "مدينة أفيلا القديمة وكنائسها القائمة خارج أسوار المدينة"
+    },
+    {
+      "year": "1986",
+      "en": "Mudejar Architecture of Aragon",
+      "id": "378",
+      "ar": "هندسة أراغون المدجّنة"
+    },
+    {
+      "year": "1986",
+      "en": "Historic City of Toledo",
+      "id": "379",
+      "ar": "مدينة طليطلة التاريخيّة"
+    },
+    {
+      "year": "1986",
+      "en": "Garajonay National Park",
+      "id": "380",
+      "ar": "منتزه غاراخوناي الوطني"
+    },
+    {
+      "year": "1986",
+      "en": "Old Town of Cáceres",
+      "id": "384",
+      "ar": "مدينة كاسيريس القديمة"
+    },
+    {
+      "year": "1987",
+      "en": "Cathedral, Alcázar and Archivo de Indias in Seville",
+      "id": "383",
+      "ar": null
+    },
+    {
+      "year": "1988",
+      "en": "Old City of Salamanca",
+      "id": "381",
+      "ar": "مدينة سالامانكا القديمة"
+    },
+    {
+      "year": "1991",
+      "en": "Poblet Monastery",
+      "id": "518",
+      "ar": "دير بوبلي"
+    },
+    {
+      "year": "1993",
+      "en": "Archaeological Ensemble of Mérida",
+      "id": "664",
+      "ar": "مجموعة ميريدا الأثريّة"
+    },
+    {
+      "year": "1993",
+      "en": "Royal Monastery of Santa María de Guadalupe",
+      "id": "665",
+      "ar": "دير سانتا ماريا دي غوادالوبي الملكي"
+    },
+    {
+      "year": "1993",
+      "en": "Routes of Santiago de Compostela: Camino Francés and Routes of Northern Spain",
+      "id": "669",
+      "ar": "طرق سان جاك دو كومبوستيل في شمال إسبانيا"
+    },
+    {
+      "year": "1994",
+      "en": "Doñana National Park",
+      "id": "685",
+      "ar": "منتزه دنيانا الوطني"
+    },
+    {
+      "year": "1996",
+      "en": "Historic Walled Town of Cuenca",
+      "id": "781",
+      "ar": "مدينة كوينكا التاريخيّة المحصّنة"
+    },
+    {
+      "year": "1996",
+      "en": "La Lonja de la Seda de Valencia",
+      "id": "782",
+      "ar": "سوق الحرير في فالينسيا"
+    },
+    {
+      "year": "1997",
+      "en": "Las Médulas",
+      "id": "803",
+      "ar": "لا ميدولاس"
+    },
+    {
+      "year": "1997",
+      "en": "Palau de la Música Catalana and Hospital de Sant Pau, Barcelona",
+      "id": "804",
+      "ar": "قصر موسيقى كاتالونيا ومستشفى القديس باو، برشلونة"
+    },
+    {
+      "year": "1997",
+      "en": "San Millán Yuso and Suso Monasteries",
+      "id": "805",
+      "ar": "أديرة سان ميلان في يوسو وسوسو"
+    },
+    {
+      "year": "1998",
+      "en": "Rock Art of the Mediterranean Basin on the Iberian Peninsula",
+      "id": "874",
+      "ar": "فنّ صخري في حوض البحر الأبيض المتوسط لشبه الجزيرة الإسبانيّة"
+    },
+    {
+      "year": "1998",
+      "en": "University and Historic Precinct of Alcalá de Henares",
+      "id": "876",
+      "ar": "جامعة آلكالا دي هيناريس وحيّها التاريخي"
+    },
+    {
+      "year": "1999",
+      "en": "Ibiza, Biodiversity and Culture",
+      "id": "417",
+      "ar": "إيبيزا، تنوّع بيولوجي وثقافة"
+    },
+    {
+      "year": "1999",
+      "en": "San Cristóbal de La Laguna",
+      "id": "929",
+      "ar": "سان كريستوبال دي لا لاغونا"
+    },
+    {
+      "year": "2000",
+      "en": "Archaeological Ensemble of Tarraco",
+      "id": "875",
+      "ar": "مجموعة تاراكو التاريخيّة"
+    },
+    {
+      "year": "2000",
+      "en": "Palmeral of Elche",
+      "id": "930",
+      "ar": "بستان النخيل في إيلش"
+    },
+    {
+      "year": "2000",
+      "en": "Roman Walls of Lugo",
+      "id": "987",
+      "ar": "أسوار لوغو الرومانية"
+    },
+    {
+      "year": "2000",
+      "en": "Catalan Romanesque Churches of the Vall de Boí",
+      "id": "988",
+      "ar": "كنائس رومانيّة كاتالونيّة في فال دي بوي"
+    },
+    {
+      "year": "2000",
+      "en": "Archaeological Site of Atapuerca",
+      "id": "989",
+      "ar": "موقع أتابويركا التاريخي"
+    },
+    {
+      "year": "2001",
+      "en": "Aranjuez Cultural Landscape",
+      "id": "1044",
+      "ar": "منظر أرانخويث الثقافي"
+    },
+    {
+      "year": "2003",
+      "en": "Renaissance Monumental Ensembles of Úbeda and Baeza",
+      "id": "522",
+      "ar": "مجمّعات فنيّة نهضويّة في أوبيدا وبايزا"
+    },
+    {
+      "year": "2006",
+      "en": "Vizcaya Bridge",
+      "id": "1217",
+      "ar": "جسر فيسكايا"
+    },
+    {
+      "year": "2007",
+      "en": "Teide National Park",
+      "id": "1258",
+      "ar": "حديقة تيد العامة الوطنية"
+    },
+    {
+      "year": "2009",
+      "en": "Tower of Hercules",
+      "id": "1312",
+      "ar": "برج هِرَقْل"
+    },
+    {
+      "year": "2011",
+      "en": "Cultural Landscape of the Serra de Tramuntana",
+      "id": "1371",
+      "ar": "المشهد الثقافي لجبال"
+    },
+    {
+      "year": "2016",
+      "en": "Antequera Dolmens Site",
+      "id": "1501",
+      "ar": "موقع أضرحة أنتركيرا"
+    },
+    {
+      "year": "2018",
+      "en": "Caliphate City of Medina Azahara",
+      "id": "1560",
+      "ar": "مدينة الزهراء التي تعود لزمن الخلافة"
+    },
+    {
+      "year": "2019",
+      "en": "Risco Caido and the Sacred Mountains of Gran Canaria Cultural Landscape",
+      "id": "1578",
+      "ar": "المنظر الثقافي في ريسكو كايدو والجبال المقدسة في جزيرة كناريا الكبرى"
+    },
+    {
+      "year": "2021",
+      "en": "Paseo del Prado and Buen Retiro, a landscape of Arts and Sciences",
+      "id": "1618",
+      "ar": "جادَّة باسيو ديل برادو وحديقة بوين ريتيرو، مشهد حافل بالفنون والعلوم"
+    },
+    {
+      "year": "2023",
+      "en": "Talayotic Menorca",
+      "id": "1528",
+      "ar": "مواقع ما قبل التاريخ في منورقة التالايوتية"
+    }
+  ],
+  "IQ": [
+    {
+      "id": "277",
+      "en": "Hatra",
+      "ar": "الحضر",
+      "year": "1985"
+    },
+    {
+      "id": "1130",
+      "en": "Ashur (Qal'at Sherqat)",
+      "ar": "آشور (قلعة الشرقاط)",
+      "year": "2003"
+    },
+    {
+      "id": "276",
+      "en": "Samarra Archaeological City",
+      "ar": "مدينة سامراء الأثرية",
+      "year": "2007"
+    },
+    {
+      "id": "1437",
+      "en": "Erbil Citadel",
+      "ar": null,
+      "year": "2014"
+    },
+    {
+      "year": "2016",
+      "en": "The Ahwar of Southern Iraq: Refuge of Biodiversity and the Relict Landscape of the Mesopotamian Cities",
+      "id": "1481",
+      "ar": "الأهوار جنوب العراق: تعد هذه المسطحات المائية مثالاً على التنوّع البيولوجي والمناظر الخلّابة لمدن بلاد الرافدين"
+    },
+    {
+      "year": "2019",
+      "en": "Babylon",
+      "id": "278",
+      "ar": "بابل"
+    }
+  ],
+  "BD": [
+    {
+      "id": "321",
+      "en": "Historic Mosque City of Bagerhat",
+      "ar": "المدينة التاريخية - المسجد في باغرهات",
+      "year": "1985"
+    },
+    {
+      "id": "322",
+      "en": "Ruins of the Buddhist Vihara at Paharpur",
+      "ar": "آثار الفيهارا البوذي في باهاربور",
+      "year": "1985"
+    },
+    {
+      "id": "798",
+      "en": "The Sundarbans",
+      "ar": "سونداربانس",
+      "year": "1997"
+    }
+  ],
+  "BJ": [
+    {
+      "id": "323",
+      "en": "Royal Palaces of Abomey",
+      "ar": "القصور الملكية في أبوميه",
+      "year": "1985"
+    }
+  ],
+  "JO": [
+    {
+      "id": "326",
+      "en": "Petra",
+      "ar": "البتراء",
+      "year": "1985"
+    },
+    {
+      "id": "327",
+      "en": "Quseir Amra",
+      "ar": "قُصَير عمرة",
+      "year": "1985"
+    },
+    {
+      "id": "1093",
+      "en": "Um er-Rasas (Kastrom Mefa'a)",
+      "ar": "أم الرصاص",
+      "year": "2004"
+    },
+    {
+      "id": "1377",
+      "en": "Wadi Rum Protected Area",
+      "ar": "محمية وادي رم",
+      "year": "2011"
+    },
+    {
+      "year": "2015",
+      "en": "Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas)",
+      "id": "1446",
+      "ar": "موقع المعمودية"
+    },
+    {
+      "year": "2021",
+      "en": "As-Salt - The Place of Tolerance and Urban Hospitality",
+      "id": "689",
+      "ar": "السلط – مدينة التسامح وأصول الضيافة الحضرية"
+    },
+    {
+      "year": "2024",
+      "en": "Umm Al-Jimāl",
+      "id": "1721",
+      "ar": "أم الجِمال"
+    },
+    {
+      "year": "2026",
+      "en": "Aqaba Marine Reserve",
+      "id": "1742",
+      "ar": "محمية العقبة البحرية"
+    }
+  ],
+  "TR": [
+    {
+      "id": "356",
+      "en": "Historic Areas of Istanbul",
+      "ar": "اسطنبول التاريخية",
+      "year": "1985"
+    },
+    {
+      "id": "357",
+      "en": "Göreme National Park and the Rock Sites of Cappadocia",
+      "ar": "منتزه غوريم الوطني ومواقع كابادوس الصخرية",
+      "year": "1985"
+    },
+    {
+      "id": "358",
+      "en": "Great Mosque and Hospital of Divriği",
+      "ar": "المسجد الكبير ومشفى ديوريجي",
+      "year": "1985"
+    },
+    {
+      "id": "377",
+      "en": "Hattusha: the Hittite Capital",
+      "ar": "حاتوشا: عاصمة الحثيين",
+      "year": "1986"
+    },
+    {
+      "year": "1987",
+      "en": "Nemrut Dağ",
+      "id": "448",
+      "ar": "نمرود داغ"
+    },
+    {
+      "year": "1988",
+      "en": "Xanthos-Letoon",
+      "id": "484",
+      "ar": "كسانتوس – ليتاؤون"
+    },
+    {
+      "year": "1988",
+      "en": "Hierapolis-Pamukkale",
+      "id": "485",
+      "ar": "هييرابوليس – باموكال"
+    },
+    {
+      "year": "1994",
+      "en": "City of Safranbolu",
+      "id": "614",
+      "ar": "مدينة سفرنبلو"
+    },
+    {
+      "year": "1998",
+      "en": "Archaeological Site of Troy",
+      "id": "849",
+      "ar": "موقع طروادة الأثري"
+    },
+    {
+      "year": "2011",
+      "en": "Selimiye Mosque and its Social Complex",
+      "id": "1366",
+      "ar": "جامع السليمية"
+    },
+    {
+      "year": "2012",
+      "en": "Neolithic Site of Çatalhöyük",
+      "id": "1405",
+      "ar": null
+    },
+    {
+      "year": "2014",
+      "en": "Bursa and Cumalıkızık: the Birth of the Ottoman Empire",
+      "id": "1452",
+      "ar": null
+    },
+    {
+      "year": "2014",
+      "en": "Pergamon and its Multi-Layered Cultural Landscape",
+      "id": "1457",
+      "ar": null
+    },
+    {
+      "year": "2015",
+      "en": "Ephesus",
+      "id": "1018",
+      "ar": "أفسس"
+    },
+    {
+      "year": "2015",
+      "en": "Diyarbakır Fortress and Hevsel Gardens Cultural Landscape",
+      "id": "1488",
+      "ar": "قلعة ديار بكر والمشهد الثقافي لحدائق"
+    },
+    {
+      "year": "2016",
+      "en": "Archaeological Site of Ani",
+      "id": "1518",
+      "ar": "مدينة آني الأثرية"
+    },
+    {
+      "year": "2017",
+      "en": "Aphrodisias",
+      "id": "1519",
+      "ar": "أفروديسياس"
+    },
+    {
+      "year": "2018",
+      "en": "Göbekli Tepe",
+      "id": "1572",
+      "ar": "غوبيكلي تيبي"
+    },
+    {
+      "year": "2021",
+      "en": "Arslantepe Mound",
+      "id": "1622",
+      "ar": "تل أرسلان تيبيه"
+    },
+    {
+      "year": "2023",
+      "en": "Gordion",
+      "id": "1669",
+      "ar": "غورديون"
+    },
+    {
+      "year": "2023",
+      "en": "Wooden Hypostyle Mosques of Medieval Anatolia",
+      "id": "1694",
+      "ar": "جوامع ذات أعمدة خشبية من العصور الوسطى في الأناضول"
+    },
+    {
+      "year": "2025",
+      "en": "Sardis and the Lydian Tumuli of Bin Tepe",
+      "id": "1731",
+      "ar": "سارد وتلال المدافن الليدية في بين تبه"
+    }
+  ],
+  "GB": [
+    {
+      "id": "369",
+      "en": "Giant's Causeway and Causeway Coast",
+      "ar": "ممر العمالقة وساحله",
+      "year": "1986"
+    },
+    {
+      "id": "370",
+      "en": "Durham Castle and Cathedral",
+      "ar": "كاتدرائية دورهام وقصرها",
+      "year": "1986"
+    },
+    {
+      "id": "371",
+      "en": "Ironbridge Gorge",
+      "ar": "عنق جسر ايرونبريدج (جسر الحديد)",
+      "year": "1986"
+    },
+    {
+      "id": "372",
+      "en": "Studley Royal Park including the Ruins of Fountains Abbey",
+      "ar": "منتزه ستادلي رويال وآثار دير فاونتانز",
+      "year": "1986"
+    },
+    {
+      "year": "1986",
+      "en": "Stonehenge, Avebury and Associated Sites",
+      "id": "373",
+      "ar": "ستونهنج وأفيبوري والمواقع الملحقة بها"
+    },
+    {
+      "year": "1986",
+      "en": "Castles and Town Walls of King Edward in Gwynedd",
+      "id": "374",
+      "ar": "القلاع المحصنة وأسوار الملك ادوارد الاول في إمارة غوينيد القديمة"
+    },
+    {
+      "year": "1986",
+      "en": "St Kilda",
+      "id": "387",
+      "ar": "جزيرة سانت كيلدا"
+    },
+    {
+      "year": "1987",
+      "en": "Blenheim Palace",
+      "id": "425",
+      "ar": "قصر بلاينهايم"
+    },
+    {
+      "year": "1987",
+      "en": "Palace of Westminster and Westminster Abbey including Saint Margaret’s Church",
+      "id": "426",
+      "ar": "قصر ويستمنستر"
+    },
+    {
+      "year": "1987",
+      "en": "City of Bath",
+      "id": "428",
+      "ar": "مدينة باث"
+    },
+    {
+      "year": "1988",
+      "en": "Henderson Island",
+      "id": "487",
+      "ar": "جزيرة هندرسون"
+    },
+    {
+      "year": "1988",
+      "en": "Tower of London",
+      "id": "488",
+      "ar": "برج لندن"
+    },
+    {
+      "year": "1988",
+      "en": "Canterbury Cathedral, St Augustine's Abbey, and St Martin's Church",
+      "id": "496",
+      "ar": "الكاتدرائية ودير القديس أغسطين وكنيسة سان مارتان في كانتربيري"
+    },
+    {
+      "year": "1995",
+      "en": "Old and New Towns of Edinburgh",
+      "id": "728",
+      "ar": "مدينتا ادينبرة القديمة والجديدة"
+    },
+    {
+      "year": "1995",
+      "en": "Gough and Inaccessible Islands",
+      "id": "740",
+      "ar": "جزيرتا غاف وايناكسيسيبل"
+    },
+    {
+      "year": "1997",
+      "en": "Maritime Greenwich",
+      "id": "795",
+      "ar": "ماريتيم غرينيتش"
+    },
+    {
+      "year": "1999",
+      "en": "Heart of Neolithic Orkney",
+      "id": "514",
+      "ar": "قلب أوركني النيوليتي"
+    },
+    {
+      "year": "2000",
+      "en": "Historic Town of St George and Related Fortifications, Bermuda",
+      "id": "983",
+      "ar": "مدينة سان جورج التاريخية والحصون الملحقة بها في جزر البرمودا"
+    },
+    {
+      "year": "2000",
+      "en": "Blaenavon Industrial Landscape",
+      "id": "984",
+      "ar": "المنظر الصناعي في بلينافون"
+    },
+    {
+      "year": "2001",
+      "en": "New Lanark",
+      "id": "429",
+      "ar": "لانارك الجديدة"
+    },
+    {
+      "year": "2001",
+      "en": "Saltaire",
+      "id": "1028",
+      "ar": "سالتير"
+    },
+    {
+      "year": "2001",
+      "en": "Dorset and East Devon Coast",
+      "id": "1029",
+      "ar": "ساحل دورست وشرق ديفون"
+    },
+    {
+      "year": "2001",
+      "en": "Derwent Valley Mills",
+      "id": "1030",
+      "ar": "مصانع وادي ديروينت"
+    },
+    {
+      "year": "2003",
+      "en": "Royal Botanic Gardens, Kew",
+      "id": "1084",
+      "ar": "حدائق كيو النباتية الملكية"
+    },
+    {
+      "year": "2006",
+      "en": "Cornwall and West Devon Mining Landscape",
+      "id": "1215",
+      "ar": "منظر المناجم في كورنواي وغرب ديفون"
+    },
+    {
+      "year": "2009",
+      "en": "Pontcysyllte Aqueduct and Canal",
+      "id": "1303",
+      "ar": "قناطر ماء وقناة بونكتيسيلت"
+    },
+    {
+      "year": "2015",
+      "en": "The Forth Bridge",
+      "id": "1485",
+      "ar": "جسر فورث"
+    },
+    {
+      "year": "2016",
+      "en": "Gorham's Cave Complex",
+      "id": "1500",
+      "ar": "كهوف الإنسان البدائي/ العصور الحجريّة في جبل طارق والبيئة المحيطة بها"
+    },
+    {
+      "year": "2017",
+      "en": "The English Lake District",
+      "id": "422",
+      "ar": "منطقة البحيرات الإنجليزيّة"
+    },
+    {
+      "year": "2019",
+      "en": "Jodrell Bank Observatory",
+      "id": "1594",
+      "ar": "مرصد جورديل بانك"
+    },
+    {
+      "year": "2021",
+      "en": "The Slate Landscape of Northwest Wales",
+      "id": "1633",
+      "ar": "منظر الصخر الإردوازي في شمال غرب ويلز"
+    },
+    {
+      "year": "2024",
+      "en": "The Flow Country",
+      "id": "1722",
+      "ar": "ذا فلو كنتري"
+    }
+  ],
+  "SI": [
+    {
+      "id": "390",
+      "en": "Škocjan Caves",
+      "ar": "مغارات سكوكجان",
+      "year": "1986"
+    },
+    {
+      "id": "1643",
+      "en": "The works of Jože Plečnik in Ljubljana – Human Centred Urban Design",
+      "ar": "أعمال جوزيه بليشنك في مدينة ليوبليانا – تصميم حضري محوره الإنسان",
+      "year": "2021"
+    }
+  ],
+  "GR": [
+    {
+      "id": "392",
+      "en": "Temple of Apollo Epicurius at Bassae",
+      "ar": "معبد أبولون إبيكورويوس في موقع باساي",
+      "year": "1986"
+    },
+    {
+      "id": "393",
+      "en": "Archaeological Site of Delphi",
+      "ar": "موقع دلف الأثري",
+      "year": "1987"
+    },
+    {
+      "id": "404",
+      "en": "Acropolis, Athens",
+      "ar": "أكروبول أثينا",
+      "year": "1987"
+    },
+    {
+      "id": "454",
+      "en": "Mount Athos",
+      "ar": "جبل آثوس",
+      "year": "1988"
+    },
+    {
+      "year": "1988",
+      "en": "Meteora",
+      "id": "455",
+      "ar": "الأديرة الأرثوذكسية المعروفة باسم متيورا"
+    },
+    {
+      "year": "1988",
+      "en": "Paleochristian and Byzantine Monuments of Thessalonika",
+      "id": "456",
+      "ar": "النصب التذكارية المسيحية القديمة والبيزنطية في عاصمة تسالونيكا"
+    },
+    {
+      "year": "1988",
+      "en": "Sanctuary of Asklepios at Epidaurus",
+      "id": "491",
+      "ar": "موقع إبيدوريس الأثري"
+    },
+    {
+      "year": "1988",
+      "en": "Medieval City of Rhodes",
+      "id": "493",
+      "ar": "مدينة رودوس العائدة للقرون الوسطى"
+    },
+    {
+      "year": "1989",
+      "en": "Archaeological Site of Mystras",
+      "id": "511",
+      "ar": "مدينة ميستراس"
+    },
+    {
+      "year": "1989",
+      "en": "Archaeological Site of Olympia",
+      "id": "517",
+      "ar": "موقع أولمبيا الأثري"
+    },
+    {
+      "year": "1990",
+      "en": "Delos",
+      "id": "530",
+      "ar": "جزيرة ديلوس"
+    },
+    {
+      "year": "1990",
+      "en": "Monasteries of Daphni, Hosios Loukas and Nea Moni of Chios",
+      "id": "537",
+      "ar": "أديرة دافني وأوسيوس لوكاس ونيا موني دو شيو"
+    },
+    {
+      "year": "1992",
+      "en": "Pythagoreion and Heraion of Samos",
+      "id": "595",
+      "ar": "بيتاغوريون وهيرايون دي ساموس"
+    },
+    {
+      "year": "1996",
+      "en": "Archaeological Site of Aigai (modern name Vergina)",
+      "id": "780",
+      "ar": "موقع فرجينا الأثري"
+    },
+    {
+      "year": "1999",
+      "en": "Archaeological Sites of Mycenae and Tiryns",
+      "id": "941",
+      "ar": "مواقع ميسناي و تيرينز الأثرية"
+    },
+    {
+      "year": "1999",
+      "en": "The Historic Centre (Chorá) with the Monastery of Saint-John the Theologian and the Cave of the Apocalypse on the Island of Pátmos",
+      "id": "942",
+      "ar": "موقع كورا التاريخي ودير مار يوحنا اللاهوتي ومغارة نهاية العالم على جزيرة باتموس"
+    },
+    {
+      "year": "2007",
+      "en": "Old Town of Corfu",
+      "id": "978",
+      "ar": "مدينة كورفو القديمة"
+    },
+    {
+      "year": "2016",
+      "en": "Archaeological Site of Philippi",
+      "id": "1517",
+      "ar": "مدينة فيلبي الأثريّة"
+    },
+    {
+      "year": "2023",
+      "en": "Zagori Cultural Landscape",
+      "id": "1695",
+      "ar": "منظر زاجوري الثقافي"
+    },
+    {
+      "year": "2025",
+      "en": "Minoan Palatial Centres",
+      "id": "1733",
+      "ar": "المراكز المينوسية المهيبة"
+    },
+    {
+      "year": "2026",
+      "en": "The wider area of Mount Olympus",
+      "id": "1719",
+      "ar": "المنطقة الأوسع لجبل أوليمبوس"
+    }
+  ],
+  "HU": [
+    {
+      "id": "400",
+      "en": "Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue",
+      "ar": "بودابست بضفاف نهار الدانوب، وحي قصر بودا وجادة أندراسي",
+      "year": "1987"
+    },
+    {
+      "id": "401",
+      "en": "Old Village of Hollókő and its Surroundings",
+      "ar": "هولوكو، القرية القديمة ومحيطها",
+      "year": "1987"
+    },
+    {
+      "id": "758",
+      "en": "Millenary Benedictine Abbey of Pannonhalma and its Natural Environment",
+      "ar": "دير بانونهالما الألفي ومحيطه الطبيعي",
+      "year": "1996"
+    },
+    {
+      "id": "474",
+      "en": "Hortobágy National Park - the Puszta",
+      "ar": "الروضة الوطنية أرتوباغي- لابوسزتا",
+      "year": "1999"
+    },
+    {
+      "year": "2000",
+      "en": "Early Christian Necropolis of Pécs (Sopianae)",
+      "id": "853",
+      "ar": "مقبرة بيك الكبيرة المسيحية القديمة في مدينة سوبيانايي"
+    },
+    {
+      "year": "2002",
+      "en": "Tokaj Wine Region Historic Cultural Landscape",
+      "id": "1063",
+      "ar": "المشهد الثقافي التاريخي لمنطقة توكاج المختصّة بزراعة الكرمة"
+    }
+  ],
+  "CM": [
+    {
+      "id": "407",
+      "en": "Dja Faunal Reserve",
+      "ar": "محمية الحيوانات في دجا",
+      "year": "1987"
+    },
+    {
+      "id": "1745",
+      "en": "Diy-Gid-Biy Cultural Landscape of the Mandara Mountains",
+      "ar": "لمنظر الطبيعي الثقافي دي-جيد-بي في جبال ماندارا",
+      "year": "2025"
+    }
+  ],
+  "MX": [
+    {
+      "id": "410",
+      "en": "Sian Ka'an",
+      "ar": "سيان كعان",
+      "year": "1987"
+    },
+    {
+      "id": "411",
+      "en": "Pre-Hispanic City and National Park of Palenque",
+      "ar": "مدينة بالينك التي تعود الى ما قبل الغزو الاسباني وروضتها الوطنية 1987",
+      "year": "1987"
+    },
+    {
+      "id": "412",
+      "en": "Historic Centre of Mexico City and Xochimilco",
+      "ar": "الوسط التاريخي في مكسيكو وكزوشيميلكو",
+      "year": "1987"
+    },
+    {
+      "id": "414",
+      "en": "Pre-Hispanic City of Teotihuacan",
+      "ar": "مدينة تيوتيهواكان التي تعود الى ما قبل الغزو الاسباني",
+      "year": "1987"
+    },
+    {
+      "year": "1987",
+      "en": "Historic Centre of Oaxaca and Archaeological Site of Monte Albán",
+      "id": "415",
+      "ar": "الوسط التاريخي في اواكساكا والمنطقة الأثرية في مونتي ألبان"
+    },
+    {
+      "year": "1987",
+      "en": "Historic Centre of Puebla",
+      "id": "416",
+      "ar": "الوسط التاريخي في بويبلا"
+    },
+    {
+      "year": "1988",
+      "en": "Historic Town of Guanajuato and Adjacent Mines",
+      "id": "482",
+      "ar": "المدينة التاريخية في غواناخواتو والمناجم المجاورة"
+    },
+    {
+      "year": "1988",
+      "en": "Pre-Hispanic City of Chichen-Itza",
+      "id": "483",
+      "ar": "مدينة شيشين ايتزا التي تعود الى ما قبل الغزو الاسباني"
+    },
+    {
+      "year": "1991",
+      "en": "Historic Centre of Morelia",
+      "id": "585",
+      "ar": "وسط موريليا التاريخي"
+    },
+    {
+      "year": "1992",
+      "en": "El Tajin, Pre-Hispanic City",
+      "id": "631",
+      "ar": "مدينة ال تاخين التي تعود الى ما قبل الغزو الاسباني"
+    },
+    {
+      "year": "1993",
+      "en": "Whale Sanctuary of El Vizcaino",
+      "id": "554",
+      "ar": "معبد الحيتان في ال فيسكايينو"
+    },
+    {
+      "year": "1993",
+      "en": "Historic Centre of Zacatecas",
+      "id": "676",
+      "ar": "وسط زاكاتيكاس التاريخي"
+    },
+    {
+      "year": "1993",
+      "en": "Rock Paintings of the Sierra de San Francisco",
+      "id": "714",
+      "ar": "الرسوم على الصخور في سييرا دي سان فرانسيسكو"
+    },
+    {
+      "year": "1994",
+      "en": "Earliest 16th-Century Monasteries on the Slopes of Popocatepetl",
+      "id": "702",
+      "ar": "أديرة أوائل القرن السادس عشر الواقعة على سفوح بوبوكاتيبيتل"
+    },
+    {
+      "year": "1996",
+      "en": "Pre-Hispanic Town of Uxmal",
+      "id": "791",
+      "ar": "آثار منطقة اوكسمال التي تعود الى ما قبل اكتشاف كريستوف كولومبوس قارة اميركا"
+    },
+    {
+      "year": "1996",
+      "en": "Historic Monuments Zone of Querétaro",
+      "id": "792",
+      "ar": "منطقة النصب التاريخية في كويريتارو"
+    },
+    {
+      "year": "1997",
+      "en": "Hospicio Cabañas, Guadalajara",
+      "id": "815",
+      "ar": "مأوى كابانياس في غوادالاخارا"
+    },
+    {
+      "year": "1998",
+      "en": "Archaeological Zone of Paquimé, Casas Grandes",
+      "id": "560",
+      "ar": "منطقة باكيمي الأثرية في كازاس غراندس"
+    },
+    {
+      "year": "1998",
+      "en": "Historic Monuments Zone of Tlacotalpan",
+      "id": "862",
+      "ar": "منطقة النصب التاريخية في تلكُتلبن"
+    },
+    {
+      "year": "1999",
+      "en": "Historic Fortified Town of Campeche",
+      "id": "895",
+      "ar": "مدينة كامبيش التاريخية المحصنة"
+    },
+    {
+      "year": "1999",
+      "en": "Archaeological Monuments Zone of Xochicalco",
+      "id": "939",
+      "ar": "منطقة النصب التاريخية في كغزوشيكالكو"
+    },
+    {
+      "year": "2002",
+      "en": "Ancient Maya City and Protected Tropical Forests of Calakmul, Campeche",
+      "id": "1061",
+      "ar": null
+    },
+    {
+      "year": "2003",
+      "en": "Franciscan Missions in the Sierra Gorda of Querétaro",
+      "id": "1079",
+      "ar": "البعثات الفرنسيسكانية في سييرا غوردا في كويريتارو"
+    },
+    {
+      "year": "2004",
+      "en": "Luis Barragán House and Studio",
+      "id": "1136",
+      "ar": "المحترف المنزلي الخاص بلويس باراغان"
+    },
+    {
+      "year": "2005",
+      "en": "Islands and Protected Areas of the Gulf of California",
+      "id": "1182",
+      "ar": "جزر ومجالات محمية في خليج كاليفورنيا"
+    },
+    {
+      "year": "2006",
+      "en": "Agave Landscape and Ancient Industrial Facilities of Tequila",
+      "id": "1209",
+      "ar": "مناظر الأغاف ومنشآت التكيلا الصناعية"
+    },
+    {
+      "year": "2007",
+      "en": "Central University City Campus of the Universidad Nacional Autónoma de México (UNAM)",
+      "id": "1250",
+      "ar": "حرم الجامعة الوطنية المكسيكية المستقلة (يونام)، مكسيكو"
+    },
+    {
+      "year": "2008",
+      "en": "Protective town of San Miguel and the Sanctuary of Jesús Nazareno de Atotonilco",
+      "id": "1274",
+      "ar": "مدينة سان ميغل المحمية وكنيسة خيسوس دي نازارينو دي أتوتونيلكو"
+    },
+    {
+      "year": "2008",
+      "en": "Monarch Butterfly Biosphere Reserve",
+      "id": "1290",
+      "ar": "محمية المحيط الحيوي – الفراشة الملكة"
+    },
+    {
+      "year": "2010",
+      "en": "Camino Real de Tierra Adentro",
+      "id": "1351",
+      "ar": "كامينو ريال تييرّا أدِنترو"
+    },
+    {
+      "year": "2010",
+      "en": "Prehistoric Caves of Yagul and Mitla in the Central Valley of Oaxaca",
+      "id": "1352",
+      "ar": "مغاور ما قبل التاريخ في ياغول وميتلا في وسط وادي أواكساكا"
+    },
+    {
+      "year": "2013",
+      "en": "El Pinacate and Gran Desierto de Altar Biosphere Reserve",
+      "id": "1410",
+      "ar": null
+    },
+    {
+      "year": "2015",
+      "en": "Aqueduct of Padre Tembleque Hydraulic System",
+      "id": "1463",
+      "ar": "قناة بادري تمبليكي، مجمع هيدرولوجي من عصر النهضة في أمريكا"
+    },
+    {
+      "year": "2016",
+      "en": "Archipiélago de Revillagigedo",
+      "id": "1510",
+      "ar": "أرخبيل جزر ريفيلا جيجدو المتقاربة"
+    },
+    {
+      "year": "2018",
+      "en": "Tehuacán-Cuicatlán Valley: originary habitat of Mesoamerica",
+      "id": "1534",
+      "ar": "وادي تهوكان-سويكاتلان: موطن أصلي في منطقة وسط أمريكا"
+    },
+    {
+      "year": "2025",
+      "en": "Wixárika Route through Sacred Sites to Wirikuta (Tatehuarí Huajuyé)",
+      "id": "1704",
+      "ar": "مسار ويراريكا المار عبر المواقع المقدسة نحو ويريكوتا (تاتيواري هواجويي)"
+    }
+  ],
+  "BO": [
+    {
+      "id": "420",
+      "en": "City of Potosí",
+      "ar": "مدينة بوتوسي",
+      "year": "1987"
+    },
+    {
+      "id": "529",
+      "en": "Jesuit Missions of the Chiquitos",
+      "ar": "الإرساليات اليسوعية في محافظة الـ تشيكيتوس",
+      "year": "1990"
+    },
+    {
+      "id": "566",
+      "en": "Historic City of Sucre",
+      "ar": "مدينة سوكريه التاريخية",
+      "year": "1991"
+    },
+    {
+      "id": "883",
+      "en": "Fuerte de Samaipata",
+      "ar": "قلعة ساماي باتا",
+      "year": "1998"
+    },
+    {
+      "year": "2000",
+      "en": "Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture",
+      "id": "567",
+      "ar": "التيواناكو: المركز الروحي والسياسي لثقافة تيواناكو"
+    },
+    {
+      "year": "2000",
+      "en": "Noel Kempff Mercado National Park",
+      "id": "967",
+      "ar": "المنتزه الوطني نويل كمبف ميركادو"
+    }
+  ],
+  "OM": [
+    {
+      "id": "433",
+      "en": "Bahla Fort",
+      "ar": "قلعة بهلا",
+      "year": "1987"
+    },
+    {
+      "id": "434",
+      "en": "Archaeological Sites of Bat, Al-Khutm and Al-Ayn",
+      "ar": "المواقع التاريخية في بات والخطم والعين",
+      "year": "1988"
+    },
+    {
+      "id": "1010",
+      "en": "Land of Frankincense",
+      "ar": "أرض اللبان",
+      "year": "2000"
+    },
+    {
+      "id": "1207",
+      "en": "Aflaj Irrigation Systems of Oman",
+      "ar": "أنظمة الري ( الأفلاج)",
+      "year": "2006"
+    },
+    {
+      "year": "2018",
+      "en": "Ancient City of Qalhat",
+      "id": "1537",
+      "ar": "مدينة قلهات التاريخية"
+    }
+  ],
+  "CN": [
+    {
+      "id": "437",
+      "en": "Mount Taishan",
+      "ar": "جبل تايشان",
+      "year": "1987"
+    },
+    {
+      "id": "438",
+      "en": "The Great Wall",
+      "ar": "السور العظيم",
+      "year": "1987"
+    },
+    {
+      "id": "439",
+      "en": "Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang",
+      "ar": "قصور سلالات مينغ وكينغ الإمبراطوريّة في بيجينغ وشينيانغ",
+      "year": "1987"
+    },
+    {
+      "id": "440",
+      "en": "Mogao Caves",
+      "ar": "كهوف موغاو",
+      "year": "1987"
+    },
+    {
+      "year": "1987",
+      "en": "Mausoleum of the First Qin Emperor",
+      "id": "441",
+      "ar": "ضريح الإمبراطور الأوّل كين"
+    },
+    {
+      "year": "1987",
+      "en": "Peking Man Site at Zhoukoudian",
+      "id": "449",
+      "ar": "موقع إنسان بكين في تشوكوديان"
+    },
+    {
+      "year": "1990",
+      "en": "Mount Huangshan",
+      "id": "547",
+      "ar": "جبل هوانغشان"
+    },
+    {
+      "year": "1992",
+      "en": "Jiuzhaigou Valley Scenic and Historic Interest Area",
+      "id": "637",
+      "ar": "منطقة في وادي جيوزايغو ذات أهميّة جماليّة وتاريخيّة"
+    },
+    {
+      "year": "1992",
+      "en": "Huanglong Scenic and Historic Interest Area",
+      "id": "638",
+      "ar": "منطقة هوانغلونغ ذات الأهميّة الجماليّة والتاريخيّة"
+    },
+    {
+      "year": "1992",
+      "en": "Wulingyuan Scenic and Historic Interest Area",
+      "id": "640",
+      "ar": "منطقة ولينغيوان ذات الأهميّة الجماليّة والتاريخيّة"
+    },
+    {
+      "year": "1994",
+      "en": "Mountain Resort and its Outlying Temples, Chengde",
+      "id": "703",
+      "ar": "مقرّ جبلي ومعابد على مقربة من تشينغده"
+    },
+    {
+      "year": "1994",
+      "en": "Temple and Cemetery of Confucius and the Kong Family Mansion in Qufu",
+      "id": "704",
+      "ar": "معبد كونفوشيوس ومقبرته ومقرّ عائلة كونغ في كوفو"
+    },
+    {
+      "year": "1994",
+      "en": "Ancient Building Complex in the Wudang Mountains",
+      "id": "705",
+      "ar": "مجمع مباني قديمة في جبال وودانغ"
+    },
+    {
+      "year": "1994",
+      "en": "Historic Ensemble of the Potala Palace, Lhasa",
+      "id": "707",
+      "ar": "مجمّع قصر بوتالا التاريخيّ في لاسا"
+    },
+    {
+      "year": "1996",
+      "en": "Lushan National Park",
+      "id": "778",
+      "ar": "منتزه لوشان الوطني"
+    },
+    {
+      "year": "1996",
+      "en": "Mount Emei Scenic Area, including Leshan Giant Buddha Scenic Area",
+      "id": "779",
+      "ar": "منظر جبل آماي الطبيعي يضم بوذا لهشان الكبير"
+    },
+    {
+      "year": "1997",
+      "en": "Old Town of Lijiang",
+      "id": "811",
+      "ar": "مدينة ليجيانغ القديمة"
+    },
+    {
+      "year": "1997",
+      "en": "Ancient City of Ping Yao",
+      "id": "812",
+      "ar": "مدينة بينغ ياو القديمة"
+    },
+    {
+      "year": "1997",
+      "en": "Classical Gardens of Suzhou",
+      "id": "813",
+      "ar": "حدائق سوتشو الكلاسيكيّة"
+    },
+    {
+      "year": "1998",
+      "en": "Summer Palace, an Imperial Garden in Beijing",
+      "id": "880",
+      "ar": "قصر الصيف، حديقة بيجينغ الإمبراطوريّة"
+    },
+    {
+      "year": "1998",
+      "en": "Temple of Heaven: an Imperial Sacrificial Altar in Beijing",
+      "id": "881",
+      "ar": "المعبد السماوي، المذبح الإمبراطوري في بيجينغ"
+    },
+    {
+      "year": "1999",
+      "en": "Mount Wuyi",
+      "id": "911",
+      "ar": "جبل وويي"
+    },
+    {
+      "year": "1999",
+      "en": "Dazu Rock Carvings",
+      "id": "912",
+      "ar": "منحوتات داتسو الصخريّة"
+    },
+    {
+      "year": "2000",
+      "en": "Mount Qingcheng and the Dujiangyan Irrigation System",
+      "id": "1001",
+      "ar": "جبل كينشينغ ونظام دوجيانغان للريّ"
+    },
+    {
+      "year": "2000",
+      "en": "Ancient Villages in Southern Anhui – Xidi and Hongcun",
+      "id": "1002",
+      "ar": "قريتا جنوب أنهوي القديمتان – شيدي وهونغتسون"
+    },
+    {
+      "year": "2000",
+      "en": "Longmen Grottoes",
+      "id": "1003",
+      "ar": "كهوف لونغمن"
+    },
+    {
+      "year": "2000",
+      "en": "Imperial Tombs of the Ming and Qing Dynasties",
+      "id": "1004",
+      "ar": "المقابر الامبراطورية لسلالتي مينغ وكينغ"
+    },
+    {
+      "year": "2001",
+      "en": "Yungang Grottoes",
+      "id": "1039",
+      "ar": "كهوف يونغانغ"
+    },
+    {
+      "year": "2003",
+      "en": "Three Parallel Rivers of Yunnan Protected Areas",
+      "id": "1083",
+      "ar": "محميّات الأنهر الثلاثة الموازية ليونان"
+    },
+    {
+      "year": "2004",
+      "en": "Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+      "id": "1135",
+      "ar": "عواصم مملكة كوغوريو القديمة وقبورها"
+    },
+    {
+      "year": "2005",
+      "en": "Historic Centre of Macao",
+      "id": "1110",
+      "ar": "وسط ماكاو التاريخي"
+    },
+    {
+      "year": "2006",
+      "en": "Yin Xu",
+      "id": "1114",
+      "ar": "يين كزو"
+    },
+    {
+      "year": "2006",
+      "en": "Sichuan Giant Panda Sanctuaries - Wolong, Mt Siguniang and Jiajin Mountains",
+      "id": "1213",
+      "ar": "محميّات دب باندا سيشوان العملاق"
+    },
+    {
+      "year": "2007",
+      "en": "Kaiping Diaolou and Villages",
+      "id": "1112",
+      "ar": "كايبينغ دياولو والقرى"
+    },
+    {
+      "year": "2007",
+      "en": "South China Karst",
+      "id": "1248",
+      "ar": null
+    },
+    {
+      "year": "2008",
+      "en": "Fujian Tulou",
+      "id": "1113",
+      "ar": "فوجيان تولو"
+    },
+    {
+      "year": "2008",
+      "en": "Mount Sanqingshan National Park",
+      "id": "1292",
+      "ar": "المنتزه الوطني لجبل سانكينغشان"
+    },
+    {
+      "year": "2009",
+      "en": "Mount Wutai",
+      "id": "1279",
+      "ar": "جبل ووتاي"
+    },
+    {
+      "year": "2010",
+      "en": "Historic Monuments of Dengfeng in “The Centre of Heaven and Earth”",
+      "id": "1305",
+      "ar": "آثار دِنغفِنغ التاريخية في"
+    },
+    {
+      "year": "2010",
+      "en": "China Danxia",
+      "id": "1335",
+      "ar": "مناظر دانشيا"
+    },
+    {
+      "year": "2011",
+      "en": "West Lake Cultural Landscape of Hangzhou",
+      "id": "1334",
+      "ar": null
+    },
+    {
+      "year": "2012",
+      "en": "Chengjiang Fossil Site",
+      "id": "1388",
+      "ar": null
+    },
+    {
+      "year": "2012",
+      "en": "Site of Xanadu",
+      "id": "1389",
+      "ar": null
+    },
+    {
+      "year": "2013",
+      "en": "Cultural Landscape of Honghe Hani Rice Terraces",
+      "id": "1111",
+      "ar": null
+    },
+    {
+      "year": "2013",
+      "en": "Xinjiang Tianshan",
+      "id": "1414",
+      "ar": null
+    },
+    {
+      "year": "2014",
+      "en": "The Grand Canal",
+      "id": "1443",
+      "ar": null
+    },
+    {
+      "year": "2015",
+      "en": "Tusi Sites",
+      "id": "1474",
+      "ar": "مواقع توسي"
+    },
+    {
+      "year": "2016",
+      "en": "Zuojiang Huashan Rock Art Cultural Landscape",
+      "id": "1508",
+      "ar": "مواقع فن النحت الصخري في زوجيانج هواشان"
+    },
+    {
+      "year": "2016",
+      "en": "Hubei Shennongjia",
+      "id": "1509",
+      "ar": "غابات شينونجيا في هوبي"
+    },
+    {
+      "year": "2017",
+      "en": "Qinghai Hoh Xil",
+      "id": "1540",
+      "ar": null
+    },
+    {
+      "year": "2017",
+      "en": "Kulangsu, a Historic International Settlement",
+      "id": "1541",
+      "ar": null
+    },
+    {
+      "year": "2018",
+      "en": "Fanjingshan",
+      "id": "1559",
+      "ar": "جبل فان جينغ شان"
+    },
+    {
+      "year": "2019",
+      "en": "Archaeological Ruins of Liangzhu City",
+      "id": "1592",
+      "ar": "الأطلال الأثرية في مدينة ليانغتشو"
+    },
+    {
+      "year": "2019",
+      "en": "Migratory Bird Sanctuaries along the Coast of Yellow Sea-Bohai Gulf of China",
+      "id": "1606",
+      "ar": "محميات الطيور المهاجرة على طول ساحل البحر الأصفر في خليج بوهاي الصيني (المرحلة الثانية)"
+    },
+    {
+      "year": "2021",
+      "en": "Quanzhou: Emporium of the World in Song-Yuan China",
+      "id": "1561",
+      "ar": "تشوانتشو: مركز العالم التجاري في سونغ تشوان بالصين"
+    },
+    {
+      "year": "2023",
+      "en": "Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er",
+      "id": "1665",
+      "ar": "المنظر الطبيعي الثقافي لغابات الشاي القديمة على جبل جينغماي في بوير"
+    },
+    {
+      "year": "2024",
+      "en": "Badain Jaran Desert - Towers of Sand and Lakes",
+      "id": "1638",
+      "ar": "صحراء باداين جاران- أبراج الرمال والبحيرات"
+    },
+    {
+      "year": "2024",
+      "en": "Beijing Central Axis: A Building Ensemble Exhibiting the Ideal Order of the Chinese Capital",
+      "id": "1714",
+      "ar": "المحور المركزي في بيجين: مجمَّع من المباني يبيِّن الترتيب النموذجي للعاصمة الصينية"
+    },
+    {
+      "year": "2025",
+      "en": "Xixia Imperial Tombs",
+      "id": "1736",
+      "ar": "الأضرحة الملكية في شي شيا"
+    },
+    {
+      "year": "2026",
+      "en": "Jingdezhen Handicraft Porcelain Industry Sites",
+      "id": "1765",
+      "ar": "مواقع صناعة الخزف التقليدية في جينغدتشن"
+    }
+  ],
+  "ML": [
+    {
+      "id": "116",
+      "en": "Old Towns of Djenné",
+      "ar": "مدن جنّة القديمة",
+      "year": "1988"
+    },
+    {
+      "id": "119",
+      "en": "Timbuktu",
+      "ar": "تمبوكتو",
+      "year": "1988"
+    },
+    {
+      "id": "516",
+      "en": "Cliff of Bandiagara (Land of the Dogons)",
+      "ar": "صخور باندياغارا (بلاد الدوغون)",
+      "year": "1989"
+    },
+    {
+      "id": "1139",
+      "en": "Tomb of Askia",
+      "ar": "مدفن أسكيا",
+      "year": "2004"
+    }
+  ],
+  "CF": [
+    {
+      "id": "475",
+      "en": "Manovo-Gounda St Floris National Park",
+      "ar": "منتزه مانوفو غوندا سانت فلوريس",
+      "year": "1988"
+    }
+  ],
+  "MR": [
+    {
+      "id": "506",
+      "en": "Banc d'Arguin National Park",
+      "ar": "المنتزه الوطني بانك دارغوين",
+      "year": "1989"
+    },
+    {
+      "id": "750",
+      "en": "Ancient Ksour of Ouadane, Chinguetti, Tichitt and Oualata",
+      "ar": "قصور وادان وشنقيطي وتشيت ووالاتا القديمة",
+      "year": "1996"
+    }
+  ],
+  "NZ": [
+    {
+      "id": "421",
+      "en": "Tongariro National Park",
+      "ar": "منتزه تونغاريرو الوطني",
+      "year": "1990"
+    },
+    {
+      "id": "551",
+      "en": "Te Wahipounamu – South West New Zealand",
+      "ar": "تي واهيبونامو – جنوب غرب نيوزيلندا",
+      "year": "1990"
+    },
+    {
+      "id": "877",
+      "en": "New Zealand Sub-Antarctic Islands",
+      "ar": "جزر نيوزيلندا القريبة من القطب الجنوبي",
+      "year": "1998"
+    }
+  ],
+  "MG": [
+    {
+      "id": "494",
+      "en": "Andrefana Dry Forests",
+      "ar": "غابات أندرفانا الجافة",
+      "year": "1990"
+    },
+    {
+      "id": "950",
+      "en": "Royal Hill of Ambohimanga",
+      "ar": "التلة الملكية في امبوهيمنغا",
+      "year": "2001"
+    },
+    {
+      "id": "1257",
+      "en": "Rainforests of the Atsinanana",
+      "ar": "الغابات المطيرة في أتسينانانا",
+      "year": "2007"
+    }
+  ],
+  "DO": [
+    {
+      "id": "526",
+      "en": "Colonial City of Santo Domingo",
+      "ar": "مدينة سانتو دومينغو المستعمرة",
+      "year": "1990"
+    }
+  ],
+  "UA": [
+    {
+      "id": "527",
+      "en": "Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra",
+      "ar": "كييف: كاتدرائية القديسة صوفيا ومجموعة الأديرة ودير لافرا كييف بيشيرسكا",
+      "year": "1990"
+    },
+    {
+      "id": "865",
+      "en": "L'viv – the Ensemble of the Historic Centre",
+      "ar": "لفيف - مجمع الوسط التاريخي",
+      "year": "1998"
+    },
+    {
+      "id": "1330",
+      "en": "Residence of Bukovinian and Dalmatian Metropolitans",
+      "ar": "بطريركية بيكوفينيا ودلماسيا",
+      "year": "2011"
+    },
+    {
+      "id": "1411",
+      "en": "Ancient City of Tauric Chersonese and its Chora",
+      "ar": null,
+      "year": "2013"
+    },
+    {
+      "year": "2023",
+      "en": "The Historic Centre of Odesa",
+      "id": "1703",
+      "ar": null
+    }
+  ],
+  "RU": [
+    {
+      "id": "540",
+      "en": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+      "ar": "وسط سانت بطرسبرغ التاريخي ومجمّعات فنيّة ملحقة بها",
+      "year": "1990"
+    },
+    {
+      "id": "544",
+      "en": "Kizhi Pogost",
+      "ar": "كيزي بوغوست",
+      "year": "1990"
+    },
+    {
+      "id": "545",
+      "en": "Kremlin and Red Square, Moscow",
+      "ar": "الكرملين والساحة الحمراء، موسكو",
+      "year": "1990"
+    },
+    {
+      "id": "604",
+      "en": "Historic Monuments of Novgorod and Surroundings",
+      "ar": "نصب نوفغورود وجوارها التاريخيّة",
+      "year": "1992"
+    },
+    {
+      "year": "1992",
+      "en": "Cultural and Historic Ensemble of the Solovetsky Islands",
+      "id": "632",
+      "ar": "المجموعة التاريخيّة والثقافيّة والطبيعيّة لجزر سولوفيتسكي"
+    },
+    {
+      "year": "1992",
+      "en": "White Monuments of Vladimir and Suzdal",
+      "id": "633",
+      "ar": "نصب فلاديمير وسوزدال"
+    },
+    {
+      "year": "1993",
+      "en": "Architectural Ensemble of the Trinity Sergius Lavra in Sergiev Posad",
+      "id": "657",
+      "ar": "المجموعة الهندسيّة لدير الثالوث الأقدس – القديس سيرج في سيرغيف بوزاد"
+    },
+    {
+      "year": "1994",
+      "en": "Church of the Ascension, Kolomenskoye",
+      "id": "634",
+      "ar": "كنيسة الصعود في كولومينسكوي"
+    },
+    {
+      "year": "1995",
+      "en": "Virgin Komi Forests",
+      "id": "719",
+      "ar": "غابات كومي العذراء"
+    },
+    {
+      "year": "1996",
+      "en": "Lake Baikal",
+      "id": "754",
+      "ar": "بحيرة بايكل"
+    },
+    {
+      "year": "1996",
+      "en": "Volcanoes of Kamchatka",
+      "id": "765",
+      "ar": "براكين كاماشتاكا"
+    },
+    {
+      "year": "1998",
+      "en": "Golden Mountains of Altai",
+      "id": "768",
+      "ar": "جبال التاي الذهبيّة"
+    },
+    {
+      "year": "1999",
+      "en": "Western Caucasus",
+      "id": "900",
+      "ar": "القوقاز الغربيّة"
+    },
+    {
+      "year": "2000",
+      "en": "Historic and Architectural Complex of the Kazan Kremlin",
+      "id": "980",
+      "ar": "المجموعة التاريخيّة والهندسيّة لكرملين قازان"
+    },
+    {
+      "year": "2000",
+      "en": "Ensemble of the Ferapontov Monastery",
+      "id": "982",
+      "ar": "مجمّع دير فيرابونتوف"
+    },
+    {
+      "year": "2001",
+      "en": "Central Sikhote-Alin",
+      "id": "766",
+      "ar": null
+    },
+    {
+      "year": "2003",
+      "en": "Citadel, Ancient City and Fortress Buildings of Derbent",
+      "id": "1070",
+      "ar": "قلعة ديربنت ومدينتها القديمة وحصنها"
+    },
+    {
+      "year": "2004",
+      "en": "Natural System of Wrangel Island Reserve",
+      "id": "1023",
+      "ar": "النظام الطبيعي لمحميّة جزيرة رانغل"
+    },
+    {
+      "year": "2004",
+      "en": "Ensemble of the Novodevichy Convent",
+      "id": "1097",
+      "ar": "تجمّع دير نوفوديفيتشي"
+    },
+    {
+      "year": "2005",
+      "en": "Historical Centre of the City of Yaroslavl",
+      "id": "1170",
+      "ar": "وسط مدينة ياروسلافل الوطني"
+    },
+    {
+      "year": "2010",
+      "en": "Putorana Plateau",
+      "id": "1234",
+      "ar": "الموقع الروسي هو"
+    },
+    {
+      "year": "2012",
+      "en": "Lena Pillars Nature Park",
+      "id": "1299",
+      "ar": "المنتزه الطبيعي لأعمدة اللينا (الاتحاد الروسي)"
+    },
+    {
+      "year": "2014",
+      "en": "Bolgar Historical and Archaeological Complex",
+      "id": "981",
+      "ar": null
+    },
+    {
+      "year": "2017",
+      "en": "Assumption Cathedral and Monastery of the town-island of Sviyazhsk",
+      "id": "1525",
+      "ar": null
+    },
+    {
+      "year": "2019",
+      "en": "Churches of the Pskov School of Architecture",
+      "id": "1523",
+      "ar": "الكنائس المبنية على طراز مدرسة بسكوف المعمارية"
+    },
+    {
+      "year": "2021",
+      "en": "Petroglyphs of Lake Onega and the White Sea",
+      "id": "1654",
+      "ar": "النقوش الصخرية في حوض بحيرة أونيغا والبحر الأبيض"
+    },
+    {
+      "year": "2023",
+      "en": "Astronomical Observatories of Kazan Federal University",
+      "id": "1678",
+      "ar": "المرصدان الفلكيان لجامعة قازان الاتحادية"
+    },
+    {
+      "year": "2024",
+      "en": "Cultural Landscape of Kenozero Lake",
+      "id": "1688",
+      "ar": "المنظر الطبيعي الثقافي لبحيرة كينوزيرو"
+    },
+    {
+      "year": "2025",
+      "en": "Rock Paintings of Shulgan-Tash Cave",
+      "id": "1743",
+      "ar": "الرسم على الصخور في كهف شولغان تاش"
+    }
+  ],
+  "UZ": [
+    {
+      "id": "543",
+      "en": "Itchan Kala",
+      "ar": "ايتشان كالا",
+      "year": "1990"
+    },
+    {
+      "id": "602",
+      "en": "Historic Centre of Bukhara",
+      "ar": "وسط بخارى التاريخي",
+      "year": "1993"
+    },
+    {
+      "id": "885",
+      "en": "Historic Centre of Shakhrisyabz",
+      "ar": "وسط شاخيسيابز التاريخي",
+      "year": "2000"
+    },
+    {
+      "id": "603",
+      "en": "Samarkand – Crossroad of Cultures",
+      "ar": "سمرقند – ملتقى الثقافات",
+      "year": "2001"
+    },
+    {
+      "year": "2026",
+      "en": "Tashkent Modernist Architecture. Modernity and Tradition in Central Asia",
+      "id": "1766",
+      "ar": null
+    }
+  ],
+  "SE": [
+    {
+      "id": "559",
+      "en": "Royal Domain of Drottningholm",
+      "ar": "قصر دروتنينغهولم الملكي",
+      "year": "1991"
+    },
+    {
+      "id": "555",
+      "en": "Birka and Hovgården",
+      "ar": "بيركا وهوفغاردن",
+      "year": "1993"
+    },
+    {
+      "id": "556",
+      "en": "Engelsberg Ironworks",
+      "ar": "مسابك انغلسبورغ",
+      "year": "1993"
+    },
+    {
+      "id": "557",
+      "en": "Rock Carvings in Tanum",
+      "ar": "النقوش الصخرية في تانوم",
+      "year": "1994"
+    },
+    {
+      "year": "1994",
+      "en": "Skogskyrkogården",
+      "id": "558",
+      "ar": "سكوغسكيركو غاردن"
+    },
+    {
+      "year": "1995",
+      "en": "Hanseatic Town of Visby",
+      "id": "731",
+      "ar": "منطقة فيسبي الهانزية"
+    },
+    {
+      "year": "1996",
+      "en": "Church Town of Gammelstad, Luleå",
+      "id": "762",
+      "ar": "القرية الكنسية في غاميلشتاد في لوليا"
+    },
+    {
+      "year": "1996",
+      "en": "Laponian Area",
+      "id": "774",
+      "ar": "منطقة لابوني (لابلاند)"
+    },
+    {
+      "year": "1998",
+      "en": "Naval Port of Karlskrona",
+      "id": "871",
+      "ar": "مرفأ كارلسكرونا البحري"
+    },
+    {
+      "year": "2000",
+      "en": "Agricultural Landscape of Southern Öland",
+      "id": "968",
+      "ar": "المنظر الزراعي جنوب أولاند"
+    },
+    {
+      "year": "2001",
+      "en": "Mining Area of the Great Copper Mountain in Falun",
+      "id": "1027",
+      "ar": "منطقة استخراج المناجم من جبل النحاس الكبير في فالون"
+    },
+    {
+      "year": "2004",
+      "en": "Grimeton Radio Station, Varberg",
+      "id": "1134",
+      "ar": "إذاعة فاربورغ"
+    },
+    {
+      "year": "2012",
+      "en": "Decorated Farmhouses of Hälsingland",
+      "id": "1282",
+      "ar": null
+    }
+  ],
+  "NE": [
+    {
+      "id": "573",
+      "en": "Air and Ténéré Natural Reserves",
+      "ar": "محميتا الأيير والتينيري الطبيعيتَيْن",
+      "year": "1991"
+    },
+    {
+      "id": "1268",
+      "en": "Historic Centre of Agadez",
+      "ar": null,
+      "year": "2013"
+    }
+  ],
+  "TH": [
+    {
+      "id": "574",
+      "en": "Historic Town of Sukhothai and Associated Historic Towns",
+      "ar": "مدينة سوكوتاي التاريخية",
+      "year": "1991"
+    },
+    {
+      "id": "576",
+      "en": "Historic City of Ayutthaya",
+      "ar": "مدينة أيوتايا التاريخية",
+      "year": "1991"
+    },
+    {
+      "id": "591",
+      "en": "Thungyai-Huai Kha Khaeng Wildlife Sanctuaries",
+      "ar": "محميات حيوانات ثونغ ياي – هواي كا كانغ",
+      "year": "1991"
+    },
+    {
+      "id": "575",
+      "en": "Ban Chiang Archaeological Site",
+      "ar": "موقع بان شيانغ الأثري",
+      "year": "1992"
+    },
+    {
+      "year": "2005",
+      "en": "Dong Phayayen-Khao Yai Forest Complex",
+      "id": "590",
+      "ar": "مجمّع دونغ فايايين كاو ياي الحرجي"
+    },
+    {
+      "year": "2021",
+      "en": "Kaeng Krachan Forest Complex",
+      "id": "1461",
+      "ar": "مجمَّع غابات كاينج كراشان"
+    },
+    {
+      "year": "2023",
+      "en": "The Ancient Town of Si Thep and its Associated Dvaravati Monuments",
+      "id": "1662",
+      "ar": "المدينة القديمة في سي ثيب والمعالم الأثرية المرتبطة بها من إمبراطورية دفارافاتي"
+    },
+    {
+      "year": "2024",
+      "en": "Phu Phrabat, a testimony to the Sīma stone tradition of the Dvaravati period",
+      "id": "1507",
+      "ar": "فو فرابات، شاهد على تقليد حجر السيما خلال فترة دفارافاتي"
+    },
+    {
+      "year": "2026",
+      "en": "Wat Phra Mahathat Woramahawihan, Nakhon Si Thammarat",
+      "id": "1761",
+      "ar": "وات فرا ماهاتات ووراماهاويهان، محافظة ناخون سي تامارات"
+    }
+  ],
+  "FI": [
+    {
+      "id": "582",
+      "en": "Old Rauma",
+      "ar": "مدينة راوما القديمة",
+      "year": "1991"
+    },
+    {
+      "id": "583",
+      "en": "Fortress of Suomenlinna",
+      "ar": "قلعة سوامنلينا",
+      "year": "1991"
+    },
+    {
+      "id": "584",
+      "en": "Petäjävesi Old Church",
+      "ar": "كنيسة بيتاجافيزي القديمة",
+      "year": "1994"
+    },
+    {
+      "id": "751",
+      "en": "Verla Groundwood and Board Mill",
+      "ar": "معمل فرلا لمعالجة الخشب والكرتون",
+      "year": "1996"
+    },
+    {
+      "year": "1999",
+      "en": "Bronze Age Burial Site of Sammallahdenmäki",
+      "id": "579",
+      "ar": "مقابر سمنلهدنماكي التي تعود للعصر البرونزي"
+    },
+    {
+      "year": "2026",
+      "en": "Aalto Works",
+      "id": "1752",
+      "ar": "أعمال آلتو"
+    }
+  ],
+  "RO": [
+    {
+      "id": "588",
+      "en": "Danube Delta",
+      "ar": "دلتا الدانوب",
+      "year": "1991"
+    },
+    {
+      "id": "596",
+      "en": "Villages with Fortified Churches in Transylvania",
+      "ar": "المواقع القروية والكنائس المحصنة في ترانسلفانيا",
+      "year": "1993"
+    },
+    {
+      "id": "597",
+      "en": "Hurezi Monastery",
+      "ar": "دير هوريزو",
+      "year": "1993"
+    },
+    {
+      "id": "598",
+      "en": "Churches of Moldavia",
+      "ar": "كنيسة القيامة في دير سوسِفيتا",
+      "year": "1993"
+    },
+    {
+      "year": "1999",
+      "en": "Historic Centre of Sighişoara",
+      "id": "902",
+      "ar": "وسط سيغيسوارا التاريخي"
+    },
+    {
+      "year": "1999",
+      "en": "Wooden Churches of Maramureş",
+      "id": "904",
+      "ar": "مجموعة كنائس ماراموريس"
+    },
+    {
+      "year": "1999",
+      "en": "Dacian Fortresses of the Orastie Mountains",
+      "id": "906",
+      "ar": "حصون الداتشيين على قمم أوراستي"
+    },
+    {
+      "year": "2021",
+      "en": "Roșia Montană Mining Landscape",
+      "id": "1552",
+      "ar": "مشهد المناجم في روشيا مونتانا"
+    },
+    {
+      "year": "2024",
+      "en": "Brâncuși Monumental Ensemble of Târgu Jiu",
+      "id": "1473",
+      "ar": "المجموعة الضخمة من المنحوتات لبرانكوشي في تارغو جيو"
+    },
+    {
+      "year": "2024",
+      "en": "Frontiers of the Roman Empire – Dacia",
+      "id": "1718",
+      "ar": "حدود الإمبراطورية الرومانية – داقية"
+    }
+  ],
+  "ID": [
+    {
+      "id": "592",
+      "en": "Borobudur Temple Compounds",
+      "ar": "مجمّع بوروبودور",
+      "year": "1991"
+    },
+    {
+      "id": "608",
+      "en": "Ujung Kulon National Park",
+      "ar": "المنتزه الوطني في أوجونغ كولون",
+      "year": "1991"
+    },
+    {
+      "id": "609",
+      "en": "Komodo National Park",
+      "ar": "المنتزه الوطني في كومودو",
+      "year": "1991"
+    },
+    {
+      "id": "642",
+      "en": "Prambanan Temple Compounds",
+      "ar": "مجمّع برامبانان",
+      "year": "1991"
+    },
+    {
+      "year": "1996",
+      "en": "Sangiran Early Man Site",
+      "id": "593",
+      "ar": "موقع وجود الإنسان الأوّل في سانجيران"
+    },
+    {
+      "year": "1999",
+      "en": "Lorentz National Park",
+      "id": "955",
+      "ar": "الروضة الوطنية في لورنتز"
+    },
+    {
+      "year": "2004",
+      "en": "Tropical Rainforest Heritage of Sumatra",
+      "id": "1167",
+      "ar": "تراث الغابات الاستوائية المتغذية من المطر في سمطرة"
+    },
+    {
+      "year": "2012",
+      "en": "Cultural Landscape of Bali Province: the Subak System as a Manifestation of the Tri Hita Karana Philosophy",
+      "id": "1194",
+      "ar": null
+    },
+    {
+      "year": "2019",
+      "en": "Ombilin Coal Mining Heritage of Sawahlunto",
+      "id": "1610",
+      "ar": "تراث منجم امبلين للفحم في سواهلونتو"
+    },
+    {
+      "year": "2023",
+      "en": "The Cosmological Axis of Yogyakarta and its Historic Landmarks",
+      "id": "1671",
+      "ar": "المحور الكوني ليوجياكارتا ومعالمه التاريخية"
+    }
+  ],
+  "MZ": [
+    {
+      "id": "599",
+      "en": "Island of Mozambique",
+      "ar": "جزيرة الموزمبيق",
+      "year": "1991"
+    }
+  ],
+  "AL": [
+    {
+      "id": "570",
+      "en": "Butrint",
+      "ar": "بوترنت",
+      "year": "1992"
+    },
+    {
+      "id": "569",
+      "en": "Historic Centres of Berat and Gjirokastra",
+      "ar": "المركزان التاريخيان لبيرات وجيروكاسترا",
+      "year": "2005"
+    }
+  ],
+  "CZ": [
+    {
+      "id": "616",
+      "en": "Historic Centre of Prague",
+      "ar": "وسط براغ التاريخي",
+      "year": "1992"
+    },
+    {
+      "id": "617",
+      "en": "Historic Centre of Český Krumlov",
+      "ar": "وسط تشسكي كروملوف التاريخي",
+      "year": "1992"
+    },
+    {
+      "id": "621",
+      "en": "Historic Centre of Telč",
+      "ar": "وسط تيلتش",
+      "year": "1992"
+    },
+    {
+      "id": "690",
+      "en": "Pilgrimage Church of St John of Nepomuk at Zelená Hora",
+      "ar": "كنيسة القديس يان نيبوموتسكي، قبلة الحجاج في زيلينا هورا",
+      "year": "1994"
+    },
+    {
+      "year": "1995",
+      "en": "Kutná Hora: Historical Town Centre with the Church of St Barbara and the Cathedral of Our Lady at Sedlec",
+      "id": "732",
+      "ar": "كوتنا هورا: وسط المدينة التاريخي وكنيسة سانتا باربرا وكاتدرائية السيدة في سدلك"
+    },
+    {
+      "year": "1996",
+      "en": "Lednice-Valtice Cultural Landscape",
+      "id": "763",
+      "ar": "منظر ليدنيتسه -فالتيتسه الثقافي"
+    },
+    {
+      "year": "1998",
+      "en": "Gardens and Castle at Kroměříž",
+      "id": "860",
+      "ar": "حدائق كروميهرجيج وقصرها"
+    },
+    {
+      "year": "1998",
+      "en": "Holašovice Historic Village",
+      "id": "861",
+      "ar": "محمية قرية هولاشوفيتسه التاريخية"
+    },
+    {
+      "year": "1999",
+      "en": "Litomyšl Castle",
+      "id": "901",
+      "ar": "قصر ليتوميشل"
+    },
+    {
+      "year": "2000",
+      "en": "Holy Trinity Column in Olomouc",
+      "id": "859",
+      "ar": "عمود الثالوث الأقدس في أولوموتس"
+    },
+    {
+      "year": "2001",
+      "en": "Tugendhat Villa in Brno",
+      "id": "1052",
+      "ar": "فيلا توغينهات في برنو"
+    },
+    {
+      "year": "2003",
+      "en": "Jewish Quarter and St Procopius' Basilica in Třebíč",
+      "id": "1078",
+      "ar": "الحيّ اليهودي وبازيليك القديس بروكوبيوس في تريبيتش"
+    },
+    {
+      "year": "2019",
+      "en": "Landscape for Breeding and Training of Ceremonial Carriage Horses at Kladruby nad Labem",
+      "id": "1589",
+      "ar": "منظر تربية وتدريب خيول جر العربات في الاحتفالات في كلادروبي ناد لابيم"
+    },
+    {
+      "year": "2023",
+      "en": "Žatec and the Landscape of Saaz Hops",
+      "id": "1558",
+      "ar": "جاتتس والمنظر الطبيعي لنبات الجنجل في ساز"
+    }
+  ],
+  "KH": [
+    {
+      "id": "668",
+      "en": "Angkor",
+      "ar": "أنغكور",
+      "year": "1992"
+    },
+    {
+      "id": "1224",
+      "en": "Temple of Preah Vihear",
+      "ar": "معبد بريه فيهير",
+      "year": "2008"
+    },
+    {
+      "id": "1532",
+      "en": "Temple Zone of Sambor Prei Kuk, Archaeological Site of Ancient Ishanapura",
+      "ar": null,
+      "year": "2017"
+    },
+    {
+      "id": "1667",
+      "en": "Koh Ker: Archaeological Site of Ancient Lingapura or Chok Gargyar",
+      "ar": "كوه كير: الموقع الأثري للنغابورا القديمة أو تشوك غرغيار",
+      "year": "2023"
+    },
+    {
+      "year": "2025",
+      "en": "Cambodian Memorial Sites: From centres of repression to places of peace and reflection",
+      "id": "1748",
+      "ar": "مواقع الذاكرة الكمبودية: من مراكز قمع إلى مواطن سلام وتأمل"
+    }
+  ],
+  "SK": [
+    {
+      "id": "618",
+      "en": "Historic Town of Banská Štiavnica and the Technical Monuments in its Vicinity",
+      "ar": "مدينة بانسكا ستيافنيكا التاريخية والنصب التقنية المجاورة",
+      "year": "1993"
+    },
+    {
+      "id": "620",
+      "en": "Levoča, Spišský Hrad and the Associated Cultural Monuments",
+      "ar": "ليفوكا",
+      "year": "1993"
+    },
+    {
+      "id": "622",
+      "en": "Vlkolínec",
+      "ar": "فلكواينيك",
+      "year": "1993"
+    },
+    {
+      "id": "973",
+      "en": "Bardejov Town Conservation Reserve",
+      "ar": "محمية مدينة بارديجوف",
+      "year": "2000"
+    },
+    {
+      "year": "2008",
+      "en": "Wooden Churches of the Slovak part of the Carpathian Mountain Area",
+      "id": "1273",
+      "ar": "كنائس من خشب في الجزء السلوفاكي من منطقة الكاربات"
+    }
+  ],
+  "PY": [
+    {
+      "id": "648",
+      "en": "Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangue",
+      "ar": "البعثات اليسوعية للسانتيزيما ترينيداد دو بارانيا وجيزو دو تافارانغ",
+      "year": "1993"
+    }
+  ],
+  "PH": [
+    {
+      "id": "653",
+      "en": "Tubbataha Reefs Natural Park",
+      "ar": "منتزه الشُعب الطبيعي في توباتاها",
+      "year": "1993"
+    },
+    {
+      "id": "677",
+      "en": "Baroque Churches of the Philippines",
+      "ar": "الكنائس الباروكيّة في الفليبين",
+      "year": "1993"
+    },
+    {
+      "id": "722",
+      "en": "Rice Terraces of the Philippine Cordilleras",
+      "ar": "حقول الأرزّ على شكل مصطبات في سلسلة جبال الفيليبين",
+      "year": "1995"
+    },
+    {
+      "id": "502",
+      "en": "Historic City of Vigan",
+      "ar": "مدينة فيغان التاريخية",
+      "year": "1999"
+    },
+    {
+      "year": "1999",
+      "en": "Puerto-Princesa Subterranean River National Park",
+      "id": "652",
+      "ar": "منتزه النهر الارضي في بويرتو برينسيسا الوطني"
+    },
+    {
+      "year": "2014",
+      "en": "Mount Hamiguitan Range Wildlife Sanctuary",
+      "id": "1403",
+      "ar": null
+    }
+  ],
+  "VE": [
+    {
+      "id": "658",
+      "en": "Coro and its Port",
+      "ar": "كورو ومرفأها",
+      "year": "1993"
+    },
+    {
+      "id": "701",
+      "en": "Canaima National Park",
+      "ar": "منتزه كانايما الوطني",
+      "year": "1994"
+    },
+    {
+      "id": "986",
+      "en": "Ciudad Universitaria de Caracas",
+      "ar": "مدينة كاراكاس الجامعية",
+      "year": "2000"
+    }
+  ],
+  "IE": [
+    {
+      "id": "659",
+      "en": "Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne",
+      "ar": "المجموعة الأثرية في وادي البوين",
+      "year": "1993"
+    },
+    {
+      "id": "757",
+      "en": "Sceilg Mhichíl",
+      "ar": "سكيليغ مايكل",
+      "year": "1996"
+    }
+  ],
+  "JP": [
+    {
+      "id": "660",
+      "en": "Buddhist Monuments in the Horyu-ji Area",
+      "ar": "النصب البوذيّة في منطقة أوريو-جي",
+      "year": "1993"
+    },
+    {
+      "id": "661",
+      "en": "Himeji-jo",
+      "ar": "هيميجي-جو",
+      "year": "1993"
+    },
+    {
+      "id": "662",
+      "en": "Yakushima",
+      "ar": "ياكوشيما",
+      "year": "1993"
+    },
+    {
+      "id": "663",
+      "en": "Shirakami-Sanchi",
+      "ar": "شيراكامي-سانشي",
+      "year": "1993"
+    },
+    {
+      "year": "1994",
+      "en": "Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities)",
+      "id": "688",
+      "ar": "النصب التاريخيّة في كيوتو القديمة (مدينة كيوتو ومدينة أوجي ومدينة أوتسو )"
+    },
+    {
+      "year": "1995",
+      "en": "Historic Villages of Shirakawa-go and Gokayama",
+      "id": "734",
+      "ar": "قريتا شيراكاوا-غو وغوكاياما التاريخيّتَان"
+    },
+    {
+      "year": "1996",
+      "en": "Hiroshima Peace Memorial (Genbaku Dome)",
+      "id": "775",
+      "ar": "النصب التذكاري للسلام في هيروشيما (قبّة جينباكو)"
+    },
+    {
+      "year": "1996",
+      "en": "Itsukushima Shinto Shrine",
+      "id": "776",
+      "ar": "مزار الشنتو في ايتسوكوشيما"
+    },
+    {
+      "year": "1998",
+      "en": "Historic Monuments of Ancient Nara",
+      "id": "870",
+      "ar": "النصب التاريخيّة في نارا القديمة"
+    },
+    {
+      "year": "1999",
+      "en": "Shrines and Temples of Nikko",
+      "id": "913",
+      "ar": "مزارات ومعابد نيكو"
+    },
+    {
+      "year": "2000",
+      "en": "Gusuku Sites and Related Properties of the Kingdom of Ryukyu",
+      "id": "972",
+      "ar": "مواقع غوسوكو وممتلكات مملكة الريوكيو"
+    },
+    {
+      "year": "2004",
+      "en": "Sacred Sites and Pilgrimage Routes in the Kii Mountain Range",
+      "id": "1142",
+      "ar": "المواقع المقدّسة وطرق الحج في جبال كيئي"
+    },
+    {
+      "year": "2005",
+      "en": "Shiretoko",
+      "id": "1193",
+      "ar": "شيريتوكو"
+    },
+    {
+      "year": "2007",
+      "en": "Iwami Ginzan Silver Mine and its Cultural Landscape",
+      "id": "1246",
+      "ar": "منجم إيوامي جينزان للفضة ومشهده الثقافي"
+    },
+    {
+      "year": "2011",
+      "en": "Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land",
+      "id": "1277",
+      "ar": "هيرايزومي- المعابد والحدائق والمواقع الأثرية التي تمثل مدرسة \"الأرض الطاهرة\" في الديانة البوذية"
+    },
+    {
+      "year": "2011",
+      "en": "Ogasawara Islands",
+      "id": "1362",
+      "ar": null
+    },
+    {
+      "year": "2013",
+      "en": "Fujisan, sacred place and source of artistic inspiration",
+      "id": "1418",
+      "ar": null
+    },
+    {
+      "year": "2014",
+      "en": "Tomioka Silk Mill and Related Sites",
+      "id": "1449",
+      "ar": null
+    },
+    {
+      "year": "2015",
+      "en": "Sites of Japan’s Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining",
+      "id": "1484",
+      "ar": "المواقع الخاصة بثورة مايجي الصناعية في اليابان"
+    },
+    {
+      "year": "2017",
+      "en": "Sacred Island of Okinoshima and Associated Sites in the Munakata Region",
+      "id": "1535",
+      "ar": null
+    },
+    {
+      "year": "2018",
+      "en": "Hidden Christian Sites in the Nagasaki Region",
+      "id": "1495",
+      "ar": "المواقع المسيحية المخفية في منطقة ناغاساكي"
+    },
+    {
+      "year": "2019",
+      "en": "Mozu-Furuichi Kofun Group: Mounded Tombs of Ancient Japan",
+      "id": "1593",
+      "ar": "مجموعة أضرحة موزو فورويشي: تلال المدافن في اليابان القديمة"
+    },
+    {
+      "year": "2021",
+      "en": "Amami-Oshima Island, Tokunoshima Island, Northern part of Okinawa Island, and Iriomote Island",
+      "id": "1574",
+      "ar": "جزيرة أمامي أوشيما، وجزيرة توكونوشيما، والجزء الشمالي من جزيرة أوكيناوا، وجزيرة إيريوموت"
+    },
+    {
+      "year": "2021",
+      "en": "Jomon Prehistoric Sites in Northern Japan",
+      "id": "1632",
+      "ar": "مواقع جومون من حقبة ما قبل التاريخ في شمال اليابان"
+    },
+    {
+      "year": "2024",
+      "en": "Sado Island Gold Mines",
+      "id": "1698",
+      "ar": "مناجم الذهب في جزيرة سادو"
+    },
+    {
+      "year": "2026",
+      "en": "Ancient Capitals of Asuka and Fujiwara",
+      "id": "1757",
+      "ar": "العاصمتان القديمتان أسوكا وفوجيوارا"
+    }
+  ],
+  "SV": [
+    {
+      "id": "675",
+      "en": "Joya de Cerén Archaeological Site",
+      "ar": "موقع خويا دي سيرين الأثري",
+      "year": "1993"
+    }
+  ],
+  "VN": [
+    {
+      "id": "678",
+      "en": "Complex of Hué Monuments",
+      "ar": "مجموعة نصب هوي",
+      "year": "1993"
+    },
+    {
+      "id": "672",
+      "en": "Ha Long Bay - Cat Ba Archipelago",
+      "ar": "خليج هالونغ – أرخبيل كاتبا",
+      "year": "1994"
+    },
+    {
+      "id": "948",
+      "en": "Hoi An Ancient Town",
+      "ar": "مدينة هوي - آن القديمة",
+      "year": "1999"
+    },
+    {
+      "id": "949",
+      "en": "My Son Sanctuary",
+      "ar": "ضريح مي- سون",
+      "year": "1999"
+    },
+    {
+      "year": "2010",
+      "en": "Central Sector of the Imperial Citadel of Thang Long - Hanoi",
+      "id": "1328",
+      "ar": "مدينة ثانغ لونغ الإمبراطورية في هانوي"
+    },
+    {
+      "year": "2011",
+      "en": "Citadel of the Ho Dynasty",
+      "id": "1358",
+      "ar": "قلعة سلالة هو"
+    },
+    {
+      "year": "2014",
+      "en": "Trang An Landscape Complex",
+      "id": "1438",
+      "ar": null
+    },
+    {
+      "year": "2025",
+      "en": "Yen Tu-Vinh Nghiem-Con Son, Kiep Bac Complex of Monuments and Landscapes",
+      "id": "1732",
+      "ar": "مجمَّع ين تو، فين نغيم، كون سون، كيب باك للمعالم الأثرية والمناظر الطبيعية"
+    }
+  ],
+  "LT": [
+    {
+      "id": "541",
+      "en": "Vilnius Historic Centre",
+      "ar": "الوسط التاريخي في فيلنيوس",
+      "year": "1994"
+    },
+    {
+      "id": "1137",
+      "en": "Kernavė Archaeological Site (Cultural Reserve of Kernavė)",
+      "ar": "الموقع الأثري في كيرنافي (المحمية الثقافية في كيرنافي)",
+      "year": "2004"
+    },
+    {
+      "id": "1661",
+      "en": "Modernist Kaunas: Architecture of Optimism, 1919-1939",
+      "ar": "كاوناس الحديثة: الهندسة المعمارية التفاؤلية، 1919-1939",
+      "year": "2023"
+    }
+  ],
+  "UG": [
+    {
+      "id": "682",
+      "en": "Bwindi Impenetrable National Park",
+      "ar": "الغابة العذراء بويندي",
+      "year": "1994"
+    },
+    {
+      "id": "684",
+      "en": "Rwenzori Mountains National Park",
+      "ar": "جبال رونزوري",
+      "year": "1994"
+    },
+    {
+      "id": "1022",
+      "en": "Tombs of Buganda Kings at Kasubi",
+      "ar": "قبور الامراء في بوغندا في كاسوبي",
+      "year": "2001"
+    }
+  ],
+  "DK": [
+    {
+      "id": "697",
+      "en": "Jelling Mounds, Runic Stones and Church",
+      "ar": "جثوات وصخور اسكندينافية وكنيسة في جيلينغ",
+      "year": "1994"
+    },
+    {
+      "id": "695",
+      "en": "Roskilde Cathedral",
+      "ar": "كاتدرائية روزكيلد",
+      "year": "1995"
+    },
+    {
+      "id": "696",
+      "en": "Kronborg Castle",
+      "ar": "قصر كرونبورغ",
+      "year": "2000"
+    },
+    {
+      "id": "1149",
+      "en": "Ilulissat Icefjord",
+      "ar": "خليج إيلوليسات الثلجي",
+      "year": "2004"
+    },
+    {
+      "year": "2014",
+      "en": "Stevns Klint",
+      "id": "1416",
+      "ar": null
+    },
+    {
+      "year": "2015",
+      "en": "The par force hunting landscape in North Zealand",
+      "id": "1469",
+      "ar": "موقع الصيد بالمطاردة في جوتلاند الشمالية"
+    },
+    {
+      "year": "2017",
+      "en": "Kujataa Greenland: Norse and Inuit Farming at the Edge of the Ice Cap",
+      "id": "1536",
+      "ar": null
+    },
+    {
+      "year": "2018",
+      "en": "Aasivissuit – Nipisat. Inuit Hunting Ground between Ice and Sea",
+      "id": "1557",
+      "ar": "أراضي"
+    },
+    {
+      "year": "2023",
+      "en": "Viking-Age Ring Fortresses",
+      "id": "1660",
+      "ar": "حصون من عصر الفايكنغ ذات شكل حَلَقي"
+    },
+    {
+      "year": "2025",
+      "en": "Møns Klint",
+      "id": "1728",
+      "ar": "جروف مون"
+    },
+    {
+      "year": "2026",
+      "en": "The Bony Fish Fossils of the Western Limfjord – Evolution and Climate Adaptation in the Earliest Eocene",
+      "id": "1758",
+      "ar": "أحافير الأسماك العظمية في بحر ليمفيورد الغربي – التطور والتكيف مع المناخ في بدايات العصر الإيوسيني"
+    }
+  ],
+  "LU": [
+    {
+      "id": "699",
+      "en": "City of Luxembourg: its Old Quarters and Fortifications",
+      "ar": "مدينة لوكسمبورغ: الأحياء القديمة و التحصينات",
+      "year": "1994"
+    }
+  ],
+  "GE": [
+    {
+      "id": "708",
+      "en": "Historical Monuments of Mtskheta",
+      "ar": "محمية المدينة-المتحف متسخيتا",
+      "year": "1994"
+    },
+    {
+      "id": "710",
+      "en": "Gelati Monastery",
+      "ar": null,
+      "year": "1994"
+    },
+    {
+      "id": "709",
+      "en": "Upper Svaneti",
+      "ar": "منطقة سفانيتي العليا",
+      "year": "1996"
+    },
+    {
+      "id": "1616",
+      "en": "Colchic Rainforests and Wetlands",
+      "ar": "غابات كولشان المطيرة وأراضيها الرطبة",
+      "year": "2021"
+    }
+  ],
+  "LA": [
+    {
+      "id": "479",
+      "en": "Town of Luang Prabang",
+      "ar": "مدينة لوانغ برابانغ",
+      "year": "1995"
+    },
+    {
+      "id": "481",
+      "en": "Vat Phou and Associated Ancient Settlements within the Champasak Cultural Landscape",
+      "ar": "معبد فات فو والمنشآت القديمة الملحقة بالمنظر الثقافي في مقاطعة تشامباساك",
+      "year": "2001"
+    },
+    {
+      "id": "1587",
+      "en": "Megalithic Jar Sites in Xiengkhuang – Plain of Jars",
+      "ar": "مواقع الجرار المغليثية في زيانغهوانغ – سهل الجرار",
+      "year": "2019"
+    }
+  ],
+  "CL": [
+    {
+      "id": "715",
+      "en": "Rapa Nui National Park",
+      "ar": "منتزه رابا نوي الوطني",
+      "year": "1995"
+    },
+    {
+      "id": "971",
+      "en": "Churches of Chiloé",
+      "ar": "كنائس تشيلوي",
+      "year": "2000"
+    },
+    {
+      "id": "959",
+      "en": "Historic Quarter of the Seaport City of Valparaíso",
+      "ar": "الحيّ التاريخي لمدينة فال براييسو البحرية",
+      "year": "2003"
+    },
+    {
+      "id": "1178",
+      "en": "Humberstone and Santa Laura Saltpeter Works",
+      "ar": "مصانع نترات الصوديوم في همبرستون وسانتا لاورا",
+      "year": "2005"
+    },
+    {
+      "year": "2006",
+      "en": "Sewell Mining Town",
+      "id": "1214",
+      "ar": "مدينة سويل المنجمية"
+    },
+    {
+      "year": "2021",
+      "en": "Settlement and Artificial Mummification of the Chinchorro Culture in the Arica and Parinacota Region",
+      "id": "1634",
+      "ar": "الاستيطان والتحنيط الاصطناعي في ثقافة شنكورو في منطقة أريكا وباريناكوتا"
+    }
+  ],
+  "KR": [
+    {
+      "id": "736",
+      "en": "Seokguram Grotto and Bulguksa Temple",
+      "ar": "مغارة سوكغول آم ومعبد بولغوكسا",
+      "year": "1995"
+    },
+    {
+      "id": "737",
+      "en": "Haeinsa Temple Janggyeong Panjeon, the Depositories for the Tripitaka Koreana Woodblocks",
+      "ar": "معبد هينسا غانغ غيونغ بان جون ومخازن الألواح الخشبية تريباتاكا كوريانا",
+      "year": "1995"
+    },
+    {
+      "id": "738",
+      "en": "Jongmyo Shrine",
+      "ar": "ضريح غيونغ ميو",
+      "year": "1995"
+    },
+    {
+      "id": "816",
+      "en": "Changdeokgung Palace Complex",
+      "ar": "قصر تشانغ دوك",
+      "year": "1997"
+    },
+    {
+      "year": "1997",
+      "en": "Hwaseong Fortress",
+      "id": "817",
+      "ar": "قلعة هواسيونغ"
+    },
+    {
+      "year": "2000",
+      "en": "Gyeongju Historic Areas",
+      "id": "976",
+      "ar": "مناطق كيونغ جو التاريخية"
+    },
+    {
+      "year": "2000",
+      "en": "Gochang, Hwasun and Ganghwa Dolmen Sites",
+      "id": "977",
+      "ar": "مواقع الدلمن في غوشانغ وهواسونغ وغانغوا"
+    },
+    {
+      "year": "2007",
+      "en": "Jeju Volcanic Island and Lava Tubes",
+      "id": "1264",
+      "ar": "جزيرة جيجو البركانية وأنابيب الحمم"
+    },
+    {
+      "year": "2009",
+      "en": "Royal Tombs of the Joseon Dynasty",
+      "id": "1319",
+      "ar": "الأضرحة الملكية لسلالة جوزيون"
+    },
+    {
+      "year": "2010",
+      "en": "Historic Villages of Korea: Hahoe and Yangdong",
+      "id": "1324",
+      "ar": "قريتان تاريخيتان في كوريا: هاهوي ويانغدونغ"
+    },
+    {
+      "year": "2014",
+      "en": "Namhansanseong",
+      "id": "1439",
+      "ar": null
+    },
+    {
+      "year": "2015",
+      "en": "Baekje Historic Areas",
+      "id": "1477",
+      "ar": "مساحات بايكجي التاريخية"
+    },
+    {
+      "year": "2018",
+      "en": "Sansa, Buddhist Mountain Monasteries in Korea",
+      "id": "1562",
+      "ar": "سانسا، أديرة بوذية جبلية في كوريا"
+    },
+    {
+      "year": "2019",
+      "en": "Seowon, Korean Neo-Confucian Academies",
+      "id": "1498",
+      "ar": "سيوون، مدارس الكونفوشيوسية الجديدة"
+    },
+    {
+      "year": "2021",
+      "en": "Getbol, Korean Tidal Flats",
+      "id": "1591",
+      "ar": "غيتبول، مسطحات المدِّ والجزر الكورية"
+    },
+    {
+      "year": "2023",
+      "en": "Gaya Tumuli",
+      "id": "1666",
+      "ar": "جُثوَة غايا"
+    },
+    {
+      "year": "2025",
+      "en": "Petroglyphs along the Bangucheon Stream",
+      "id": "1740",
+      "ar": "النقوش الصخرية على طول جدول بنغوتشيون"
+    }
+  ],
+  "NL": [
+    {
+      "id": "739",
+      "en": "Schokland and Surroundings",
+      "ar": "شوكلاند وضواحيها",
+      "year": "1995"
+    },
+    {
+      "id": "759",
+      "en": "Dutch Water Defence Lines",
+      "ar": "خطوط الدفاع المائية الهولندية",
+      "year": "1996"
+    },
+    {
+      "id": "818",
+      "en": "Mill Network at Kinderdijk-Elshout",
+      "ar": "شبكة الطواحين في كيندردجيك – ال شوط",
+      "year": "1997"
+    },
+    {
+      "id": "819",
+      "en": "Historic Area of Willemstad, Inner City and Harbour, Curaçao",
+      "ar": "منطقة ويلمستاد التاريخية ووسط المدينة والمرفأ وجزر الانتيل الهولندية",
+      "year": "1997"
+    },
+    {
+      "year": "1998",
+      "en": "Ir.D.F. Woudagemaal (D.F. Wouda Steam Pumping Station)",
+      "id": "867",
+      "ar": "اير.دي.أف. ووداجمال (محطة ضخّ بخارية في دي.أف. وودا)"
+    },
+    {
+      "year": "1999",
+      "en": "Droogmakerij de Beemster (Beemster Polder)",
+      "id": "899",
+      "ar": "دروغماكيريج دو بيمستار (بلدر بيمستار)"
+    },
+    {
+      "year": "2000",
+      "en": "Rietveld Schröderhuis (Rietveld Schröder House)",
+      "id": "965",
+      "ar": "رينفلد شرودرهوس"
+    },
+    {
+      "year": "2010",
+      "en": "Seventeenth-Century Canal Ring Area of Amsterdam inside the Singelgracht",
+      "id": "1349",
+      "ar": "منطقة القنوات الموحدة المركز المنشأة في القرن السابع عشر داخل زينغلغراخت في أمستردام"
+    },
+    {
+      "year": "2014",
+      "en": "Van Nellefabriek",
+      "id": "1441",
+      "ar": null
+    },
+    {
+      "year": "2023",
+      "en": "Eisinga Planetarium in Franeker",
+      "id": "1683",
+      "ar": "مجسم آيزه آيزنغا الملكي للقبة السماوية"
+    }
+  ],
+  "UY": [
+    {
+      "id": "747",
+      "en": "Historic Quarter of the City of Colonia del Sacramento",
+      "ar": "الحي التاريخي في مدينة كولونيا دي ساكرامنتو",
+      "year": "1995"
+    },
+    {
+      "id": "1464",
+      "en": "Fray Bentos Industrial Landscape",
+      "ar": "موقع فراي بنتوس الثقافي الصناعي",
+      "year": "2015"
+    },
+    {
+      "id": "1612",
+      "en": "The work of engineer Eladio Dieste: Church of Atlántida",
+      "ar": "عمل المهندس إيلاديو ديسته: كنيسة أتلانتيدا",
+      "year": "2021"
+    }
+  ],
+  "BZ": [
+    {
+      "id": "764",
+      "en": "Belize Barrier Reef Reserve System",
+      "ar": "نظام محميات الحاجز المرجاني في بليز",
+      "year": "1996"
+    }
+  ],
+  "AM": [
+    {
+      "id": "777",
+      "en": "Monasteries of Haghpat and Sanahin",
+      "ar": "ديرا هاغباط وساناهين",
+      "year": "1996"
+    },
+    {
+      "id": "960",
+      "en": "Monastery of Geghard and the Upper Azat Valley",
+      "ar": "دير غيرارت والوادي الأعلى في أزات",
+      "year": "2000"
+    },
+    {
+      "id": "1011",
+      "en": "Cathedral and Churches of Echmiatsin and the Archaeological Site of Zvartnots",
+      "ar": "كاتدرائية إتشميادزينه وكنائسها والموقع الأثري في زفارنوتز",
+      "year": "2000"
+    }
+  ],
+  "AT": [
+    {
+      "id": "784",
+      "en": "Historic Centre of the City of Salzburg",
+      "ar": "الوسط التاريخي لمدينة سالسبورغ",
+      "year": "1996"
+    },
+    {
+      "id": "786",
+      "en": "Palace and Gardens of Schönbrunn",
+      "ar": "قصر شونبران وحدائقه",
+      "year": "1996"
+    },
+    {
+      "id": "806",
+      "en": "Hallstatt-Dachstein / Salzkammergut Cultural Landscape",
+      "ar": "المنظر الثقافي في هالستات-داشستاين/شالزكاميرغوت",
+      "year": "1997"
+    },
+    {
+      "id": "785",
+      "en": "Semmering Railway",
+      "ar": "خط سكة الحديد في سيمرينغ",
+      "year": "1998"
+    },
+    {
+      "year": "1999",
+      "en": "City of Graz – Historic Centre and Schloss Eggenberg",
+      "id": "931",
+      "ar": "مدينة غراتس ـ المركز التاريخي وقصر إغّنبرج"
+    },
+    {
+      "year": "2000",
+      "en": "Wachau Cultural Landscape",
+      "id": "970",
+      "ar": "مشهد واشو الثقافي"
+    },
+    {
+      "year": "2001",
+      "en": "Historic Centre of Vienna",
+      "id": "1033",
+      "ar": "وسط فيينا التاريخي"
+    }
+  ],
+  "KE": [
+    {
+      "id": "800",
+      "en": "Mount Kenya National Park/Natural Forest",
+      "ar": null,
+      "year": "1997"
+    },
+    {
+      "id": "801",
+      "en": "Lake Turkana National Parks",
+      "ar": "منتزهات بحيرة تركانا الوطنيّة",
+      "year": "1997"
+    },
+    {
+      "id": "1055",
+      "en": "Lamu Old Town",
+      "ar": "مدينة لامو القديمة",
+      "year": "2001"
+    },
+    {
+      "id": "1231",
+      "en": "Sacred Mijikenda Kaya Forests",
+      "ar": "غابات كايا ميجيكندا المقدسة",
+      "year": "2008"
+    },
+    {
+      "year": "2011",
+      "en": "Kenya Lake System in the Great Rift Valley",
+      "id": "1060",
+      "ar": null
+    },
+    {
+      "year": "2011",
+      "en": "Fort Jesus, Mombasa",
+      "id": "1295",
+      "ar": "حصن يسوع، مومباسا"
+    },
+    {
+      "year": "2018",
+      "en": "Thimlich Ohinga Archaeological Site",
+      "id": "1450",
+      "ar": "موقع تيمليش أوينغا الأثري"
+    },
+    {
+      "year": "2024",
+      "en": "The Historic Town and Archaeological Site of Gedi",
+      "id": "1720",
+      "ar": "مدينة جيداي التاريخية وموقعها الأثري"
+    }
+  ],
+  "DM": [
+    {
+      "id": "814",
+      "en": "Morne Trois Pitons National Park",
+      "ar": "منتزه مورن تروا بيتون الوطني",
+      "year": "1997"
+    }
+  ],
+  "CR": [
+    {
+      "id": "820",
+      "en": "Cocos Island National Park",
+      "ar": "منتزه جزيرة كوكوس الوطني",
+      "year": "1997"
+    },
+    {
+      "id": "928",
+      "en": "Area de Conservación Guanacaste",
+      "ar": "منطقة غواناكاست المحميّة",
+      "year": "1999"
+    },
+    {
+      "id": "1453",
+      "en": "Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís",
+      "ar": null,
+      "year": "2014"
+    }
+  ],
+  "EE": [
+    {
+      "id": "822",
+      "en": "Historic Centre (Old Town) of Tallinn",
+      "ar": "وسط مدينة تالين التاريخي (المدينة القديمة)",
+      "year": "1997"
+    }
+  ],
+  "LV": [
+    {
+      "id": "852",
+      "en": "Historic Centre of Riga",
+      "ar": "الوسط التاريخي في ريغا",
+      "year": "1997"
+    },
+    {
+      "id": "1658",
+      "en": "Old town of Kuldīga",
+      "ar": "مدينة كولديغا القديمة",
+      "year": "2023"
+    }
+  ],
+  "SB": [
+    {
+      "id": "854",
+      "en": "East Rennell",
+      "ar": "إيست رينيل",
+      "year": "1998"
+    }
+  ],
+  "BE": [
+    {
+      "id": "855",
+      "en": "Flemish Béguinages",
+      "ar": "أديرة المترهبات الفلمندية",
+      "year": "1998"
+    },
+    {
+      "id": "856",
+      "en": "The Four Lifts on the Canal du Centre and their Environs, La Louvière and Le Roeulx (Hainaut)",
+      "ar": "المصاعد الأربعة لقناة الوسط ومحيطها، اللا لوفيير واللورو (هينولت)",
+      "year": "1998"
+    },
+    {
+      "id": "857",
+      "en": "La Grand-Place, Brussels",
+      "ar": "الساحة الكبرى في بروكسل",
+      "year": "1998"
+    },
+    {
+      "id": "996",
+      "en": "Historic Centre of Brugge",
+      "ar": "وسط بروج التاريخي",
+      "year": "2000"
+    },
+    {
+      "year": "2000",
+      "en": "Major Town Houses of the Architect Victor Horta (Brussels)",
+      "id": "1005",
+      "ar": "أهم المساكن الخاصة من تصميم المهندس فكتور أورتا (بروكسل)"
+    },
+    {
+      "year": "2000",
+      "en": "Neolithic Flint Mines at Spiennes (Mons)",
+      "id": "1006",
+      "ar": "مناجم الصوان من العصر الحجري الحديث في سبيين- (مونس)"
+    },
+    {
+      "year": "2000",
+      "en": "Notre-Dame Cathedral in Tournai",
+      "id": "1009",
+      "ar": "كاثدرائية سيدة تورنيه"
+    },
+    {
+      "year": "2005",
+      "en": "Plantin-Moretus House-Workshops-Museum Complex",
+      "id": "1185",
+      "ar": "مجموعة دار نشر-محترف-متحف بلانتان موريتوس"
+    },
+    {
+      "year": "2009",
+      "en": "Stoclet House",
+      "id": "1298",
+      "ar": "اسْتوكلِت هاوس"
+    },
+    {
+      "year": "2012",
+      "en": "Major Mining Sites of Wallonia",
+      "id": "1344",
+      "ar": null
+    }
+  ],
+  "TM": [
+    {
+      "id": "886",
+      "en": "State Historical and Cultural Park “Ancient Merv”",
+      "ar": "المنتزه الوطني التاريخي والثقافي في مدينة مرو القديمة",
+      "year": "1999"
+    },
+    {
+      "id": "1199",
+      "en": "Kunya-Urgench",
+      "ar": "قونيا - أورغنش",
+      "year": "2005"
+    },
+    {
+      "id": "1242",
+      "en": "Parthian Fortresses of Nisa",
+      "ar": "قلعتا نيزا (الحقبة البارثية)",
+      "year": "2007"
+    }
+  ],
+  "KN": [
+    {
+      "id": "910",
+      "en": "Brimstone Hill Fortress National Park",
+      "ar": "منتزه قلعة بريمستون هيل الوطني",
+      "year": "1999"
+    }
+  ],
+  "ZA": [
+    {
+      "id": "915",
+      "en": "Fossil Hominid Sites of South Africa",
+      "ar": "موقع الهومنيدات (متحجّرات الإنسان البدائي) في ستيركفونتين وسوارتكرانس وكرومدراي وأنفيرون",
+      "year": "1999"
+    },
+    {
+      "id": "916",
+      "en": "Robben Island",
+      "ar": "جزيرة روبن",
+      "year": "1999"
+    },
+    {
+      "id": "1099",
+      "en": "Mapungubwe Cultural Landscape",
+      "ar": "منظر مابونغوبوي الثقافي",
+      "year": "2003"
+    },
+    {
+      "id": "1007",
+      "en": "Cape Floral Region Protected Areas",
+      "ar": "محمية الزهور في الكاب",
+      "year": "2004"
+    },
+    {
+      "year": "2005",
+      "en": "Vredefort Dome",
+      "id": "1162",
+      "ar": "قبة فريدفورت"
+    },
+    {
+      "year": "2007",
+      "en": "Richtersveld Cultural and Botanical Landscape",
+      "id": "1265",
+      "ar": "مشهد ريشترسفيلد الثقافي والنباتي"
+    },
+    {
+      "year": "2017",
+      "en": "ǂKhomani Cultural Landscape",
+      "id": "1545",
+      "ar": "منظر الخوماني الثقافي"
+    },
+    {
+      "year": "2018",
+      "en": "Barberton Makhonjwa Mountains",
+      "id": "1575",
+      "ar": "جبال باربيرتون ماكونيا"
+    },
+    {
+      "year": "2024",
+      "en": "Human Rights, Liberation and Reconciliation: Nelson Mandela Legacy Sites",
+      "id": "1676",
+      "ar": "حقوق الإنسان والتحرير والمصالحة: المواقع التي تحمل إرث نيلسون مانديلا"
+    },
+    {
+      "year": "2024",
+      "en": "The Emergence of Modern Human Behaviour: The Pleistocene Occupation Sites of South Africa",
+      "id": "1723",
+      "ar": "ظهور السلوك البشري الحديث: مستوطنات العصر الحديث الأقرب في جنوب أفريقيا"
+    }
+  ],
+  "NG": [
+    {
+      "id": "938",
+      "en": "Sukur Cultural Landscape",
+      "ar": "منظر سوكور الثقافي",
+      "year": "1999"
+    },
+    {
+      "id": "1118",
+      "en": "Osun-Osogbo Sacred Grove",
+      "ar": "غابة أوسون-أوشوغبو المقدسة",
+      "year": "2005"
+    }
+  ],
+  "NI": [
+    {
+      "id": "613",
+      "en": "Ruins of León Viejo",
+      "ar": "آثار ليون فيخو",
+      "year": "2000"
+    },
+    {
+      "id": "1236",
+      "en": "León Cathedral",
+      "ar": "كاتدرائية ليون",
+      "year": "2011"
+    }
+  ],
+  "BY": [
+    {
+      "id": "625",
+      "en": "Mir Castle Complex",
+      "ar": "مجمع قصر مير",
+      "year": "2000"
+    },
+    {
+      "id": "1196",
+      "en": "Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh",
+      "ar": "المجمّع الهندسي والسكني والثقافي لعائلة رادزيفيل في نيسفيز",
+      "year": "2005"
+    }
+  ],
+  "AZ": [
+    {
+      "id": "958",
+      "en": "Walled City of Baku with the Shirvanshah's Palace and Maiden Tower",
+      "ar": "مدينة باكو المحصنة مع قصر الشرفنشاهات وقلعة العذراء",
+      "year": "2000"
+    },
+    {
+      "id": "1076",
+      "en": "Gobustan Rock Art Cultural Landscape",
+      "ar": "مشهد غوبستان الثقافي للفن الصخري",
+      "year": "2007"
+    },
+    {
+      "id": "1549",
+      "en": "Historic Centre of Sheki with the Khan’s Palace",
+      "ar": "مركز شاكي التاريخي وقصر خان الملكي",
+      "year": "2019"
+    },
+    {
+      "id": "1696",
+      "en": "Cultural Landscape of Khinalig People and “Köç Yolu” Transhumance Route",
+      "ar": "المشهد الثقافي لقرية خيناليق وطريق الانتجاع \"كوتش يولو\"",
+      "year": "2023"
+    }
+  ],
+  "MY": [
+    {
+      "id": "1012",
+      "en": "Kinabalu Park",
+      "ar": "منتزه كينابالو",
+      "year": "2000"
+    },
+    {
+      "id": "1013",
+      "en": "Gunung Mulu National Park",
+      "ar": "الروضة الوطنيّة في غونونغ مولو",
+      "year": "2000"
+    },
+    {
+      "id": "1223",
+      "en": "Melaka and George Town, Historic Cities of the Straits of Malacca",
+      "ar": "موقع ميلاكا وجورج تاون (ماليزيا)",
+      "year": "2008"
+    },
+    {
+      "id": "1396",
+      "en": "Archaeological Heritage of the Lenggong Valley",
+      "ar": null,
+      "year": "2012"
+    },
+    {
+      "year": "2024",
+      "en": "The Archaeological Heritage of Niah National Park’s Caves Complex",
+      "id": "1014",
+      "ar": "التراث الأثري لمجمَّع كهوف حديقة نياه الوطنية"
+    },
+    {
+      "year": "2025",
+      "en": "Forest Research Institute Malaysia Forest Park Selangor",
+      "id": "1734",
+      "ar": "حديقة معهد البحوث الحرجية الماليزي – سيلانغور"
+    }
+  ],
+  "SR": [
+    {
+      "id": "1017",
+      "en": "Central Suriname Nature Reserve",
+      "ar": "المحمية الطبيعية في سورينام الوسطى",
+      "year": "2000"
+    },
+    {
+      "id": "940",
+      "en": "Historic Inner City of Paramaribo",
+      "ar": "وسط مدينة باراماريبو التاريخي",
+      "year": "2002"
+    },
+    {
+      "id": "1680",
+      "en": "Jodensavanne Archaeological Site: Jodensavanne Settlement and Cassipora Creek Cemetery",
+      "ar": "موقع جودن سافان الأثري: مستوطنة جودن سافان ومقبرة جدول كاسيبورا",
+      "year": "2023"
+    }
+  ],
+  "BW": [
+    {
+      "id": "1021",
+      "en": "Tsodilo",
+      "ar": "تسوديلو",
+      "year": "2001"
+    },
+    {
+      "id": "1432",
+      "en": "Okavango Delta",
+      "ar": null,
+      "year": "2014"
+    }
+  ],
+  "IL": [
+    {
+      "id": "1040",
+      "en": "Masada",
+      "ar": "مصعدة",
+      "year": "2001"
+    },
+    {
+      "id": "1042",
+      "en": "Old City of Acre",
+      "ar": "مدينة عكّا القديمة",
+      "year": "2001"
+    },
+    {
+      "id": "1096",
+      "en": "White City of Tel-Aviv – the Modern Movement",
+      "ar": "مدينة تل أبيب البيضاء – الحركة العصرية",
+      "year": "2003"
+    },
+    {
+      "id": "1107",
+      "en": "Incense Route - Desert Cities in the Negev",
+      "ar": "طريق البَخُّور - مدن صحراء النقب",
+      "year": "2005"
+    },
+    {
+      "year": "2005",
+      "en": "Biblical Tels - Megiddo, Hazor, Beer Sheba",
+      "id": "1108",
+      "ar": "التلال التوراتية – مجيدو، هازور وبير سبع"
+    },
+    {
+      "year": "2008",
+      "en": "Bahá’i Holy Places in Haifa and the Western Galilee",
+      "id": "1220",
+      "ar": "الأماكن البهائية المقدسة في حيفا والجليل الغربي"
+    },
+    {
+      "year": "2012",
+      "en": "Sites of Human Evolution at Mount Carmel: The Nahal Me’arot / Wadi el-Mughara Caves",
+      "id": "1393",
+      "ar": null
+    },
+    {
+      "year": "2014",
+      "en": "Caves of Maresha and Bet-Guvrin in the Judean Lowlands as a Microcosm of the Land of the Caves",
+      "id": "1370",
+      "ar": null
+    },
+    {
+      "year": "2015",
+      "en": "Necropolis of Bet She’arim: A Landmark of Jewish Renewal",
+      "id": "1471",
+      "ar": "مقبرة بيت شعاريم الكبيرة: مقام بارز في حركة التجدد اليهودي"
+    }
+  ],
+  "AF": [
+    {
+      "id": "211",
+      "en": "Minaret and Archaeological Remains of Jam",
+      "ar": "مئذنة جام وبقاياها الاثرية",
+      "year": "2002"
+    },
+    {
+      "id": "208",
+      "en": "Cultural Landscape and Archaeological Remains of the Bamiyan Valley",
+      "ar": "المنظر الثقافي والبقايا الأثرية في وادي باميان",
+      "year": "2003"
+    }
+  ],
+  "GM": [
+    {
+      "id": "761",
+      "en": "Kunta Kinteh Island and Related Sites",
+      "ar": "جزيرة جيمس والمواقع المتّصلة بها",
+      "year": "2003"
+    }
+  ],
+  "SD": [
+    {
+      "id": "1073",
+      "en": "Gebel Barkal and the Sites of the Napatan Region",
+      "ar": "جبل البركل ومواقع المنطقة النوبية",
+      "year": "2003"
+    },
+    {
+      "id": "1336",
+      "en": "Archaeological Sites of the Island of Meroe",
+      "ar": "المواقع الأثرية في جزيرة مروي",
+      "year": "2011"
+    },
+    {
+      "id": "262",
+      "en": "Sanganeb Marine National Park and Dungonab Bay – Mukkawar Island Marine National Park",
+      "ar": "المحمية البحرية القومية لسنجانب والحديقة البحرية القومية لخليج جزيرة دنقناب في جزيرة مكوار",
+      "year": "2016"
+    }
+  ],
+  "KZ": [
+    {
+      "id": "1103",
+      "en": "Mausoleum of Khoja Ahmed Yasawi",
+      "ar": "ضريح الخوجه أحمد يسوي",
+      "year": "2003"
+    },
+    {
+      "id": "1145",
+      "en": "Petroglyphs of the Archaeological Landscape of Tanbaly",
+      "ar": "النقوش على الحجر في المنظر الأثري في تامغالي",
+      "year": "2004"
+    },
+    {
+      "id": "1102",
+      "en": "Saryarka – Steppe and Lakes of Northern Kazakhstan",
+      "ar": "سارياركا – سُهب وبحيرات شمال كازاخستان",
+      "year": "2008"
+    },
+    {
+      "id": "1760",
+      "en": "Rock Mosques and Associated Sacred Sites of Mangystau",
+      "ar": "المساجد الصخرية والمواقع المقدسة المرتبطة بها في مانغيستاو",
+      "year": "2026"
+    }
+  ],
+  "MN": [
+    {
+      "id": "1081",
+      "en": "Orkhon Valley Cultural Landscape",
+      "ar": "المنظر الثقافي لوادي اورخون",
+      "year": "2004"
+    },
+    {
+      "id": "1382",
+      "en": "Petroglyphic Complexes of the Mongolian Altai",
+      "ar": "مجمعات النقش على الصخور لشعب آلتاي في منغوليا",
+      "year": "2011"
+    },
+    {
+      "id": "1440",
+      "en": "Great Burkhan Khaldun Mountain and its surrounding sacred landscape",
+      "ar": "جبل بورخان خلدن الكبير والمشهد المقدس المحيط به",
+      "year": "2015"
+    },
+    {
+      "id": "1621",
+      "en": "Deer Stone Monuments and Related Bronze Age Sites",
+      "ar": "معالم أحجار الغزلان والمواقع ذات الصلة من العصر البرونزي",
+      "year": "2023"
+    },
+    {
+      "year": "2026",
+      "en": "The Cemetery Complexes of the Xiongnu Nobility",
+      "id": "1759",
+      "ar": "مجمعات مدافن نخبة شعب شيونغنو"
+    }
+  ],
+  "KP": [
+    {
+      "id": "1091",
+      "en": "Complex of Koguryo Tombs",
+      "ar": "مجموعة مقابر الكوغوريو",
+      "year": "2004"
+    },
+    {
+      "id": "1278",
+      "en": "Historic Monuments and Sites in Kaesong",
+      "ar": null,
+      "year": "2013"
+    },
+    {
+      "id": "1642",
+      "en": "Mount Kumgang – Diamond Mountain from the Sea",
+      "ar": "جبل كومغانغ – جبل الألماس من البحر",
+      "year": "2025"
+    }
+  ],
+  "IS": [
+    {
+      "id": "1152",
+      "en": "Þingvellir National Park",
+      "ar": "المنتزه الوطني في ثينغفيلير",
+      "year": "2004"
+    },
+    {
+      "id": "1267",
+      "en": "Surtsey",
+      "ar": "سورتسي",
+      "year": "2008"
+    },
+    {
+      "id": "1604",
+      "en": "Vatnajökull National Park - Dynamic Nature of Fire and Ice",
+      "ar": "حديقة فاتناكوكول الوطنية - الطبيعة الديناميكية للنار والجليد",
+      "year": "2019"
+    }
+  ],
+  "AD": [
+    {
+      "id": "1160",
+      "en": "Madriu-Perafita-Claror Valley",
+      "ar": "وادي مادريو- بيرافيتا- كلارور",
+      "year": "2004"
+    }
+  ],
+  "LC": [
+    {
+      "id": "1161",
+      "en": "Pitons Management Area",
+      "ar": "منطقة إدارة القمم البركانية",
+      "year": "2004"
+    }
+  ],
+  "BA": [
+    {
+      "id": "946",
+      "en": "Old Bridge Area of the Old City of Mostar",
+      "ar": "حيّ الجسر القديم في مدينة موستار القديمة",
+      "year": "2005"
+    },
+    {
+      "id": "1260",
+      "en": "Mehmed Paša Sokolović Bridge in Višegrad",
+      "ar": "جسر محمد باشا سوكولوفيتش في فيشغراد",
+      "year": "2007"
+    },
+    {
+      "id": "1673",
+      "en": "Vjetrenica Cave, Ravno",
+      "ar": "كهف فيترنيتسا، رافنو",
+      "year": "2024"
+    }
+  ],
+  "BH": [
+    {
+      "id": "1192",
+      "en": "Qal’at al-Bahrain – Ancient Harbour and Capital of Dilmun",
+      "ar": "قلعة البحرين- مرفأ قديم وعاصمة دلمون",
+      "year": "2005"
+    },
+    {
+      "id": "1364",
+      "en": "Pearling, Testimony of an Island Economy",
+      "ar": null,
+      "year": "2012"
+    },
+    {
+      "id": "1542",
+      "en": "Dilmun Burial Mounds",
+      "ar": "مدافن دلمون الأثرية",
+      "year": "2019"
+    }
+  ],
+  "MU": [
+    {
+      "id": "1227",
+      "en": "Aapravasi Ghat",
+      "ar": "آبرافاسي غات",
+      "year": "2006"
+    },
+    {
+      "id": "1259",
+      "en": "Le Morne Cultural Landscape",
+      "ar": "مشهد مورن الثقافي",
+      "year": "2008"
+    }
+  ],
+  "GA": [
+    {
+      "id": "1147",
+      "en": "Ecosystem and Relict Cultural Landscape of Lopé-Okanda",
+      "ar": "النظام البيئي والمناظر الطبيعية الثقافية في لوبي",
+      "year": "2007"
+    },
+    {
+      "id": "1653",
+      "en": "Ivindo National Park",
+      "ar": "حديقة آيفيندو الوطنية",
+      "year": "2021"
+    }
+  ],
+  "NA": [
+    {
+      "id": "1255",
+      "en": "Twyfelfontein or /Ui-//aes",
+      "ar": "تويفلفونتين",
+      "year": "2007"
+    },
+    {
+      "id": "1430",
+      "en": "Namib Sand Sea",
+      "ar": null,
+      "year": "2013"
+    }
+  ],
+  "PG": [
+    {
+      "id": "887",
+      "en": "Kuk Early Agricultural Site",
+      "ar": "موقع كوك الزراعي البدائي",
+      "year": "2008"
+    }
+  ],
+  "SM": [
+    {
+      "id": "1245",
+      "en": "San Marino Historic Centre and Mount Titano",
+      "ar": "المركز التاريخي لسانت ماران وجبل تيتانو",
+      "year": "2008"
+    }
+  ],
+  "VU": [
+    {
+      "id": "1280",
+      "en": "Chief Roi Mata’s Domain",
+      "ar": "ملكية الرئيس روا ماتا",
+      "year": "2008"
+    }
+  ],
+  "SA": [
+    {
+      "id": "1293",
+      "en": "Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ)",
+      "ar": "الحجر (مدائن صالح)",
+      "year": "2008"
+    },
+    {
+      "id": "1329",
+      "en": "At-Turaif District in ad-Dir'iyah",
+      "ar": "حي الطريف في الدرعية",
+      "year": "2010"
+    },
+    {
+      "id": "1361",
+      "en": "Historic Jeddah, the Gate to Makkah",
+      "ar": null,
+      "year": "2014"
+    },
+    {
+      "id": "1472",
+      "en": "Rock Art in the Hail Region of Saudi Arabia",
+      "ar": "الفن الصخري في منطقة حائل بالمملكة العربية السعودية",
+      "year": "2015"
+    },
+    {
+      "year": "2018",
+      "en": "Al-Ahsa Oasis, an Evolving Cultural Landscape",
+      "id": "1563",
+      "ar": "واحة الأحساء، منظر ثقافي آخذ بالتغير"
+    },
+    {
+      "year": "2021",
+      "en": "Ḥimā Cultural Area",
+      "id": "1619",
+      "ar": "منطقة حمى الثقافية"
+    },
+    {
+      "year": "2023",
+      "en": "‘Uruq Bani Ma’arid",
+      "id": "1699",
+      "ar": "عروق بني معارض"
+    },
+    {
+      "year": "2024",
+      "en": "The Cultural Landscape of Al-Faw Archaeological Area",
+      "id": "1712",
+      "ar": "المنظر الثقافي لمنطقة الفاو الأثرية (المملكة العربية"
+    }
+  ],
+  "BF": [
+    {
+      "id": "1225",
+      "en": "Ruins of Loropéni",
+      "ar": "أطلال لوروبيني",
+      "year": "2009"
+    },
+    {
+      "id": "1602",
+      "en": "Ancient Ferrous Metallurgy Sites of Burkina Faso",
+      "ar": "مواقع صناعة تعدين الحديد القديمة في بوكينا فاسو",
+      "year": "2019"
+    },
+    {
+      "id": "1713",
+      "en": "Royal Court of Tiébélé",
+      "ar": "البلاط الملكي في تيبيليه",
+      "year": "2024"
+    }
+  ],
+  "KG": [
+    {
+      "id": "1230",
+      "en": "Sulaiman-Too Sacred Mountain",
+      "ar": "سولاميْن ـ تو الجبل المقدس",
+      "year": "2009"
+    }
+  ],
+  "CV": [
+    {
+      "id": "1310",
+      "en": "Cidade Velha, Historic Centre of Ribeira Grande",
+      "ar": "قلعة فيلها، المركزي التاريخي لمدينة ريبيرا غراند",
+      "year": "2009"
+    }
+  ],
+  "TJ": [
+    {
+      "id": "1141",
+      "en": "Proto-urban Site of Sarazm",
+      "ar": "سَرازم",
+      "year": "2010"
+    },
+    {
+      "id": "1252",
+      "en": "Tajik National Park (Mountains of the Pamirs)",
+      "ar": null,
+      "year": "2013"
+    },
+    {
+      "id": "1685",
+      "en": "Tugay forests of the Tigrovaya Balka Nature Reserve",
+      "ar": "غابات توغاي في محمية تيغروفايا بالكا الطبيعية",
+      "year": "2023"
+    },
+    {
+      "id": "1627",
+      "en": "Cultural Heritage Sites of Ancient Khuttal",
+      "ar": "مواقع التراث الثقافي لختال القديمة",
+      "year": "2025"
+    }
+  ],
+  "KI": [
+    {
+      "id": "1325",
+      "en": "Phoenix Islands Protected Area",
+      "ar": "المنطقة المحمية في جزر فينيكس",
+      "year": "2010"
+    }
+  ],
+  "MH": [
+    {
+      "id": "1339",
+      "en": "Bikini Atoll Nuclear Test Site",
+      "ar": "أتول بيكيني، موقع تجارب نووية",
+      "year": "2010"
+    }
+  ],
+  "AE": [
+    {
+      "id": "1343",
+      "en": "Cultural Sites of Al Ain (Hafit, Hili, Bidaa Bint Saud and Oases Areas)",
+      "ar": "مواقع العين الثقافية: حفيت، هيلي، بدع بنت سعود ومناطق الواحات",
+      "year": "2011"
+    },
+    {
+      "id": "1735",
+      "en": "Faya Palaeolandscape",
+      "ar": "جبل الفاية",
+      "year": "2025"
+    },
+    {
+      "id": "1724",
+      "en": "Wadi Wurayah",
+      "ar": "وادي الوريعة",
+      "year": "2026"
+    }
+  ],
+  "BB": [
+    {
+      "id": "1376",
+      "en": "Historic Bridgetown and its Garrison",
+      "ar": "بريدجتاون التاريخية وحاميتها",
+      "year": "2011"
+    }
+  ],
+  "PW": [
+    {
+      "id": "1386",
+      "en": "Rock Islands Southern Lagoon",
+      "ar": null,
+      "year": "2012"
+    }
+  ],
+  "TD": [
+    {
+      "id": "1400",
+      "en": "Lakes of Ounianga",
+      "ar": null,
+      "year": "2012"
+    },
+    {
+      "id": "1475",
+      "en": "Ennedi Massif: Natural and Cultural Landscape",
+      "ar": "جبال الإندي: موقع طبيعي وثقافي",
+      "year": "2016"
+    }
+  ],
+  "PS": [
+    {
+      "id": "1433",
+      "en": "Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route, Bethlehem",
+      "ar": "مهد ولادة يسوع المسيح: كنيسة المهد وطريق الحجاج، بيت لحم",
+      "year": "2012"
+    },
+    {
+      "id": "1492",
+      "en": "Palestine: Land of Olives and Vines – Cultural Landscape of Southern Jerusalem, Battir",
+      "ar": "بلد الزيتون و الكرمة – منظر ثقافي في جنوب القدس, بتير",
+      "year": "2014"
+    },
+    {
+      "id": "1565",
+      "en": "Hebron/Al-Khalil Old Town",
+      "ar": null,
+      "year": "2017"
+    },
+    {
+      "id": "1687",
+      "en": "Ancient Jericho/Tell es-Sultan",
+      "ar": "أريحا القديمة / تل السلطان",
+      "year": "2023"
+    },
+    {
+      "year": "2024",
+      "en": "Saint Hilarion Monastery/ Tell Umm Amer",
+      "id": "1749",
+      "ar": "دير القديس هيلاريون / تل أم عامر"
+    },
+    {
+      "year": "2026",
+      "en": "Sebastia",
+      "id": "1809",
+      "ar": null
+    }
+  ],
+  "FJ": [
+    {
+      "id": "1399",
+      "en": "Levuka Historical Port Town",
+      "ar": null,
+      "year": "2013"
+    }
+  ],
+  "QA": [
+    {
+      "id": "1402",
+      "en": "Al Zubarah Archaeological Site",
+      "ar": null,
+      "year": "2013"
+    }
+  ],
+  "MM": [
+    {
+      "id": "1444",
+      "en": "Pyu Ancient Cities",
+      "ar": null,
+      "year": "2014"
+    },
+    {
+      "id": "1588",
+      "en": "Bagan",
+      "ar": "باغان",
+      "year": "2019"
+    }
+  ],
+  "JM": [
+    {
+      "id": "1356",
+      "en": "Blue and John Crow Mountains",
+      "ar": "الجبال الزرقاء وجبال جون كرو",
+      "year": "2015"
+    },
+    {
+      "id": "1595",
+      "en": "The Archaeological Ensemble of 17th Century Port Royal",
+      "ar": "المجمَّع الأثري لمدينة بورت رويال التي يعود تاريخها إلى القرن السابع عشر",
+      "year": "2025"
+    }
+  ],
+  "SG": [
+    {
+      "id": "1483",
+      "en": "Singapore Botanic Gardens",
+      "ar": "حديقة سنغافورة النباتية",
+      "year": "2015"
+    }
+  ],
+  "AG": [
+    {
+      "id": "1499",
+      "en": "Antigua Naval Dockyard and Related Archaeological Sites",
+      "ar": "حوض بناء السفن في أنتيغوا والمواقع الأثرية المحيطة به",
+      "year": "2016"
+    }
+  ],
+  "FM": [
+    {
+      "id": "1503",
+      "en": "Nan Madol: Ceremonial Centre of Eastern Micronesia",
+      "ar": "نان مادول: موقع احتفالي في ميكرونيزيا الشرقية",
+      "year": "2016"
+    }
+  ],
+  "AO": [
+    {
+      "id": "1511",
+      "en": "Mbanza Kongo, Vestiges of the Capital of the former Kingdom of Kongo",
+      "ar": null,
+      "year": "2017"
+    }
+  ],
+  "ER": [
+    {
+      "id": "1550",
+      "en": "Asmara: A Modernist African City",
+      "ar": "أسمرة: مدينة معاصرة في أفريقيا",
+      "year": "2017"
+    }
+  ],
+  "CG": [
+    {
+      "id": "692",
+      "en": "Forest Massif of Odzala-Kokoua",
+      "ar": "سلسلة غابات أودزالا-كوكوا",
+      "year": "2023"
+    }
+  ],
+  "RW": [
+    {
+      "id": "1586",
+      "en": "Memorial sites of the Genocide: Nyamata, Murambi, Gisozi and Bisesero",
+      "ar": "مواقع ذكرى الإبادة الجماعية: نياماتا ومورامبي وجيسوزي وبيسسيرو",
+      "year": "2023"
+    },
+    {
+      "id": "1697",
+      "en": "Nyungwe National Park",
+      "ar": "حديقة نيونغوي الوطنية",
+      "year": "2023"
+    }
+  ],
+  "GW": [
+    {
+      "id": "1431",
+      "en": "Coastal and Marine Ecosystems of the Bijagós Archipelago – Omatí Minhô",
+      "ar": "النظم الإيكولوجية الساحلية والبحرية لأرخبيل بيجاغوس – أوماتي مينهو",
+      "year": "2025"
+    }
+  ],
+  "SL": [
+    {
+      "id": "1746",
+      "en": "Gola-Tiwai Complex",
+      "ar": "مجمَّع غولا-تيواي",
+      "year": "2025"
+    }
+  ],
+  "ST": [
+    {
+      "id": "1750",
+      "en": "The Roças of Sao Tome and Principe: Colonial Agricultural System and Forced Migration",
+      "ar": "مزارع \"هوساس\" في ساوتومي وبرنسيبي: النظام الزراعي الاستعماري والهجرة القسرية",
+      "year": "2026"
+    }
+  ],
+  "KM": [
+    {
+      "id": "1768",
+      "en": "The Medinas of the Historic Sultanates of the Comoros",
+      "ar": "مدن السلطنات التاريخية في جزر القمر",
+      "year": "2026"
+    }
+  ],
+  "SS": [
+    {
+      "id": "1808",
+      "en": "Boma–Badingilo Migratory Landscape",
+      "ar": "منظر الهجرة في بوما-باندينجيلو",
+      "year": "2026"
+    }
+  ]
+}

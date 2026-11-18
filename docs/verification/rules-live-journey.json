@@ -1,0 +1,72 @@
+{
+  "checkedAt": "2026-10-25T21:31:05.879Z",
+  "durationSeconds": 1.699,
+  "database": "dedicated test database; test user removed after check",
+  "chatbot": "deferred",
+  "services": {
+    "destinations": "mock",
+    "flights": "mock",
+    "hotels": "mock",
+    "places": "google",
+    "routes": "google",
+    "ai": "rules"
+  },
+  "dayCount": 2,
+  "activityCount": 6,
+  "plannerEngine": "rules",
+  "languageModelCalls": 0,
+  "outboundHosts": {
+    "places.googleapis.com": 3,
+    "routes.googleapis.com": 2
+  },
+  "reportPersisted": true,
+  "source": "real Google Places requests; local planning algorithms; flight/hotel fixtures; real Google Routes",
+  "report": {
+    "mode": "bounded",
+    "scope": "full_plan",
+    "tools": {
+      "candidateCount": 42,
+      "additionalPlaceSearches": 0
+    },
+    "checks": {
+      "repeatedVisits": 0,
+      "routeCheckedDays": 2,
+      "emptyVisitableDays": 0,
+      "routeUncheckedDays": 0,
+      "unknownActivityCount": 6,
+      "knownCostsWithinBudget": true,
+      "routeTrimmedActivities": 0,
+      "supportedInterestCoverage": true
+    },
+    "issues": [],
+    "status": "validated",
+    "version": 2,
+    "attempts": [
+      {
+        "score": 26,
+        "valid": true,
+        "issues": [],
+        "attempt": 1
+      }
+    ],
+    "maxDrafts": 3,
+    "stopReason": "goals_met",
+    "limitations": [
+      "Unknown activity fees remain unknown",
+      "Validated schedules do not guarantee real-world availability"
+    ],
+    "plannerProvider": "rules",
+    "selectedHotelId": "mock-hotel-1",
+    "selectedFlightId": "mock-flight-1",
+    "unsupportedInterests": []
+  },
+  "warnings": [
+    "ACTIVITY_DURATIONS_ARE_ESTIMATES",
+    "DEVELOPMENT_FIXTURES",
+    "PRICES_ARE_SNAPSHOTS",
+    "PROVIDER_LINKS_OPEN_SEARCH",
+    "TRANSFER_TIMES_ARE_ESTIMATES",
+    "ACTIVITY_PRICES_UNKNOWN",
+    "OPENING_HOURS_UNVERIFIED"
+  ]
+}
