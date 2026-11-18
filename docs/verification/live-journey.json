@@ -1,0 +1,60 @@
+{
+  "checkedAt": "2026-10-25T20:41:07.385Z",
+  "durationSeconds": 65.238,
+  "database": "dedicated test database; test user removed after check",
+  "chatbot": "deferred",
+  "services": {
+    "destinations": "mock",
+    "flights": "mock",
+    "hotels": "mock",
+    "places": "google",
+    "routes": "google",
+    "ai": "ollama"
+  },
+  "dayCount": 2,
+  "activityCount": 6,
+  "reportPersisted": true,
+  "source": "real Google Places requests; local model inference; flight/hotel fixtures; real Google Routes",
+  "report": {
+    "mode": "bounded",
+    "scope": "full_plan",
+    "checks": {
+      "repeatedVisits": 0,
+      "routeCheckedDays": 2,
+      "emptyVisitableDays": 0,
+      "routeUncheckedDays": 0,
+      "unknownActivityCount": 6,
+      "knownCostsWithinBudget": true,
+      "supportedInterestCoverage": true
+    },
+    "issues": [],
+    "status": "validated",
+    "version": 1,
+    "attempts": [
+      {
+        "score": 26,
+        "valid": true,
+        "issues": [],
+        "attempt": 1
+      }
+    ],
+    "maxDrafts": 3,
+    "stopReason": "goals_met",
+    "limitations": [
+      "Unknown activity fees remain unknown",
+      "Validated schedules do not guarantee real-world availability"
+    ],
+    "modelProvider": "ollama",
+    "selectedHotelId": "mock-hotel-1",
+    "selectedFlightId": "mock-flight-1",
+    "unsupportedInterests": []
+  },
+  "warnings": [
+    "DEVELOPMENT_FIXTURES",
+    "PRICES_ARE_SNAPSHOTS",
+    "PROVIDER_LINKS_OPEN_SEARCH",
+    "TRANSFER_TIMES_ARE_ESTIMATES",
+    "ACTIVITY_PRICES_UNKNOWN",
+    "OPENING_HOURS_UNVERIFIED"
+  ]
+}

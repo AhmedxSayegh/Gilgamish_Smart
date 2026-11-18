@@ -1,0 +1,22 @@
+{
+  "verifiedAt": "2026-10-29T20:48:19.091Z",
+  "result": "passed",
+  "provider": "serpapi",
+  "engine": "google_hotels",
+  "input": {
+    "destination": "Istanbul",
+    "destinationCode": "IST",
+    "startDate": "2026-11-28",
+    "endDate": "2026-12-02",
+    "adults": 2,
+    "children": 0,
+    "currency": "SAR",
+    "language": "en"
+  },
+  "hotelCount": 20,
+  "sellerPriceCount": 55,
+  "externalLinkCount": 56,
+  "upstreamCalls": 2,
+  "keySource": "backend/.env only",
+  "bookingPerformed": false
+}

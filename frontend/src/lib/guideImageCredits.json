@@ -1,0 +1,37 @@
+{
+  "MED": {
+    "src": "/assets/guides/med.jpg",
+    "author": "GusJuned",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mosque_of_Prophet_Muhammad_SAW_-_panoramio.jpg"
+  },
+  "QCA": {
+    "src": "/assets/guides/qca.jpg",
+    "author": "Bjelica",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaaba_at_night_in_2024.jpg"
+  },
+  "JED": {
+    "src": "/assets/guides/jed.jpg",
+    "author": "Basheer Olakara",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:King_Fahd%27s_Fountain_Jeddah_Fountain_(5129797428).jpg"
+  },
+  "AMM": {
+    "src": "/assets/guides/amm.jpg",
+    "author": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Amman.jpg"
+  },
+  "RUH": {
+    "src": "/assets/guides/ruh.jpg",
+    "author": "B.alotaby",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Riyadh_Skyline.jpg"
+  }
+}

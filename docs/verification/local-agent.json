@@ -1,0 +1,42 @@
+{
+  "checkedAt": "2026-10-25T20:34:59.391Z",
+  "model": "qwen3:4b-instruct",
+  "durationSeconds": 68.882,
+  "data": "explicit development fixtures",
+  "chatbot": "deferred",
+  "report": {
+    "version": 1,
+    "mode": "bounded",
+    "modelProvider": "ollama",
+    "status": "validated",
+    "stopReason": "goals_met",
+    "maxDrafts": 3,
+    "attempts": [
+      {
+        "attempt": 1,
+        "valid": true,
+        "score": 43,
+        "issues": []
+      }
+    ],
+    "selectedFlightId": "mock-flight-1",
+    "selectedHotelId": "mock-hotel-1",
+    "checks": {
+      "supportedInterestCoverage": true,
+      "knownCostsWithinBudget": true,
+      "unknownActivityCount": 0,
+      "emptyVisitableDays": 0,
+      "repeatedVisits": 0,
+      "routeCheckedDays": 0,
+      "routeUncheckedDays": 1
+    },
+    "issues": [],
+    "unsupportedInterests": [],
+    "limitations": [
+      "Unknown activity fees remain unknown",
+      "Validated schedules do not guarantee real-world availability"
+    ]
+  },
+  "dayCount": 2,
+  "activityCount": 3
+}

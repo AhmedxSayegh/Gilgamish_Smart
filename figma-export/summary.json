@@ -1,0 +1,11 @@
+{
+  "screens": 94,
+  "layers": 10773,
+  "groups": [
+    "Desktop EN",
+    "Desktop AR",
+    "Mobile EN",
+    "Mobile AR"
+  ],
+  "assets": 41
+}

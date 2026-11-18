@@ -1,0 +1,31 @@
+{
+  "name": "gilgamish-smart",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
+  "scripts": {
+    "providers:check": "node scripts/check-providers.mjs",
+    "agent:check": "node scripts/check-ollama-experiment.mjs",
+    "dev": "node scripts/dev.mjs",
+    "dev:frontend": "npm run dev --workspace frontend",
+    "build": "npm run build --workspace frontend",
+    "preview": "npm run preview --workspace frontend",
+    "dev:backend": "npm run dev --workspace backend",
+    "start": "node scripts/serve.mjs",
+    "start:api": "npm start --workspace backend",
+    "test:e2e": "playwright test",
+    "db:migrate": "npm run db:migrate --workspace backend",
+    "test": "npm test --workspace backend",
+    "test:mysql": "npm run test:mysql --workspace backend"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "prettier": "^3.8.3"
+  }
+}

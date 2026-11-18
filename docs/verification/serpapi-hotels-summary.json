@@ -1,0 +1,121 @@
+{
+  "verifiedAt": "2026-10-29 20:59:01 UTC",
+  "timezone": "Asia/Damascus",
+  "project": "D:\\Codex-Sarh-Technology\\Gilgamish-Smart",
+  "deployed": false,
+  "bookingPerformed": false,
+  "providers": {
+    "hotels": "serpapi",
+    "flights": "ignav",
+    "keySource": "backend/.env parsed contents only"
+  },
+  "tests": {
+    "baselineBackend": {
+      "total": 75,
+      "passed": 74,
+      "failed": 1
+    },
+    "finalBackend": {
+      "total": 89,
+      "passed": 88,
+      "failed": 1
+    },
+    "hotelUnitApi": {
+      "total": 14,
+      "passed": 14
+    },
+    "mysqlExisting": {
+      "total": 1,
+      "passed": 1,
+      "database": "gilgamish_test_agent"
+    },
+    "mysqlHotels": {
+      "total": 1,
+      "passed": 1,
+      "database": "gilgamish_test_agent",
+      "testUsersRemoved": true
+    },
+    "browser": {
+      "distinctTests": 7,
+      "passed": 7,
+      "note": "One initial city-guide Edge launch failure passed on targeted retry; final hotel/IGNAV run 3/3."
+    },
+    "frontendBuild": {
+      "passed": true,
+      "modules": 71
+    },
+    "frontendSecretScan": {
+      "textFiles": 30,
+      "keyLeaks": 0
+    },
+    "preExistingFailure": {
+      "file": "backend/tests/ruleBasedPlanner.test.js",
+      "line": 33,
+      "reason": "Test expects AI_PROVIDER=ollama to be rejected; original configuration allows it."
+    }
+  },
+  "liveEvidence": "serpapi-hotels-live.json",
+  "liveCalls": 2,
+  "comparison": {
+    "initialFiles": 138,
+    "method": "SHA-256; directory is not a Git checkout",
+    "ignavFiles": [
+      {
+        "path": "backend\\src\\services\\ignavService.js",
+        "unchanged": true,
+        "sha256": "8053E4A1D6A7353CD2741AA04E9124DD5EC06C925C4DE45A03F685B93ED60926"
+      },
+      {
+        "path": "frontend\\src\\components\\FlightBookingLink.jsx",
+        "unchanged": true,
+        "sha256": "06106A8548135D62BD68C859E967B60FD76722CBA404BFD74278E0C92A4403F0"
+      },
+      {
+        "path": "backend\\tests\\ignav-booking.test.js",
+        "unchanged": true,
+        "sha256": "2719D313595A7AF05CA875EDC962FEEF688E2FA40C48A6C5C9E477259C324842"
+      },
+      {
+        "path": "tests\\e2e\\flight-booking.spec.js",
+        "unchanged": true,
+        "sha256": "F72964475B60AC51E6840623267AF93019651F7481FC8781907CACF65F068914"
+      }
+    ]
+  },
+  "modified": [
+    "backend\\src\\app.js",
+    "backend\\src\\config\\env.js",
+    "backend\\src\\middleware\\errorHandler.js",
+    "backend\\src\\providers\\index.js",
+    "backend\\src\\routes\\searchRoutes.js",
+    "frontend\\src\\styles.css",
+    "frontend\\src\\lib\\locales.js",
+    "frontend\\src\\pages\\Plan.jsx",
+    "frontend\\src\\pages\\Planner.jsx",
+    "docs\\API.md",
+    "docs\\PROVIDERS.md",
+    "backend\\.env.example",
+    "backend\\.env",
+    "PROJECT-STATE.md",
+    "README.md"
+  ],
+  "added": [
+    "backend\\src\\routes\\hotelRoutes.js",
+    "backend\\src\\services\\serpapiHotelsService.js",
+    "backend\\tests\\serpapiHotels.mysql.integration.js",
+    "backend\\tests\\serpapiHotels.test.js",
+    "frontend\\src\\components\\HotelBookingLink.jsx",
+    "tests\\e2e\\hotel-booking.spec.js",
+    "docs\\SERPAPI-HOTELS.md",
+    "docs\\verification\\serpapi-hotels-live.json",
+    "scripts\\check-serpapi-hotels.mjs",
+    "docs\\SERPAPI-IMPLEMENTATION-REPORT.md",
+    "docs\\verification\\serpapi-hotels-summary.json"
+  ],
+  "limitations": [
+    "One room, adults only; child ages are not collected by the trip contract.",
+    "Rate counters are in memory per process and reset on restart.",
+    "Live provider check was one Istanbul stay; full live multi-provider itinerary was not executed.",
+    "An existing backend must be restarted to read the new hotel provider setting; no existing app process was restarted."
+  ]
+}
